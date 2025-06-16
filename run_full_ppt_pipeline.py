@@ -30,6 +30,21 @@ def main():
     company_type = input("Is this a 'competitor' or 'potential customer'? (type exactly): ").strip().lower()
     assert company_type in ["competitor", "potential customer"], "Type must be 'competitor' or 'potential customer'"
 
+    # Ask for number of articles
+    while True:
+        num_articles_str = input("How many articles do you want to extract? (default: 10): ").strip()
+        if not num_articles_str:
+            max_articles = 10
+            break
+        try:
+            max_articles = int(num_articles_str)
+            if max_articles <= 0:
+                print("Please enter a positive integer.")
+                continue
+            break
+        except ValueError:
+            print("Please enter a valid integer.")
+
     # Normalize company_type for downstream modules
     company_type_for_module2 = "competitor" if company_type == "competitor" else "client"
 
@@ -39,7 +54,7 @@ def main():
     # Step 1: News Extraction
     print("\n[1/4] Extracting news articles...")
     try:
-        articles = extract_news(company_name, max_articles=10, business_only=True)
+        articles = extract_news(company_name, max_articles=max_articles, business_only=True)
         news_json = os.path.join(output_base, "module1_news.json")
         save_articles_to_json(articles, news_json)
         print(f"Saved news articles to {news_json}")
