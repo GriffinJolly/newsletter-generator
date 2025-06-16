@@ -1,0 +1,9 @@
+feedparser
+transformers
+requests
+tqdm
+python-pptx
+ollama
+argparse
+certifi
+torch
