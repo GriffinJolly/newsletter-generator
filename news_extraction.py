@@ -8,13 +8,36 @@ def extract_news(company_name, max_articles=10, business_only=True):
     rss_url = f"https://news.google.com/rss/search?q={query}&hl=en-US&gl=US&ceid=US:en"
 
     feed = feedparser.parse(rss_url)
-    articles = []
+    all_articles = []
+
+    # Define keywords for each required category
+    category_keywords = {
+        "Strategy & Management": [
+            "strategy", "expansion", "reorganization", "leadership", "ceo", "executive", "management", "restructuring", "board", "appointment", "promotion", "succession"
+        ],
+        "Financials": [
+            "earnings", "results", "revenue", "profit", "growth", "guidance", "forecast", "financial", "loss", "quarter", "fiscal", "report"
+        ],
+        "Investments, M&A & Partnerships": [
+            "merger", "acquisition", "divestiture", "joint venture", "strategic alliance", "investment", "m&a", "partnership", "buyout", "stake", "deal"
+        ],
+        "Logistics & Operations": [
+            "distribution", "manufacturing", "supply chain", "disruption", "supplier", "operations", "plant", "factory", "network", "logistics", "production", "facility"
+        ],
+        "Commercials": [
+            "launch", "product", "service", "dtc", "direct to consumer", "e-commerce", "omnichannel", "initiative", "rollout", "offering", "market", "release"
+        ],
+        "ESG/Sustainability": [
+            "environment", "emissions", "green", "sustainability", "esg", "carbon", "climate", "reporting", "commitment", "renewable", "responsibility", "sustainable"
+        ]
+    }
+
+    # Track articles by category
+    categorized_articles = {cat: [] for cat in category_keywords}
+    used_links = set()
 
     business_keywords = [
-        "revenue", "profit", "earnings", "loss", "forecast", "guidance", "financial", "strategy", "expansion",
-        "layoffs", "hiring", "restructuring", "merger", "acquisition", "joint venture", "investment",
-        "launch", "product", "supply chain", "manufacturing", "distribution", "logistics", "ceo", "executive",
-        "partnership", "divest", "green", "emissions", "sustainability", "esg", "carbon", "environment", "ipo"
+        kw for kws in category_keywords.values() for kw in kws
     ]
 
     for entry in feed.entries:
@@ -48,12 +71,34 @@ def extract_news(company_name, max_articles=10, business_only=True):
             "source": entry.source.title if 'source' in entry else "Unknown",
             "summary": summary
         }
-        articles.append(article)
+        all_articles.append(article)
 
-        if len(articles) >= max_articles:
-            break
+        # Assign article to each relevant category
+        for cat, keywords in category_keywords.items():
+            if any(kw in text_to_check for kw in keywords):
+                if entry.link not in used_links:
+                    categorized_articles[cat].append(article)
 
-    return articles
+    # For each category, pick at least one article (if available), prefer unique articles
+    selected_articles = []
+    selected_links = set()
+    for cat, articles in categorized_articles.items():
+        for article in articles:
+            if article["link"] not in selected_links:
+                selected_articles.append({**article, "category": cat})
+                selected_links.add(article["link"])
+                break  # Only one per category for now
+
+    # If less than max_articles, fill with remaining unique articles
+    if len(selected_articles) < max_articles:
+        for article in all_articles:
+            if article["link"] not in selected_links:
+                selected_articles.append(article)
+                selected_links.add(article["link"])
+            if len(selected_articles) >= max_articles:
+                break
+
+    return selected_articles[:max_articles]
 
 def save_articles_to_json(articles, output_path):
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
