@@ -104,7 +104,7 @@ def save_articles_to_json(articles, output_path):
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(articles, f, indent=2, ensure_ascii=False)
-    print(f"\n💾 Articles saved to: {output_path}")
+    print(f"\nArticles saved to: {output_path}")
 
 def display_articles(articles):
     for i, article in enumerate(articles, 1):
@@ -122,15 +122,15 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    print(f"\n🔍 Searching for news about: {args.company}")
+    print(f"\nSearching for news about: {args.company}")
     news = extract_news(args.company, max_articles=args.max, business_only=not args.all)
 
     if news:
-        print(f"\n📡 Found {len(news)} relevant articles:")
+        print(f"\nFound {len(news)} relevant articles:")
         display_articles(news)
 
         # Save output to data/news_articles.json
         output_file = "data/news_articles.json"
         save_articles_to_json(news, output_file)
     else:
-        print("❌ No relevant articles found.")
+        print("No relevant articles found.")

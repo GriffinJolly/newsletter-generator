@@ -6,7 +6,6 @@ from content_extraction import process_articles as summarize_articles
 from module3_categorization import process_articles as categorize_articles
 from module4_ppt_generator import create_ppt_for_company, clean_filename
 
-
 import requests
 
 def check_ollama_server(url="http://localhost:11434"):
@@ -23,7 +22,7 @@ def main():
     print("\n=== Automated News-to-PPT Pipeline ===\n")
     # Ollama server check
     if not check_ollama_server():
-        print("\u274c Ollama server is not running or not reachable at http://localhost:11434. Please start it with 'ollama serve' and try again.")
+        print("Ollama server is not running or not reachable at http://localhost:11434. Please start it with 'ollama serve' and try again.")
         sys.exit(1)
 
     company_name = input("Enter the company name: ").strip()
@@ -59,7 +58,7 @@ def main():
         save_articles_to_json(articles, news_json)
         print(f"Saved news articles to {news_json}")
     except Exception as e:
-        print(f"\u274c Error during news extraction: {e}")
+        print(f"Error during news extraction: {e}")
         sys.exit(1)
 
     # Step 2: Content Extraction (Summarization)
@@ -69,10 +68,10 @@ def main():
         summarize_articles(news_json, summarized_json, company_type_for_module2)
         print(f"Saved summaries to {summarized_json}")
     except UnicodeDecodeError as ude:
-        print(f"\u274c Unicode error during summarization: {ude}")
+        print(f"Unicode error during summarization: {ude}")
         sys.exit(1)
     except Exception as e:
-        print(f"\u274c Error during summarization: {e}")
+        print(f"Error during summarization: {e}")
         sys.exit(1)
 
     # Step 3: Categorization
@@ -82,10 +81,10 @@ def main():
         categorize_articles(summarized_json, categorized_json)
         print(f"Saved categorized articles to {categorized_json}")
     except UnicodeDecodeError as ude:
-        print(f"\u274c Unicode error during categorization: {ude}")
+        print(f"Unicode error during categorization: {ude}")
         sys.exit(1)
     except Exception as e:
-        print(f"\u274c Error during categorization: {e}")
+        print(f"Error during categorization: {e}")
         sys.exit(1)
 
     # Step 4: PPT Generation
@@ -98,14 +97,13 @@ def main():
         ppt_filename = f"{clean_filename(company_name)}_{company_type.replace(' ', '_')}.pptx"
         ppt_path = os.path.join(ppt_dir, ppt_filename)
         create_ppt_for_company(company_name, final_articles, ppt_dir)
-        print(f"\n\u2705 PPT generated: {os.path.abspath(ppt_path)}\n")
+        print(f"\nPPT generated: {os.path.abspath(ppt_path)}\n")
     except UnicodeEncodeError as uee:
-        print(f"\u274c Unicode error during PPT generation: {uee}")
+        print(f"Unicode error during PPT generation: {uee}")
         sys.exit(1)
     except Exception as e:
-        print(f"\u274c Error during PPT generation: {e}")
+        print(f"Error during PPT generation: {e}")
         sys.exit(1)
 
 if __name__ == "__main__":
     main()
-

@@ -38,7 +38,7 @@ def process_articles(input_path, output_path, company_type):
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(processed, f, indent=2)
 
-    print(f"\n✅ Processed {len(processed)} articles saved to: {output_path}")
+    print(f"\nProcessed {len(processed)} articles saved to: {output_path}")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Summarize news articles and add company type.")
@@ -52,6 +52,6 @@ if __name__ == "__main__":
     output_path = Path(args.output)
 
     if not input_path.exists():
-        print(f"❌ Input file not found: {input_path}")
+        print(f"Input file not found: {input_path}")
     else:
         process_articles(input_path, output_path, args.type)

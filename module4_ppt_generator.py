@@ -43,7 +43,7 @@ def add_gradient_background(slide, color1=(240, 248, 255), color2=(176, 196, 222
         fill.fore_color.rgb = RGBColor(*color1)
     except Exception as e:
         # Fallback to simple solid background if gradient fails
-        print(f"⚠️ Warning: Could not apply gradient background, using solid color instead")
+        print(f"Warning: Could not apply gradient background, using solid color instead")
 
 def create_summary_slide(prs, company_name, articles):
     """Create an executive summary slide with visualizations"""
@@ -55,7 +55,7 @@ def create_summary_slide(prs, company_name, articles):
     title_box = slide.shapes.add_textbox(Inches(0.5), Inches(0.3), Inches(9), Inches(1))
     title_frame = title_box.text_frame
     title_para = title_frame.paragraphs[0]
-    title_para.text = "📊 Executive Summary"
+    title_para.text = "Executive Summary"
     title_para.font.size = Pt(28)
     title_para.font.bold = True
     title_para.font.color.rgb = RGBColor(25, 25, 112)  # Midnight blue
@@ -76,8 +76,8 @@ def create_summary_slide(prs, company_name, articles):
     stats = [
         ("📰 Total Articles", len(articles)),
         ("📅 Date Range", date_range),
-        ("📊 Categories", len(set(article.get('category', 'News') for article in articles))),
-        ("🏢 Sources", len(set(article.get('source', 'Unknown') for article in articles)))
+        ("Categories", len(set(article.get('category', 'News') for article in articles))),
+        ("Sources", len(set(article.get('source', 'Unknown') for article in articles)))
     ]
     
     # Create stat boxes in a 2x2 grid
@@ -238,12 +238,12 @@ def create_ppt_for_company(company_name, articles, output_dir):
     title = title_slide.shapes.title
     subtitle = title_slide.placeholders[1]
     
-    title.text = f"🏢 {company_name} News Report"
+    title.text = f"{company_name} News Report"
     title.text_frame.paragraphs[0].font.size = Pt(36)
     title.text_frame.paragraphs[0].font.bold = True
     title.text_frame.paragraphs[0].font.color.rgb = primary_color
     
-    subtitle.text = f"📊 Generated on {datetime.today().strftime('%B %d, %Y')}\n📰 {len(articles)} Articles Analyzed\n🔍 Comprehensive Media Coverage Analysis"
+    subtitle.text = f"Generated on {datetime.today().strftime('%B %d, %Y')}\n📰 {len(articles)} Articles Analyzed\n🔍 Comprehensive Media Coverage Analysis"
     subtitle.text_frame.paragraphs[0].font.size = Pt(18)
     subtitle.text_frame.paragraphs[0].font.color.rgb = secondary_color
     
@@ -349,7 +349,7 @@ def create_ppt_for_company(company_name, articles, output_dir):
     insights_frame.margin_left = Inches(0.3)
     
     insights = [
-        f"📊 Analyzed {len(articles)} articles across multiple categories",
+        f"Analyzed {len(articles)} articles across multiple categories",
         f"🗓️ Coverage spans from recent publications to historical data",
         f"📰 Sources include {len(set(article.get('source', 'Unknown') for article in articles))} different publications",
         f"🎯 Comprehensive view of {company_name}'s media presence"
@@ -367,15 +367,15 @@ def create_ppt_for_company(company_name, articles, output_dir):
     
     try:
         prs.save(output_path)
-        print(f"✅ Successfully saved PowerPoint report for {company_name}")
-        print(f"📁 Location: {output_path}")
-        print(f"📊 Total articles: {len(articles)}")
-        print(f"📄 Total slides: {len(prs.slides)} (including title slide)")
+        print(f"Successfully saved PowerPoint report for {company_name}")
+        print(f"Location: {output_path}")
+        print(f"Total articles: {len(articles)}")
+        print(f"Total slides: {len(prs.slides)} (including title slide)")
     except PermissionError:
-        print(f"❌ Error: Could not save {output_path}")
-        print("💡 Please close any open PowerPoint files and try again")
+        print(f"Error: Could not save {output_path}")
+        print("Please close any open PowerPoint files and try again")
     except Exception as e:
-        print(f"❌ Unexpected error: {str(e)}")
+        print(f"Unexpected error: {str(e)}")
 
 def generate_reports(json_file_path, output_dir="output_ppts"):
     """Generate consolidated report for Slaughter and May"""
@@ -384,12 +384,12 @@ def generate_reports(json_file_path, output_dir="output_ppts"):
     try:
         with open(json_file_path, "r", encoding="utf-8") as f:
             articles = json.load(f)
-        print(f"📖 Loaded {len(articles)} articles from {json_file_path}")
+        print(f"Loaded {len(articles)} articles from {json_file_path}")
     except FileNotFoundError:
-        print(f"❌ Error: Could not find file {json_file_path}")
+        print(f"Error: Could not find file {json_file_path}")
         return
     except json.JSONDecodeError:
-        print(f"❌ Error: Invalid JSON in {json_file_path}")
+        print(f"Error: Invalid JSON in {json_file_path}")
         return
 
     # Group articles by company
@@ -398,14 +398,14 @@ def generate_reports(json_file_path, output_dir="output_ppts"):
         company = extract_company_name(article)
         grouped_articles[company].append(article)
 
-    print(f"🏢 Found companies: {list(grouped_articles.keys())}")
+    print(f"Found companies: {list(grouped_articles.keys())}")
     
     # Create PPT for each company
     for company, company_articles in grouped_articles.items():
-        print(f"\n🔄 Processing {company}...")
+        print(f"\nProcessing {company}...")
         create_ppt_for_company(company, company_articles, output_dir)
 
-    print(f"\n✨ Report generation complete!")
+    print(f"\nReport generation complete!")
 
 # Alternative function if you want to force all articles into one company
 def generate_single_company_report(json_file_path, company_name="Slaughter and May", output_dir="output_ppts"):
@@ -415,17 +415,17 @@ def generate_single_company_report(json_file_path, company_name="Slaughter and M
     try:
         with open(json_file_path, "r", encoding="utf-8") as f:
             articles = json.load(f)
-        print(f"📖 Loaded {len(articles)} articles from {json_file_path}")
+        print(f"Loaded {len(articles)} articles from {json_file_path}")
     except FileNotFoundError:
-        print(f"❌ Error: Could not find file {json_file_path}")
+        print(f"Error: Could not find file {json_file_path}")
         return
     except json.JSONDecodeError:
-        print(f"❌ Error: Invalid JSON in {json_file_path}")
+        print(f"Error: Invalid JSON in {json_file_path}")
         return
 
-    print(f"🔄 Creating consolidated report for {company_name}...")
+    print(f"Creating consolidated report for {company_name}...")
     create_ppt_for_company(company_name, articles, output_dir)
-    print(f"✨ Single company report generation complete!")
+    print(f"Single company report generation complete!")
 
 # Run this script
 if __name__ == "__main__":

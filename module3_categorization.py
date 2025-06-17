@@ -33,11 +33,11 @@ def process_articles(input_path, output_path, model="mistral"):
 
     for idx, article in enumerate(tqdm(articles, desc="Classifying summaries")):
         try:
-            print(f"\n🔍 Article {idx + 1}/{len(articles)}: {article['title']}")
+            print(f"\nArticle {idx + 1}/{len(articles)}: {article['title']}")
             category = categorize_summary(article['summary'], model=model)
-            print(f"📌 Assigned Category: {category}")
+            print(f"Assigned Category: {category}")
         except Exception as e:
-            print(f"❌ Error processing article {idx + 1}: {e}")
+            print(f"Error processing article {idx + 1}: {e}")
             category = "Uncategorized"
 
         article['category'] = category
@@ -45,7 +45,7 @@ def process_articles(input_path, output_path, model="mistral"):
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(articles, f, indent=2)
 
-    print(f"\n✅ Categorized {len(articles)} articles. Output saved to: {output_path}")
+    print(f"\nCategorized {len(articles)} articles. Output saved to: {output_path}")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Categorize summarized articles into business themes.")
@@ -59,6 +59,6 @@ if __name__ == "__main__":
     output_path = Path(args.output)
 
     if not input_path.exists():
-        print(f"❌ Input file not found: {input_path}")
+        print(f"Input file not found: {input_path}")
     else:
         process_articles(input_path, output_path, model=args.model)
