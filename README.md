@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ollama serve
 ```
 
-### 2. Run the Pipeline
+### 2. Run the Pipeline (CLI)
 ```bash
 python run_full_ppt_pipeline.py
 ```
@@ -38,9 +38,20 @@ The script will:
 3. Categorize news into business themes (requires Ollama server)
 4. Generate a PowerPoint (.pptx) report in `outputs/full_pipeline/<CompanyName>/ppt/`
 
+### 3. Run the GUI (Recommended)
+A modern, browser-based interface is available using Streamlit:
+```bash
+pip install streamlit  # if not already installed
+streamlit run app_streamlit.py
+```
+- Fill in the company name, type, and article count in the browser UI.
+- Click "Run Pipeline 🚀" and download the generated PPT when ready.
+- No console Unicode errors—fully robust and user-friendly!
+
 ## Project Structure
 ```
 newsletter-generator/
+├── app_streamlit.py              # Streamlit GUI for the pipeline
 ├── content_extraction.py         # Module 2: Summarization
 ├── module3_categorization.py     # Module 3: Categorization (Ollama LLM)
 ├── module4_ppt_generator.py      # Module 4: PPT generation
@@ -55,10 +66,15 @@ newsletter-generator/
 - Python 3.8+
 - [Ollama](https://ollama.com/) (for local LLM API, e.g., mistral)
 - Python packages in `requirements.txt` (transformers, pptx, requests, tqdm, etc.)
+- For the GUI: `streamlit` (install with `pip install streamlit`)
 
 ## Customization
 - You can adjust the number of news articles, business keywords, or themes by editing the respective modules.
 - To use a different LLM model, update the model name in `module3_categorization.py`.
+
+## Troubleshooting Unicode/Encoding Errors
+- All CLI print statements are now ASCII-only. If you see encoding errors, update your terminal to use UTF-8 or use the Streamlit GUI (which avoids all console encoding issues).
+- If you previously encountered errors like `UnicodeEncodeError: 'charmap' codec can't encode character ...`, simply update your codebase and re-run. All emojis have been removed from print output.
 
 ## License
 MIT
