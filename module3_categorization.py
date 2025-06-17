@@ -9,12 +9,12 @@ ollama_client = Client(host='http://localhost:11434')
 
 PROMPT_TEMPLATE = """
 You are an expert business analyst. Categorize the following news summary into one of these six business themes:
-1. Strategy and Management
-2. Financials
-3. Investments, M&A and Partnerships
-4. Logistics and Operations
-5. Commercials
-6. ESG and Sustainability
+Strategy and Management
+Financials
+Investments, M&A and Partnerships
+Logistics and Operations
+Commercials
+ESG and Sustainability
 
 News Summary:
 "{summary}"
