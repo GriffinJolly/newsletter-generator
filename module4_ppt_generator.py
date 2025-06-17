@@ -34,6 +34,131 @@ def extract_company_name(article):
     
     return "Unknown Company"
 
+def analyze_content_themes(articles):
+    """Analyze articles to extract key themes and topics"""
+    themes = defaultdict(int)
+    sentiment_keywords = {
+        'positive': ['success', 'growth', 'expansion', 'award', 'wins', 'appointed', 'promotion', 'innovative', 'leading', 'excellence'],
+        'negative': ['challenge', 'decline', 'issue', 'problem', 'concern', 'risk', 'loss', 'departure', 'difficult'],
+        'neutral': ['announcement', 'change', 'update', 'move', 'development', 'report']
+    }
+    
+    sentiment_scores = {'positive': 0, 'negative': 0, 'neutral': 0}
+    
+    for article in articles:
+        text = (article.get('title', '') + ' ' + article.get('summary', '')).lower()
+        
+        # Count sentiment indicators
+        for sentiment, keywords in sentiment_keywords.items():
+            for keyword in keywords:
+                if keyword in text:
+                    sentiment_scores[sentiment] += 1
+        
+        # Extract potential themes (simple keyword extraction)
+        common_legal_terms = ['merger', 'acquisition', 'deal', 'transaction', 'advisory', 'counsel', 'litigation', 
+                             'compliance', 'regulation', 'partnership', 'client', 'finance', 'corporate', 'banking']
+        
+        for term in common_legal_terms:
+            if term in text:
+                themes[term] += 1
+    
+    return themes, sentiment_scores
+
+def calculate_media_metrics(articles):
+    """Calculate various media coverage metrics"""
+    sources = [article.get('source', 'Unknown') for article in articles]
+    source_diversity = len(set(sources))
+    
+    # Calculate publication frequency
+    dates = [article.get('published', '') for article in articles if article.get('published', '')]
+    date_spread = 0
+    if len(dates) > 1:
+        try:
+            sorted_dates = sorted(dates)
+            # Simple date spread calculation (could be enhanced)
+            date_spread = len(set(date[:7] for date in sorted_dates))  # Count unique months
+        except:
+            pass
+    
+    categories = [article.get('category', 'News') for article in articles]
+    category_distribution = Counter(categories)
+    
+    return {
+        'source_diversity': source_diversity,
+        'date_spread_months': date_spread,
+        'category_distribution': category_distribution,
+        'total_sources': sources
+    }
+
+def generate_strategic_insights(company_name, articles, themes, sentiment_scores, metrics):
+    """Generate strategic insights based on analysis"""
+    insights = []
+    recommendations = []
+    
+    # Media presence analysis
+    total_articles = len(articles)
+    if total_articles > 50:
+        insights.append(f"🎯 Strong Media Presence: {company_name} maintains high visibility with {total_articles} articles, indicating active market engagement")
+    elif total_articles > 20:
+        insights.append(f"📊 Moderate Media Coverage: {total_articles} articles suggest steady but focused media attention")
+    else:
+        insights.append(f"📈 Emerging Coverage: {total_articles} articles indicate opportunity for increased media presence")
+    
+    # Source diversity analysis
+    source_diversity = metrics['source_diversity']
+    if source_diversity > 10:
+        insights.append(f"🌐 Excellent Source Diversification: Coverage spans {source_diversity} different publications, ensuring broad reach")
+    elif source_diversity > 5:
+        insights.append(f"📰 Good Media Reach: Featured across {source_diversity} publications with room for expansion")
+    else:
+        insights.append(f"🎯 Concentrated Coverage: Limited to {source_diversity} sources - opportunity for broader media engagement")
+    
+    # Sentiment analysis
+    total_sentiment = sum(sentiment_scores.values())
+    if total_sentiment > 0:
+        positive_ratio = sentiment_scores['positive'] / total_sentiment
+        if positive_ratio > 0.6:
+            insights.append("✅ Predominantly Positive Sentiment: Media coverage reflects favorably on company activities and reputation")
+        elif positive_ratio > 0.4:
+            insights.append("⚖️ Balanced Media Tone: Mix of positive and neutral coverage suggests authentic reporting")
+        else:
+            insights.append("⚠️ Mixed Sentiment Indicators: Opportunity to enhance positive narrative in media coverage")
+    
+    # Theme analysis
+    top_themes = sorted(themes.items(), key=lambda x: x[1], reverse=True)[:3]
+    if top_themes:
+        theme_text = ", ".join([f"{theme} ({count})" for theme, count in top_themes])
+        insights.append(f"🔍 Key Coverage Themes: {theme_text} - indicating primary areas of market focus")
+    
+    # Temporal analysis
+    if metrics['date_spread_months'] > 6:
+        insights.append(f"📅 Sustained Coverage: Articles span {metrics['date_spread_months']} months, showing consistent media attention")
+    elif metrics['date_spread_months'] > 3:
+        insights.append(f"⏱️ Regular Coverage: {metrics['date_spread_months']} months of coverage indicates ongoing market relevance")
+    
+    # Generate recommendations
+    recommendations.append("📈 Strategic Recommendations:")
+    
+    if source_diversity < 8:
+        recommendations.append("• Expand media outreach to additional industry publications and mainstream business media")
+    
+    if sentiment_scores['positive'] < sentiment_scores['negative']:
+        recommendations.append("• Develop proactive media strategy to enhance positive narrative and thought leadership")
+    
+    if 'innovation' not in themes or themes.get('innovation', 0) < 3:
+        recommendations.append("• Increase coverage of innovative practices and technological advancements")
+    
+    recommendations.append("• Leverage high-performing content themes for future PR initiatives")
+    recommendations.append("• Monitor competitor coverage patterns to identify market positioning opportunities")
+    recommendations.append("• Establish regular media cadence for consistent visibility and relationship building")
+    
+    # Market positioning insights
+    category_dist = metrics['category_distribution']
+    if len(category_dist) > 3:
+        insights.append(f"🎪 Diverse Content Portfolio: Coverage across {len(category_dist)} categories demonstrates market versatility")
+    
+    return insights, recommendations
+
 def add_gradient_background(slide, color1=(240, 248, 255), color2=(176, 196, 222)):
     """Add a subtle gradient background to slide"""
     try:
@@ -151,9 +276,9 @@ def create_chart_slide(prs, company_name, articles):
             ).chart
             
             # Customize chart
-            chart.has_legend = True
-            chart.legend.position = XL_LEGEND_POSITION.BOTTOM
-            chart.plots[0].has_data_labels = True
+            chart.has_legend = False
+            #chart.legend.position = XL_LEGEND_POSITION.RIGHT
+            #chart.plots[0].has_data_labels = True
         except Exception as e:
             # Fallback: Create a simple text summary instead of chart
             summary_box = slide.shapes.add_textbox(Inches(1.5), Inches(2), Inches(7), Inches(4))
@@ -221,6 +346,110 @@ def create_timeline_slide(prs, company_name, articles):
         no_data_frame.text = "📅 No publication date information available for timeline analysis"
         no_data_frame.paragraphs[0].font.size = Pt(16)
         no_data_frame.paragraphs[0].alignment = PP_ALIGN.CENTER
+
+def create_enhanced_conclusion_slide(prs, company_name, articles):
+    """Create an enhanced conclusion slide with detailed insights and recommendations"""
+    conclusion_slide = prs.slides.add_slide(prs.slide_layouts[6])  # Blank layout
+    add_gradient_background(conclusion_slide, (255, 250, 240), (255, 245, 238))
+    
+    # Analyze the articles for insights
+    themes, sentiment_scores = analyze_content_themes(articles)
+    metrics = calculate_media_metrics(articles)
+    insights, recommendations = generate_strategic_insights(company_name, articles, themes, sentiment_scores, metrics)
+    
+    # Define color scheme
+    primary_color = RGBColor(25, 25, 112)  # Midnight blue
+    secondary_color = RGBColor(70, 130, 180)  # Steel blue
+    accent_color = RGBColor(220, 20, 60)  # Crimson
+    
+    # Title
+    conclusion_title = conclusion_slide.shapes.add_textbox(Inches(0.5), Inches(0.2), Inches(9), Inches(0.8))
+    conclusion_title.text_frame.text = f"🎯 Strategic Media Analysis: {company_name}"
+    conclusion_title.text_frame.paragraphs[0].font.size = Pt(24)
+    conclusion_title.text_frame.paragraphs[0].font.bold = True
+    conclusion_title.text_frame.paragraphs[0].font.color.rgb = primary_color
+    conclusion_title.text_frame.paragraphs[0].alignment = PP_ALIGN.CENTER
+    
+    # Create two columns: Insights and Recommendations
+    
+    # Key Insights (top)
+    insights_box = conclusion_slide.shapes.add_textbox(Inches(0.7), Inches(1.2), Inches(8.6), Inches(2.1))
+    insights_frame = insights_box.text_frame
+    insights_frame.margin_left = Inches(0.2)
+    insights_frame.margin_right = Inches(0.1)
+    insights_frame.margin_top = Inches(0.1)
+
+    # Insights header
+    insights_header = insights_frame.paragraphs[0]
+    insights_header.text = "📊 KEY INSIGHTS"
+    insights_header.font.size = Pt(16)
+    insights_header.font.bold = True
+    insights_header.font.color.rgb = accent_color
+    insights_header.space_after = Pt(12)
+
+    # Add insights with better formatting
+    for insight in insights:
+        p = insights_frame.add_paragraph()
+        p.text = insight
+        p.font.size = Pt(11)
+        p.font.color.rgb = RGBColor(40, 40, 40)
+        p.space_after = Pt(8)
+        p.line_spacing = 1.2
+
+    # Strategic Recommendations (below insights)
+    recommendations_box = conclusion_slide.shapes.add_textbox(Inches(0.7), Inches(3.45), Inches(8.6), Inches(2.1))
+    recommendations_frame = recommendations_box.text_frame
+    recommendations_frame.margin_left = Inches(0.1)
+    recommendations_frame.margin_right = Inches(0.2)
+    recommendations_frame.margin_top = Inches(0.1)
+
+    # Recommendations header
+    rec_header = recommendations_frame.paragraphs[0]
+    rec_header.text = f"{recommendations[0]}"  # "📈 Strategic Recommendations:"
+    rec_header.font.size = Pt(16)
+    rec_header.font.bold = True
+    rec_header.font.color.rgb = accent_color
+    rec_header.space_after = Pt(12)
+
+    # Add recommendations with better formatting
+    for rec in recommendations[1:]:  # Skip the header
+        p = recommendations_frame.add_paragraph()
+        p.text = rec
+        p.font.size = Pt(11)
+        p.font.color.rgb = RGBColor(40, 40, 40)
+        p.space_after = Pt(8)
+        p.line_spacing = 1.2
+    
+    # Add performance metrics summary at the bottom
+    metrics_box = conclusion_slide.shapes.add_textbox(Inches(0.5), Inches(5.3), Inches(9), Inches(0.8))
+    metrics_frame = metrics_box.text_frame
+    
+    # Create metrics summary
+    total_sentiment = sum(sentiment_scores.values())
+    sentiment_ratio = f"{sentiment_scores['positive']}:{sentiment_scores['negative']}:{sentiment_scores['neutral']}" if total_sentiment > 0 else "N/A"
+    top_theme = max(themes.items(), key=lambda x: x[1])[0] if themes else "General Coverage"
+    
+    metrics_text = f"📈 Coverage Metrics: {len(articles)} articles • {metrics['source_diversity']} sources • " \
+                  f"{len(metrics['category_distribution'])} categories • Sentiment Ratio (P:N:Nu) {sentiment_ratio} • " \
+                  f"Primary Theme: {top_theme.title()}"
+    
+    metrics_para = metrics_frame.paragraphs[0]
+    metrics_para.text = metrics_text
+    metrics_para.font.size = Pt(10)
+    metrics_para.font.color.rgb = secondary_color
+    metrics_para.alignment = PP_ALIGN.CENTER
+    
+    # Add decorative border
+    border_shape = conclusion_slide.shapes.add_shape(
+        MSO_SHAPE.RECTANGLE, Inches(0.2), Inches(1), Inches(9.6), Inches(5.0)
+    )
+    border_shape.fill.background()
+    border_shape.line.color.rgb = secondary_color
+    border_shape.line.width = Pt(2)
+    
+    # Send shape to back
+    border_shape._element.getparent().remove(border_shape._element)
+    conclusion_slide.shapes._spTree.insert(2, border_shape._element)
 
 def create_ppt_for_company(company_name, articles, output_dir):
     prs = Presentation()
@@ -318,7 +547,7 @@ def create_ppt_for_company(company_name, articles, output_dir):
         link_para.level = 0
         
         # Add decorative elements
-        if i % 5 == 0:  # Add accent shape every 5 slides
+        if i % 1 == 0:  # Add accent shape every slide
             accent_shape = slide.shapes.add_shape(
                 MSO_SHAPE.ROUNDED_RECTANGLE, Inches(8.5), Inches(6.5), Inches(1), Inches(0.3)
             )
@@ -331,36 +560,8 @@ def create_ppt_for_company(company_name, articles, output_dir):
             accent_shape.text_frame.paragraphs[0].font.bold = True
             accent_shape.text_frame.paragraphs[0].alignment = PP_ALIGN.CENTER
 
-    # Add conclusion slide
-    conclusion_slide = prs.slides.add_slide(prs.slide_layouts[6])  # Blank layout
-    add_gradient_background(conclusion_slide, (255, 250, 240), (255, 245, 238))
-    
-    # Title
-    conclusion_title = conclusion_slide.shapes.add_textbox(Inches(1), Inches(1), Inches(8), Inches(1))
-    conclusion_title.text_frame.text = "🎯 Key Insights & Next Steps"
-    conclusion_title.text_frame.paragraphs[0].font.size = Pt(28)
-    conclusion_title.text_frame.paragraphs[0].font.bold = True
-    conclusion_title.text_frame.paragraphs[0].font.color.rgb = primary_color
-    conclusion_title.text_frame.paragraphs[0].alignment = PP_ALIGN.CENTER
-    
-    # Key insights
-    insights_box = conclusion_slide.shapes.add_textbox(Inches(1), Inches(2.5), Inches(8), Inches(3))
-    insights_frame = insights_box.text_frame
-    insights_frame.margin_left = Inches(0.3)
-    
-    insights = [
-        f"Analyzed {len(articles)} articles across multiple categories",
-        f"🗓️ Coverage spans from recent publications to historical data",
-        f"📰 Sources include {len(set(article.get('source', 'Unknown') for article in articles))} different publications",
-        f"🎯 Comprehensive view of {company_name}'s media presence"
-    ]
-    
-    for insight in insights:
-        p = insights_frame.add_paragraph()
-        p.text = insight
-        p.font.size = Pt(16)
-        p.font.color.rgb = RGBColor(60, 60, 60)
-        p.space_after = Pt(12)
+    # Add enhanced conclusion slide
+    create_enhanced_conclusion_slide(prs, company_name, articles)
 
     # Save the presentation
     output_path = os.path.join(output_dir, f"{clean_filename(company_name)}_consolidated_report.pptx")
@@ -377,7 +578,7 @@ def create_ppt_for_company(company_name, articles, output_dir):
     except Exception as e:
         print(f"Unexpected error: {str(e)}")
 
-def generate_reports(json_file_path, output_dir="output_ppts"):
+def generate_reports(json_file_path, output_dir="outputs/ppt"):
     """Generate consolidated report for Slaughter and May"""
     os.makedirs(output_dir, exist_ok=True)
 

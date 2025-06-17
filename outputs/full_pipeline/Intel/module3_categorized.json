@@ -5,7 +5,8 @@
     "published": "Mon, 16 Jun 2025 14:13:00 GMT",
     "source": "Barron's",
     "summary": "Intel CEO Lip-Bu Tan Sells Large Block of This Tech Stock - Barron's. Intel CEO sells large block of this tech stock to raise $16.5 billion in cash and stock.",
-    "company_type": "competitor"
+    "company_type": "competitor",
+    "category": "Investments, M&A and Partnerships"
   },
   {
     "title": "Intel to cut thousands of factory jobs globally - KGW",
@@ -13,7 +14,8 @@
     "published": "Mon, 16 Jun 2025 23:24:00 GMT",
     "source": "KGW",
     "summary": "Intel to cut thousands of factory jobs globally - KGW. Intel will lay off 15% to 20% of its factory workers, memo says. Layoffs to be made in Mid-July, according to reports.",
-    "company_type": "competitor"
+    "company_type": "competitor",
+    "category": "Strategy and Management"
   },
   {
     "title": "[News] Intel\u2019s Rumored July Layoffs May Slash 15-20% of Factory Jobs, Oregon Hit Hardest - TrendForce",
@@ -21,7 +23,8 @@
     "published": "Tue, 17 Jun 2025 07:28:33 GMT",
     "source": "TrendForce",
     "summary": "[News] Intel\u2019s Rumored July Layoffs May Slash 15-20% of Factory Jobs, Oregon Hit Hardest - TrendForce.com. Oregon is expected to be hardest hit by the layoffs.",
-    "company_type": "competitor"
+    "company_type": "competitor",
+    "category": "Logistics and Operations"
   },
   {
     "title": "Intel (INTC) Dips More Than Broader Market: What You Should Know - Yahoo Finance",
@@ -29,7 +32,8 @@
     "published": "Fri, 13 Jun 2025 21:45:04 GMT",
     "source": "Yahoo Finance",
     "summary": "Intel (INTC) Dips More Than Broader Market: What You Should Know. Yahoo Finance: Intel ( INTC) Is Down More Than the broader market. The stock is down more than the wider market.",
-    "company_type": "competitor"
+    "company_type": "competitor",
+    "category": "Financials"
   },
   {
     "title": "Intel Nova Lake-S reportedly supports DDR5-8000 memory and 36x PCIe 5.0 lanes - VideoCardz.com",
@@ -37,7 +41,8 @@
     "published": "Mon, 16 Jun 2025 19:04:00 GMT",
     "source": "VideoCardz.com",
     "summary": "Intel Nova Lake-S reportedly supports DDR5-8000 memory and 36x PCIe 5.0 lanes. VideoCardz.com reports that the chip could be used in next-generation Intel processors.",
-    "company_type": "competitor"
+    "company_type": "competitor",
+    "category": "Logistics and Operations"
   },
   {
     "title": "Intel Will Lay Off Oregon Factory Workers Starting in July - tech.co",
@@ -45,7 +50,8 @@
     "published": "Mon, 16 Jun 2025 18:34:58 GMT",
     "source": "tech.co",
     "summary": "Intel Will Lay Off Oregon Factory Workers Starting in July - tech.co.com. Intel will lay off workers in Oregon in July, according to reports. The company has been in Oregon for more than 30 years.",
-    "company_type": "competitor"
+    "company_type": "competitor",
+    "category": "Logistics and Operations"
   },
   {
     "title": "Intel to lay off up to 20% of factory workforce - NewsBytes",
@@ -53,7 +59,8 @@
     "published": "Tue, 17 Jun 2025 03:12:34 GMT",
     "source": "NewsBytes",
     "summary": "Intel to lay off up to 20% of factory workforce - Newsbytes.com. Intel will cut up to 10% of its workforce in the U.S. and up to 15% in Europe.",
-    "company_type": "competitor"
+    "company_type": "competitor",
+    "category": "Strategy and Management"
   },
   {
     "title": "Report: Intel factory worker layoffs could hit Rio Rancho facility - Albuquerque Business First - The Business Journals",
@@ -61,7 +68,8 @@
     "published": "Mon, 16 Jun 2025 23:15:00 GMT",
     "source": "The Business Journals",
     "summary": "Report: Intel factory worker layoffs could hit Rio Rancho facility. Albuquerque Business First - The Business Journals. Report:Intel factory workers could be laid off at the facility in Rio Ranchos, Mexico.",
-    "company_type": "competitor"
+    "company_type": "competitor",
+    "category": "Logistics and Operations"
   },
   {
     "title": "Report: Intel factory worker layoffs could hit 20% worldwide - The Business Journals",
@@ -69,7 +77,8 @@
     "published": "Mon, 16 Jun 2025 22:10:00 GMT",
     "source": "The Business Journals",
     "summary": "Report: Intel factory worker layoffs could hit 20% worldwide - The Business Journals. Report: Intel factories could be hit with 20% of workers out of work by the end of the year.",
-    "company_type": "competitor"
+    "company_type": "competitor",
+    "category": "Logistics and Operations"
   },
   {
     "title": "Intel Plans Major Layoffs in Global Factory Workforce - WebProNews",
@@ -77,6 +86,7 @@
     "published": "Tue, 17 Jun 2025 00:22:40 GMT",
     "source": "WebProNews",
     "summary": "Intel Plans Major Layoffs in Global Factory Workforce - WebProNews.com. Intel plans major layoffs in global factory workforce. Intel to lay off more than 1,000 people.",
-    "company_type": "competitor"
+    "company_type": "competitor",
+    "category": "Logistics and Operations"
   }
 ]

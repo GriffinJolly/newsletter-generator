@@ -37,13 +37,35 @@ def run_pipeline_cli(company, company_type, article_count):
         )
         stdout = result.stdout
         stderr = result.stderr
-        # Try to find ppt path in output
+        # Try to find ppt path in output (robust: look for .pptx anywhere in line)
         ppt_path = None
         for line in stdout.splitlines():
-            if line.strip().endswith(".pptx") and company.lower() in line.lower():
-                ppt_path = line.split(":")[-1].strip()
-                break
-        return ppt_path, [stdout, stderr]
+            if ".pptx" in line.lower():
+                # Extract the path after the last ':' or after 'PPT generated:'
+                if ":" in line:
+                    ppt_path_candidate = line.split(":", 1)[-1].strip()
+                else:
+                    ppt_path_candidate = line.strip()
+                # If relative, resolve to absolute
+                if ppt_path_candidate and os.path.exists(ppt_path_candidate):
+                    ppt_path = os.path.abspath(ppt_path_candidate)
+                    break
+                # Try to resolve if path is printed but not existing
+                if ppt_path_candidate and ppt_path_candidate.endswith(".pptx"):
+                    # Check typical output directory
+                    candidate = os.path.join("outputs", "full_pipeline", company.replace(" ", "_"), "ppt", os.path.basename(ppt_path_candidate))
+                    if os.path.exists(candidate):
+                        ppt_path = os.path.abspath(candidate)
+                        break
+        # Fallback: search expected output directory if not found in stdout
+        if not ppt_path:
+            ppt_dir = os.path.join("outputs", "full_pipeline", company.replace(" ", "_"), "ppt")
+            if os.path.isdir(ppt_dir):
+                for file in os.listdir(ppt_dir):
+                    if file.lower().endswith(".pptx") and company.lower().replace(" ", "_") in file.lower():
+                        ppt_path = os.path.abspath(os.path.join(ppt_dir, file))
+                        break
+        return ppt_path, [stdout, stderr, f"[DEBUG] Resolved PPT path: {ppt_path if ppt_path else 'None'}"]
     except Exception as e:
         return None, [f"❌ Error running pipeline: {e}"]
 
