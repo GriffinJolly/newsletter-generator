@@ -1,0 +1,518 @@
+[
+  {
+    "title": "After ousting CEO, Novo Nordisk reclaims crown as largest European company - MarketWatch",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdGpPYjZ1OWlrZlY4ODBDMDVjYW9oWHM1azZ5Q2JpS0JjSmhuejE1bmtYV2l6ZVFEVFJGWDJkMlU5X2Y4N1Vxc2pteHpVSHFPeVdXZTZQakVXMXk3RlZpNWw4XzAycVo4RVBqLXg0YlcyWW0xZEtwX0NMd3JKNDZGTUxFLS1xeVJoSEhhSFM5MHpRbzd4dzFiRHJHYUFna2IzWl9KN3d4N3RFWUswSHRNUHJLV2ZTVHM?oc=5",
+    "published": "Fri, 13 Jun 2025 11:14:00 GMT",
+    "source": "MarketWatch",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNdGpPYjZ1OWlrZlY4ODBDMDVjYW9oWHM1azZ5Q2JpS0JjSmhuejE1bmtYV2l6ZVFEVFJGWDJkMlU5X2Y4N1Vxc2pteHpVSHFPeVdXZTZQakVXMXk3RlZpNWw4XzAycVo4RVBqLXg0YlcyWW0xZEtwX0NMd3JKNDZGTUxFLS1xeVJoSEhhSFM5MHpRbzd4dzFiRHJHYUFna2IzWl9KN3d4N3RFWUswSHRNUHJLV2ZTVHM?oc=5\" target=\"_blank\">After ousting CEO, Novo Nordisk reclaims crown as largest European company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+    "ai_summary": "After ousting CEO, Novo Nordisk reclaims crown as largest European company - MarketWatch. After ousting CEOs, Nordisk is now the world's largest drugmaker by sales, according to a report. The company is owned by Danish drugmaker Novo Nordic ASA.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 19,
+        "end": 31
+      },
+      {
+        "text": "European",
+        "label": "NORP",
+        "start": 58,
+        "end": 66
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 93,
+        "end": 122
+      },
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 429,
+        "end": 441
+      },
+      {
+        "text": "European company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+        "label": "ORG",
+        "start": 468,
+        "end": 540
+      }
+    ]
+  },
+  {
+    "title": "Novo Nordisk fast-tracks oral, SC amycretin into late-stage weight-loss testing - FirstWord Pharma",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oUnU0Z2paLTF5REFJSE1QNlpScXQ0MFVPcDZzczU5bFMzdDRTdHVDWWhqTUdGN1FwVHVDYnc4dFY5ckdGNVItT0lUdi1ydUZHS0lB?oc=5",
+    "published": "Thu, 12 Jun 2025 18:41:27 GMT",
+    "source": "FirstWord Pharma",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oUnU0Z2paLTF5REFJSE1QNlpScXQ0MFVPcDZzczU5bFMzdDRTdHVDWWhqTUdGN1FwVHVDYnc4dFY5ckdGNVItT0lUdi1ydUZHS0lB?oc=5\" target=\"_blank\">Novo Nordisk fast-tracks oral, SC amycretin into late-stage weight-loss testing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FirstWord Pharma</font>",
+    "ai_summary": "Novo Nordisk fast-tracks oral, SC amycretin into late-stage weight-loss testing. FirstWord Pharma. Novo Nordisk is a global leader in the development and manufacture of pharmaceuticals. The company's products include Novo Nordisk, Sigma-Aldrich, Zyrtec and Valeo.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "SC",
+        "label": "ORG",
+        "start": 31,
+        "end": 33
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 103,
+        "end": 132
+      },
+      {
+        "text": "Nordisk",
+        "label": "ORG",
+        "start": 290,
+        "end": 297
+      },
+      {
+        "text": "SC",
+        "label": "ORG",
+        "start": 316,
+        "end": 318
+      }
+    ]
+  },
+  {
+    "title": "A $250 mistake seems set to cost Ozempic maker Novo Nordisk billions - Quartz",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PR2hCcTdiVTVrRVVfVGM5WGR5cTl3bWZTR19vYUF6Z1YxWEpOWkE1Wjg2bFVTMXNrT2otLWNSc2U2RDl0ZTlPV1BqUkhUSGJ0MEpnNDBuM2IzZFd5SFc1MnNOZVlsYnBOckQyWkhuM0FUMktwT3IwYnhFWEVtQVU?oc=5",
+    "published": "Mon, 16 Jun 2025 14:42:10 GMT",
+    "source": "Quartz",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1PR2hCcTdiVTVrRVVfVGM5WGR5cTl3bWZTR19vYUF6Z1YxWEpOWkE1Wjg2bFVTMXNrT2otLWNSc2U2RDl0ZTlPV1BqUkhUSGJ0MEpnNDBuM2IzZFd5SFc1MnNOZVlsYnBOckQyWkhuM0FUMktwT3IwYnhFWEVtQVU?oc=5\" target=\"_blank\">A $250 mistake seems set to cost Ozempic maker Novo Nordisk billions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quartz</font>",
+    "ai_summary": "A $250 mistake seems set to cost Ozempic maker Novo Nordisk billions - Quartz. A $250 error seems to have cost the company billions of dollars. The mistake was made by the company's chief operating officer. The company has since apologised for the mistake.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "250",
+        "label": "MONEY",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "Ozempic",
+        "label": "ORG",
+        "start": 33,
+        "end": 40
+      },
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 47,
+        "end": 59
+      },
+      {
+        "text": "billions - Quartz",
+        "label": "CARDINAL",
+        "start": 60,
+        "end": 77
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 82,
+        "end": 111
+      },
+      {
+        "text": "250",
+        "label": "MONEY",
+        "start": 326,
+        "end": 329
+      },
+      {
+        "text": "Ozempic",
+        "label": "ORG",
+        "start": 356,
+        "end": 363
+      },
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 370,
+        "end": 382
+      }
+    ]
+  },
+  {
+    "title": "The story of how Novo Nordisk will lose billions because it didn’t pay a couple of hundred dollars - MarketWatch",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSmYzODExd2VsdHlpLVo1V0o1RnpKTVF6QzVnajRSakI2OF9JUlRxYXpMb2g2U2thazhuVGxZOE13Ynk0NE03aUpleENBZWwtYl9RRlF2ZGZWTzRxdXhXWGpYSXk3QjJ4dTZfWUtESWlRWDhWVDJYQ0hzQmZ5LURtd1pGc3JUWUVCdHZjbVFUcll0UENaOEpUZFBuM2lQcEJ1N0ZfQmpBX2Y4YV9Sek9LbW4yVlcwZHJzeVJseE0yVWc5ZWlaRWlkV0s1c2hDZDZobTRWa2lMZw?oc=5",
+    "published": "Mon, 16 Jun 2025 08:24:00 GMT",
+    "source": "MarketWatch",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSmYzODExd2VsdHlpLVo1V0o1RnpKTVF6QzVnajRSakI2OF9JUlRxYXpMb2g2U2thazhuVGxZOE13Ynk0NE03aUpleENBZWwtYl9RRlF2ZGZWTzRxdXhXWGpYSXk3QjJ4dTZfWUtESWlRWDhWVDJYQ0hzQmZ5LURtd1pGc3JUWUVCdHZjbVFUcll0UENaOEpUZFBuM2lQcEJ1N0ZfQmpBX2Y4YV9Sek9LbW4yVlcwZHJzeVJseE0yVWc5ZWlaRWlkV0s1c2hDZDZobTRWa2lMZw?oc=5\" target=\"_blank\">The story of how Novo Nordisk will lose billions because it didn’t pay a couple of hundred dollars</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+    "ai_summary": "The story of how Novo Nordisk will lose billions because it didn’t pay a couple of hundred dollars - MarketWatch. The story ofHowNovo Nordisks will lose billion because it did not pay a few hundred dollars.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 17,
+        "end": 29
+      },
+      {
+        "text": "billions",
+        "label": "CARDINAL",
+        "start": 40,
+        "end": 48
+      },
+      {
+        "text": "a couple of hundred dollars - MarketWatch",
+        "label": "MONEY",
+        "start": 71,
+        "end": 112
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 117,
+        "end": 146
+      },
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 494,
+        "end": 506
+      },
+      {
+        "text": "billions",
+        "label": "CARDINAL",
+        "start": 517,
+        "end": 525
+      },
+      {
+        "text": "a couple of hundred",
+        "label": "CARDINAL",
+        "start": 548,
+        "end": 567
+      }
+    ]
+  },
+  {
+    "title": "Novo Nordisk Reclaims Top Spot in Europe by Market Value - Insider Monkey",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORkFjWUdPYWkxVVN3UHBoV21ZUklwbVRoSGp3Y1FxUHpORm9wS2F3M21iRVptclpQcXB0NjdpaXR0R3VpWHE4RkxTYlN4c1JRQndHb1RyXzBzNmtERXVtSlRNT084akVGOFZScXhkNVBwLXpWWm00emQwVVJFc1M3WWs0WXVtUDNnU0cycVRjNGVudng1NlpVRDJfbE5tYnY2MmfSAaoBQVVfeXFMUE5wN0lUU1ljN3B5eDI2SHBIQXJLb2ZDNlVFN2ZESGRCRm5leklEUkdFM1lKRDdlZk52ZndvRzdiYkMzZk1UUzN5WTNqOXlHdGNmZ3lQTlRnTGxiMG9rWVhYNVVhbGhFcWZWTVNjd2hEd3d4LWh4X29TWlFrNDM0cHloZUVROHdDM0FkZjRuc0ZCdEhWYnNwWWo5Nnl4TFdvdFJuRFpHZk1NcEE?oc=5",
+    "published": "Tue, 17 Jun 2025 17:55:52 GMT",
+    "source": "Insider Monkey",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxORkFjWUdPYWkxVVN3UHBoV21ZUklwbVRoSGp3Y1FxUHpORm9wS2F3M21iRVptclpQcXB0NjdpaXR0R3VpWHE4RkxTYlN4c1JRQndHb1RyXzBzNmtERXVtSlRNT084akVGOFZScXhkNVBwLXpWWm00emQwVVJFc1M3WWs0WXVtUDNnU0cycVRjNGVudng1NlpVRDJfbE5tYnY2MmfSAaoBQVVfeXFMUE5wN0lUU1ljN3B5eDI2SHBIQXJLb2ZDNlVFN2ZESGRCRm5leklEUkdFM1lKRDdlZk52ZndvRzdiYkMzZk1UUzN5WTNqOXlHdGNmZ3lQTlRnTGxiMG9rWVhYNVVhbGhFcWZWTVNjd2hEd3d4LWh4X29TWlFrNDM0cHloZUVROHdDM0FkZjRuc0ZCdEhWYnNwWWo5Nnl4TFdvdFJuRFpHZk1NcEE?oc=5\" target=\"_blank\">Novo Nordisk Reclaims Top Spot in Europe by Market Value</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Insider Monkey</font>",
+    "ai_summary": "Novo Nordisk Reclaims Top Spot in Europe by Market Value - Insider Monkey. Novo Nordisk's share price is up more than 6% in the last three months. The stock is trading at a record high of $28.50 per share.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Novo Nordisk Reclaims Top Spot",
+        "label": "PERSON",
+        "start": 0,
+        "end": 30
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 34,
+        "end": 40
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 78,
+        "end": 107
+      },
+      {
+        "text": "CBMiogFBVV95cUxORkFjWUdPYWkxVVN3UHBoV21ZUklwbVRoSGp3Y1FxUHpORm9wS2F3M21iRVptclpQcXB0NjdpaXR0R3VpWHE4RkxTYlN4c1JRQndHb1RyXzBzNmtERXVtSlRNT084akVGOFZScXhkNVBwLXpWWm00emQwVVJFc1M3WWs0WXVtUDNnU0cycVRjNGVudng1NlpVRDJfbE5tYnY2MmfSAaoBQVVfeXFMUE5wN0lUU1ljN3B5eDI2SHBIQXJLb2ZDNlVFN2ZESGRCRm5leklEUkdFM1lKRDdlZk52ZndvRzdiYkMzZk1UUzN5WTNqOXlHdGNmZ3lQTlRnTGxiMG9rWVhYNVVhbGhFcWZWTVNjd2hEd3d4LWh4X29TWlFrNDM0cHloZUVROHdDM0FkZjRuc0ZCdEhWYnNwWWo5Nnl4TFdvdFJuRFpHZk1NcEE?oc=5",
+        "label": "GPE",
+        "start": 121,
+        "end": 581
+      },
+      {
+        "text": "Nordisk Reclaims Top Spot",
+        "label": "PERSON",
+        "start": 604,
+        "end": 629
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 633,
+        "end": 639
+      }
+    ]
+  },
+  {
+    "title": "FDA Launches AI Experiment to Streamline Drug Reviews as Novo Nordisk Faces Rising Competition in Obesity Treatments - geneonline.com",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSFNNbXdiemV4bml5UGhUQlhRclZTcGM3M0hDb29KYVk4OUlMLVE4ak9ldWlLSGMxTjFUY1p2UkFpQ091UWFxUFp4bzdZWm1KSjNNX1JzV1BubktLRDNlcGFNcXRSVlY5WHJDM2ZiRzlJYUdhamNFdDU5NWdDazlPYWFiUy0xMXdseEJTZ21vUXBDRlpCY0RJZHdzY0pYV3NOeHo2RFdjTzhCbllGeDJsMHFHbTJ1eThEUjRINlJqOUxTb29xcDZsbWdYNTVmcVBySkFCMnV5b2ZnbXNy?oc=5",
+    "published": "Wed, 18 Jun 2025 00:07:15 GMT",
+    "source": "geneonline.com",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSFNNbXdiemV4bml5UGhUQlhRclZTcGM3M0hDb29KYVk4OUlMLVE4ak9ldWlLSGMxTjFUY1p2UkFpQ091UWFxUFp4bzdZWm1KSjNNX1JzV1BubktLRDNlcGFNcXRSVlY5WHJDM2ZiRzlJYUdhamNFdDU5NWdDazlPYWFiUy0xMXdseEJTZ21vUXBDRlpCY0RJZHdzY0pYV3NOeHo2RFdjTzhCbllGeDJsMHFHbTJ1eThEUjRINlJqOUxTb29xcDZsbWdYNTVmcVBySkFCMnV5b2ZnbXNy?oc=5\" target=\"_blank\">FDA Launches AI Experiment to Streamline Drug Reviews as Novo Nordisk Faces Rising Competition in Obesity Treatments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">geneonline.com</font>",
+    "ai_summary": "FDA Launches AI Experiment to Streamline Drug Reviews as Novo Nordisk Faces Rising Competition in Obesity Treatments. FDA launches AI experiment to streamline drug reviews as Novos Nordisk faces rising competition in obesity treatments. Novos faces competition from GlaxoSmithKline, Gilead Sciences, and others.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "FDA Launches AI Experiment to",
+        "label": "ORG",
+        "start": 0,
+        "end": 29
+      },
+      {
+        "text": "Streamline Drug Reviews",
+        "label": "ORG",
+        "start": 30,
+        "end": 53
+      },
+      {
+        "text": "Novo Nordisk Faces Rising Competition",
+        "label": "ORG",
+        "start": 57,
+        "end": 94
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 138,
+        "end": 167
+      },
+      {
+        "text": "Streamline Drug Reviews",
+        "label": "ORG",
+        "start": 534,
+        "end": 557
+      },
+      {
+        "text": "Novo Nordisk Faces Rising Competition in",
+        "label": "ORG",
+        "start": 561,
+        "end": 601
+      },
+      {
+        "text": "Obesity",
+        "label": "GPE",
+        "start": 602,
+        "end": 609
+      }
+    ]
+  },
+  {
+    "title": "Novo Nordisk Reclaims Top Spot in Europe by Market Value - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVVJiNW9fSU5MU0Vib3FleWNHcjctZjlQX2lPRTZNcGFqY3JPdjYzWHFCdkh3NFNFRm1nMUoybXlnOXpEWDdLZnd1c0I3SFVIcmNKcV80dFBxSF9EczhxMG44aHcwbGNTTHZSekc3bmdBc1p4TDBvMWxZcF82b1pzczZ3?oc=5",
+    "published": "Tue, 17 Jun 2025 17:48:08 GMT",
+    "source": "Yahoo Finance",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNVVJiNW9fSU5MU0Vib3FleWNHcjctZjlQX2lPRTZNcGFqY3JPdjYzWHFCdkh3NFNFRm1nMUoybXlnOXpEWDdLZnd1c0I3SFVIcmNKcV80dFBxSF9EczhxMG44aHcwbGNTTHZSekc3bmdBc1p4TDBvMWxZcF82b1pzczZ3?oc=5\" target=\"_blank\">Novo Nordisk Reclaims Top Spot in Europe by Market Value</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+    "ai_summary": "Novo Nordisk Reclaims Top Spot in Europe by Market Value - Yahoo Finance. Novo Nordisk is a Danish drug manufacturer. The company has been around for more than 100 years. It is one of the biggest drug producers in the world.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Novo Nordisk Reclaims Top Spot",
+        "label": "PERSON",
+        "start": 0,
+        "end": 30
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 34,
+        "end": 40
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 77,
+        "end": 106
+      },
+      {
+        "text": "Nordisk Reclaims Top Spot",
+        "label": "PERSON",
+        "start": 328,
+        "end": 353
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 357,
+        "end": 363
+      },
+      {
+        "text": "Market",
+        "label": "GPE",
+        "start": 367,
+        "end": 373
+      }
+    ]
+  },
+  {
+    "title": "Novo Nordisk focused on biotech deals for cardiometabolic indications - Seeking Alpha",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY0hiajBkRktBQkRSMFJhV3A0cnhsaU9LZXdOSS1QQU9Gb2dxbUZwWGdTSjFMZGxvNFAtTF9kenhoNXRmaTVDUlVxeGg0ZmtXS0paT01sejJXbENDUTdaLUZDOUIyeFVjRmZtOEtjc1h3UHdENFVJVWhhY2RPc3ZWNkdMcVhLRW93Ty1INGFaXzZKV1dyNlRfRl9yQzVSN1VLdXc?oc=5",
+    "published": "Tue, 17 Jun 2025 21:37:00 GMT",
+    "source": "Seeking Alpha",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOY0hiajBkRktBQkRSMFJhV3A0cnhsaU9LZXdOSS1QQU9Gb2dxbUZwWGdTSjFMZGxvNFAtTF9kenhoNXRmaTVDUlVxeGg0ZmtXS0paT01sejJXbENDUTdaLUZDOUIyeFVjRmZtOEtjc1h3UHdENFVJVWhhY2RPc3ZWNkdMcVhLRW93Ty1INGFaXzZKV1dyNlRfRl9yQzVSN1VLdXc?oc=5\" target=\"_blank\">Novo Nordisk focused on biotech deals for cardiometabolic indications</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+    "ai_summary": "Novo Nordisk focused on biotech deals for cardiometabolic indications - Seeking Alpha. Novo Nordisk is a leading maker of insulin and other insulin-like growth factor receptor (IGR) products. The company is also a leading producer of insulin for the central nervous system.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Seeking Alpha",
+        "label": "PERSON",
+        "start": 72,
+        "end": 85
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 90,
+        "end": 119
+      },
+      {
+        "text": "CBMiogFBVV95cUxOY0hiajBkRktBQkRSMFJhV3A0cnhsaU9LZXdOSS1QQU9Gb2dxbUZwWGdTSjFMZGxvNFAtTF9kenhoNXRmaTVDUlVxeGg0ZmtXS0paT01sejJXbENDUTdaLUZDOUIyeFVjRmZtOEtjc1h3UHdENFVJVWhhY2RPc3ZWNkdMcVhLRW93Ty1INGFaXzZKV1dyNlRfRl9yQzVSN1VLdXc?oc=5",
+        "label": "GPE",
+        "start": 133,
+        "end": 361
+      },
+      {
+        "text": "Nordisk",
+        "label": "ORG",
+        "start": 384,
+        "end": 391
+      }
+    ]
+  },
+  {
+    "title": "Novo Nordisk finds Deep Apple ripe for obesity R&D, inking $812M deal to go beyond incretins - Fierce Biotech",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTlB5OXlsbzJTWWpoVHJHN2MyS3FRMVZBODBieXJfVjlZRE5LTmRxTnQ1OW9jajg1eVNJLUNzdGRiX0V3eUdaVnBLN1N4NlItTTMwUlNsemVka3ZucmR1MFJMbFRaRWtPdDhsTVdMejdJRmlEd1BJWm9Td3NnZXFfVU5kRnBBRTJSVlp5V1dpSS1HSXl3STVvWXBlSEdZTWtMSGtINzliTDFYQ0prR2Z6cF9LdVFsVFdFSE9JVg?oc=5",
+    "published": "Wed, 11 Jun 2025 11:00:00 GMT",
+    "source": "Fierce Biotech",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQTlB5OXlsbzJTWWpoVHJHN2MyS3FRMVZBODBieXJfVjlZRE5LTmRxTnQ1OW9jajg1eVNJLUNzdGRiX0V3eUdaVnBLN1N4NlItTTMwUlNsemVka3ZucmR1MFJMbFRaRWtPdDhsTVdMejdJRmlEd1BJWm9Td3NnZXFfVU5kRnBBRTJSVlp5V1dpSS1HSXl3STVvWXBlSEdZTWtMSGtINzliTDFYQ0prR2Z6cF9LdVFsVFdFSE9JVg?oc=5\" target=\"_blank\">Novo Nordisk finds Deep Apple ripe for obesity R&amp;D, inking $812M deal to go beyond incretins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fierce Biotech</font>",
+    "ai_summary": "Novo Nordisk finds Deep Apple ripe for obesity R&D, inking $812M deal to go beyond incretins - Fierce Biotech. <a href=\"https://news. google.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Deep Apple",
+        "label": "PERSON",
+        "start": 19,
+        "end": 29
+      },
+      {
+        "text": "$812M",
+        "label": "MONEY",
+        "start": 59,
+        "end": 64
+      },
+      {
+        "text": "Fierce Biotech",
+        "label": "PERSON",
+        "start": 95,
+        "end": 109
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 114,
+        "end": 143
+      },
+      {
+        "text": "CBMivAFBVV95cUxQTlB5OXlsbzJTWWpoVHJHN2MyS3FRMVZBODBieXJfVjlZRE5LTmRxTnQ1OW9jajg1eVNJLUNzdGRiX0V3eUdaVnBLN1N4NlItTTMwUlNsemVka3ZucmR1MFJMbFRaRWtPdDhsTVdMejdJRmlEd1BJWm9Td3NnZXFfVU5kRnBBRTJSVlp5V1dpSS1HSXl3STVvWXBlSEdZTWtMSGtINzliTDFYQ0prR2Z6cF9LdVFsVFdFSE9JVg?oc=5",
+        "label": "PERSON",
+        "start": 157,
+        "end": 420
+      },
+      {
+        "text": "Nordisk",
+        "label": "ORG",
+        "start": 443,
+        "end": 450
+      },
+      {
+        "text": "Deep Apple",
+        "label": "PERSON",
+        "start": 457,
+        "end": 467
+      },
+      {
+        "text": "$812M",
+        "label": "MONEY",
+        "start": 501,
+        "end": 506
+      },
+      {
+        "text": "incretins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fierce Biotech</font",
+        "label": "PERSON",
+        "start": 525,
+        "end": 592
+      }
+    ]
+  },
+  {
+    "title": "Novo Nordisk starts new CagriSema weightloss drug trial - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNDFsUXJJV1BFWjIzc2tWNmJaUVJXelNDel9lY2ZHMm10SFdjZk10eVVOcHpCMHc0SFNya2l2OE9rRW51bTVfMHlTR2czRmFSQm1qdm9RRkdvc1RSQm1pWExoN3QzODZYOXFISTlVRkUtaTJtckt1Mm1qd0poeDk2TjF6QmtrdTMtUU8wWnRoamI5OWxqU0g2WC1iR0NpVnFxbHJPaXM1WXg2elZNTzRKdkJGOXNuRnJHc084cXFheVYzcjNNbVE?oc=5",
+    "published": "Tue, 10 Jun 2025 17:01:43 GMT",
+    "source": "Reuters",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPNDFsUXJJV1BFWjIzc2tWNmJaUVJXelNDel9lY2ZHMm10SFdjZk10eVVOcHpCMHc0SFNya2l2OE9rRW51bTVfMHlTR2czRmFSQm1qdm9RRkdvc1RSQm1pWExoN3QzODZYOXFISTlVRkUtaTJtckt1Mm1qd0poeDk2TjF6QmtrdTMtUU8wWnRoamI5OWxqU0g2WC1iR0NpVnFxbHJPaXM1WXg2elZNTzRKdkJGOXNuRnJHc084cXFheVYzcjNNbVE?oc=5\" target=\"_blank\">Novo Nordisk starts new CagriSema weightloss drug trial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+    "ai_summary": "Novo Nordisk starts new CagriSema weightloss drug trial - Reuters. Novo Nordisk is a leading manufacturer of insulin and other insulin-like growth factor receptor (IGR) agonists. The trial is expected to last at least six months.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "CagriSema",
+        "label": "ORG",
+        "start": 24,
+        "end": 33
+      },
+      {
+        "text": "Reuters",
+        "label": "ORG",
+        "start": 58,
+        "end": 65
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 70,
+        "end": 99
+      },
+      {
+        "text": "CBMixgFBVV95cUxPNDFsUXJJV1BFWjIzc2tWNmJaUVJXelNDel9lY2ZHMm10SFdjZk10eVVOcHpCMHc0SFNya2l2OE9rRW51bTVfMHlTR2czRmFSQm1qdm9RRkdvc1RSQm1pWExoN3QzODZYOXFISTlVRkUtaTJtckt1Mm1qd0poeDk2TjF6QmtrdTMtUU8wWnRoamI5OWxqU0g2WC1iR0NpVnFxbHJPaXM1WXg2elZNTzRKdkJGOXNuRnJHc084cXFheVYzcjNNbVE?oc=5",
+        "label": "PERSON",
+        "start": 113,
+        "end": 389
+      },
+      {
+        "text": "Nordisk",
+        "label": "ORG",
+        "start": 412,
+        "end": 419
+      },
+      {
+        "text": "CagriSema",
+        "label": "ORG",
+        "start": 431,
+        "end": 440
+      }
+    ]
+  }
+]

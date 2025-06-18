@@ -2,7 +2,9 @@ import os
 import sys
 import json
 from news_extraction import extract_news, save_articles_to_json
-from content_extraction import process_articles as summarize_articles
+from content_extraction import ArticleSummarizer
+summarizer = ArticleSummarizer()
+summarize_articles = summarizer.process_articles
 from module3_categorization import process_articles as categorize_articles
 from module4_ppt_generator import create_ppt_for_company, clean_filename
 

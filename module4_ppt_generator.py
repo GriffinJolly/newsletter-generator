@@ -420,24 +420,6 @@ def create_enhanced_conclusion_slide(prs, company_name, articles):
         p.space_after = Pt(8)
         p.line_spacing = 1.2
     
-    # Add performance metrics summary at the bottom
-    metrics_box = conclusion_slide.shapes.add_textbox(Inches(0.5), Inches(5.3), Inches(9), Inches(0.8))
-    metrics_frame = metrics_box.text_frame
-    
-    # Create metrics summary
-    total_sentiment = sum(sentiment_scores.values())
-    sentiment_ratio = f"{sentiment_scores['positive']}:{sentiment_scores['negative']}:{sentiment_scores['neutral']}" if total_sentiment > 0 else "N/A"
-    top_theme = max(themes.items(), key=lambda x: x[1])[0] if themes else "General Coverage"
-    
-    metrics_text = f"📈 Coverage Metrics: {len(articles)} articles • {metrics['source_diversity']} sources • " \
-                  f"{len(metrics['category_distribution'])} categories • Sentiment Ratio (P:N:Nu) {sentiment_ratio} • " \
-                  f"Primary Theme: {top_theme.title()}"
-    
-    metrics_para = metrics_frame.paragraphs[0]
-    metrics_para.text = metrics_text
-    metrics_para.font.size = Pt(10)
-    metrics_para.font.color.rgb = secondary_color
-    metrics_para.alignment = PP_ALIGN.CENTER
     
     # Add decorative border
     border_shape = conclusion_slide.shapes.add_shape(
@@ -523,7 +505,8 @@ def create_ppt_for_company(company_name, articles, output_dir):
 
         # Summary with enhanced styling
         summary_para = text_frame.add_paragraph()
-        summary_para.text = f"📝 Summary:\n{article['summary']}"
+        summary_text = article.get('ai_summary') or article.get('original_summary') or article.get('summary') or ''
+        summary_para.text = f"📝 Summary:\n{summary_text}"
         summary_para.font.size = Pt(13)
         summary_para.font.color.rgb = RGBColor(60, 60, 60)
         summary_para.level = 0

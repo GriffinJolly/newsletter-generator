@@ -22,10 +22,35 @@ News Summary:
 Respond ONLY with the category name.
 """
 
+ALLOWED_CATEGORIES = [
+    "Strategy and Management",
+    "Financials",
+    "Investments, M&A and Partnerships",
+    "Logistics and Operations",
+    "Commercials",
+    "ESG and Sustainability"
+]
+
+def normalize_category(output):
+    output = output.strip().lower()
+    for cat in ALLOWED_CATEGORIES:
+        if output == cat.lower():
+            return cat
+    # Fuzzy match: allow partials or close matches
+    for cat in ALLOWED_CATEGORIES:
+        if cat.lower() in output or output in cat.lower():
+            return cat
+    # Extra: handle plural/singular, typos, etc. (expand as needed)
+    return "Uncategorised"
+
 def categorize_summary(summary, model="mistral"):
-    prompt = PROMPT_TEMPLATE.format(summary=summary)
+    prompt = PROMPT_TEMPLATE + "\nRespond ONLY with a category from the list above. If unsure, pick the closest.".format(summary=summary)
     response = ollama_client.chat(model=model, messages=[{"role": "user", "content": prompt}])
-    return response['message']['content'].strip()
+    raw = response['message']['content'].strip()
+    cat = normalize_category(raw)
+    if cat == "Uncategorised":
+        print(f"[WARN] LLM output not matched to allowed categories: '{raw}'")
+    return cat
 
 def process_articles(input_path, output_path, model="mistral"):
     with open(input_path, "r", encoding="utf-8") as f:
@@ -34,7 +59,8 @@ def process_articles(input_path, output_path, model="mistral"):
     for idx, article in enumerate(tqdm(articles, desc="Classifying summaries")):
         try:
             print(f"\nArticle {idx + 1}/{len(articles)}: {article['title']}")
-            category = categorize_summary(article['summary'], model=model)
+            summary_text = article.get('ai_summary') or article.get('original_summary') or article.get('summary') or ''
+            category = categorize_summary(summary_text, model=model)
             print(f"Assigned Category: {category}")
         except Exception as e:
             print(f"Error processing article {idx + 1}: {e}")

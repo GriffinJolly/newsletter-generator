@@ -57,14 +57,24 @@ def run_pipeline_cli(company, company_type, article_count):
                     if os.path.exists(candidate):
                         ppt_path = os.path.abspath(candidate)
                         break
-        # Fallback: search expected output directory if not found in stdout
+        # Fallback: search expected output directories if not found in stdout
         if not ppt_path:
-            ppt_dir = os.path.join("outputs", "full_pipeline", company.replace(" ", "_"), "ppt")
-            if os.path.isdir(ppt_dir):
-                for file in os.listdir(ppt_dir):
-                    if file.lower().endswith(".pptx") and company.lower().replace(" ", "_") in file.lower():
-                        ppt_path = os.path.abspath(os.path.join(ppt_dir, file))
-                        break
+            # Try both 'ppt' and direct company folder for .pptx
+            search_dirs = [
+                os.path.join("outputs", "full_pipeline", company.replace(" ", "_"), "ppt"),
+                os.path.join("outputs", "full_pipeline", company.replace(" ", "_"))
+            ]
+            for ppt_dir in search_dirs:
+                if os.path.isdir(ppt_dir):
+                    for file in os.listdir(ppt_dir):
+                        if file.lower().endswith(".pptx") and company.lower().replace(" ", "_") in file.lower():
+                            ppt_path = os.path.abspath(os.path.join(ppt_dir, file))
+                            break
+                if ppt_path:
+                    break
+        # Add clear error if not found
+        if not ppt_path:
+            stderr += f"\n[ERROR] PPT file not found in expected locations: {search_dirs}"
         return ppt_path, [stdout, stderr, f"[DEBUG] Resolved PPT path: {ppt_path if ppt_path else 'None'}"]
     except Exception as e:
         return None, [f"❌ Error running pipeline: {e}"]
