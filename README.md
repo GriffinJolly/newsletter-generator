@@ -4,7 +4,7 @@
 
 A fully automated CLI pipeline to extract, summarize, categorize, and generate a PowerPoint report of business news for a given company. Built and maintained by [GriffinJolly](https://github.com/GriffinJolly).
 
-The app is deployed. Access through this link: https://newsletter-generator-frost.streamlit.app/
+
 
 ## Features
 - **End-to-end automation:** From news extraction to PPT generation in one command.
