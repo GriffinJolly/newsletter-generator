@@ -33,7 +33,7 @@ def run_pipeline_cli(company, company_type, article_count):
             input=inputs,
             capture_output=True,
             text=True,
-            timeout=300
+            timeout=1800  # Increased from 300 to 1800 seconds (30 minutes) for processing more articles
         )
         stdout = result.stdout
         stderr = result.stderr

@@ -1,54 +1,225 @@
 [
   {
-    "title": "After ousting CEO, Novo Nordisk reclaims crown as largest European company - MarketWatch",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdGpPYjZ1OWlrZlY4ODBDMDVjYW9oWHM1azZ5Q2JpS0JjSmhuejE1bmtYV2l6ZVFEVFJGWDJkMlU5X2Y4N1Vxc2pteHpVSHFPeVdXZTZQakVXMXk3RlZpNWw4XzAycVo4RVBqLXg0YlcyWW0xZEtwX0NMd3JKNDZGTUxFLS1xeVJoSEhhSFM5MHpRbzd4dzFiRHJHYUFna2IzWl9KN3d4N3RFWUswSHRNUHJLV2ZTVHM?oc=5",
-    "published": "Fri, 13 Jun 2025 11:14:00 GMT",
-    "source": "MarketWatch",
-    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNdGpPYjZ1OWlrZlY4ODBDMDVjYW9oWHM1azZ5Q2JpS0JjSmhuejE1bmtYV2l6ZVFEVFJGWDJkMlU5X2Y4N1Vxc2pteHpVSHFPeVdXZTZQakVXMXk3RlZpNWw4XzAycVo4RVBqLXg0YlcyWW0xZEtwX0NMd3JKNDZGTUxFLS1xeVJoSEhhSFM5MHpRbzd4dzFiRHJHYUFna2IzWl9KN3d4N3RFWUswSHRNUHJLV2ZTVHM?oc=5\" target=\"_blank\">After ousting CEO, Novo Nordisk reclaims crown as largest European company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
-    "ai_summary": "After ousting CEO, Novo Nordisk reclaims crown as largest European company - MarketWatch. After ousting CEOs, Nordisk is now the world's largest drugmaker by sales, according to a report. The company is owned by Danish drugmaker Novo Nordic ASA.",
+    "title": "Hims & Hers CEO No Longer A Billionaire After Novo Nordisk Deal Collapses - Forbes",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMERVNFlNQVprQ3pmVWM0SHRrNTJQZHNaQmhtVFU2QVRuRmtMNzUxWEN5ZVBoV1JzZ3c0Wkk3YXNXTGNhYzJwZ3RxREY5RnRzSFVXeXZPU3VzTnM2aGpEUnNkRHdYaV9VM3hXMng5aVg0bVRDeDV0bUdJVFZEeGEtM1djOHRURmxzQmZCeVRVYUVxdnFzZjUtTlVXR296RTRJN0hEbUtsbnd0WUdWNW42djVkSXREbjZpU0NURFkxVjJXaG55?oc=5",
+    "published": "Mon, 23 Jun 2025 21:42:46 GMT",
+    "source": "Forbes",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOMERVNFlNQVprQ3pmVWM0SHRrNTJQZHNaQmhtVFU2QVRuRmtMNzUxWEN5ZVBoV1JzZ3c0Wkk3YXNXTGNhYzJwZ3RxREY5RnRzSFVXeXZPU3VzTnM2aGpEUnNkRHdYaV9VM3hXMng5aVg0bVRDeDV0bUdJVFZEeGEtM1djOHRURmxzQmZCeVRVYUVxdnFzZjUtTlVXR296RTRJN0hEbUtsbnd0WUdWNW42djVkSXREbjZpU0NURFkxVjJXaG55?oc=5\" target=\"_blank\">Hims & Hers CEO No Longer A Billionaire After Novo Nordisk Deal Collapses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+    "ai_summary": "Hims & Hers CEO No Longer A Billionaire After Novo Nordisk Deal Collapses - Forbes. Hims & Hers. CEO No longer a billionaire after deal collapses. For confidential support call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org for details.",
     "company_type": "competitor",
     "content_source": "original_summary",
     "detected_entities": [
       {
-        "text": "Novo Nordisk",
-        "label": "PERSON",
-        "start": 19,
-        "end": 31
+        "text": "Hims & Hers",
+        "label": "ORG",
+        "start": 0,
+        "end": 11
       },
       {
-        "text": "European",
-        "label": "NORP",
-        "start": 58,
-        "end": 66
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 46,
+        "end": 58
       },
       {
         "text": "href=\"https://news.google.com",
         "label": "ORG",
-        "start": 93,
-        "end": 122
+        "start": 87,
+        "end": 116
       },
       {
         "text": "Novo Nordisk",
         "label": "PERSON",
-        "start": 429,
-        "end": 441
-      },
-      {
-        "text": "European company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
-        "label": "ORG",
-        "start": 468,
-        "end": 540
+        "start": 467,
+        "end": 479
       }
     ],
     "category": "Strategy and Management"
   },
   {
-    "title": "Novo Nordisk fast-tracks oral, SC amycretin into late-stage weight-loss testing - FirstWord Pharma",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oUnU0Z2paLTF5REFJSE1QNlpScXQ0MFVPcDZzczU5bFMzdDRTdHVDWWhqTUdGN1FwVHVDYnc4dFY5ckdGNVItT0lUdi1ydUZHS0lB?oc=5",
-    "published": "Thu, 12 Jun 2025 18:41:27 GMT",
-    "source": "FirstWord Pharma",
-    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oUnU0Z2paLTF5REFJSE1QNlpScXQ0MFVPcDZzczU5bFMzdDRTdHVDWWhqTUdGN1FwVHVDYnc4dFY5ckdGNVItT0lUdi1ydUZHS0lB?oc=5\" target=\"_blank\">Novo Nordisk fast-tracks oral, SC amycretin into late-stage weight-loss testing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FirstWord Pharma</font>",
-    "ai_summary": "Novo Nordisk fast-tracks oral, SC amycretin into late-stage weight-loss testing. FirstWord Pharma. Novo Nordisk is a global leader in the development and manufacture of pharmaceuticals. The company's products include\u00a0Novo\u00a0Nordisk,\u00a0Sigma-Aldrich,\u00a0Zyrtec\u00a0and\u00a0Valeo.",
+    "title": "Novo Nordisk Faces Spain Probe Over Weight-Loss Advertising - Bloomberg",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd25BWnNxcTZhXy03dDJqWUFyczN3NzVMZTZFRVdDTm1aekgwUXZXUlJQcUVUQkZ6YWhVM0dzalctYWFzZWJmbGdXSWtZZmg0YmluOVpCbGtxSkIwdFhYUFBGREN1c2VBc2N5NEFPc0twYlNBMF9HY01jRERtR0hxUEQ0UGx3V29jaE1XdXdjR0tveG1DeHN5b2JIT2tTQ3RWSWlPQ1R5dHZpR1lYUnZsdkFR?oc=5",
+    "published": "Wed, 25 Jun 2025 12:52:43 GMT",
+    "source": "Bloomberg",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOd25BWnNxcTZhXy03dDJqWUFyczN3NzVMZTZFRVdDTm1aekgwUXZXUlJQcUVUQkZ6YWhVM0dzalctYWFzZWJmbGdXSWtZZmg0YmluOVpCbGtxSkIwdFhYUFBGREN1c2VBc2N5NEFPc0twYlNBMF9HY01jRERtR0hxUEQ0UGx3V29jaE1XdXdjR0tveG1DeHN5b2JIT2tTQ3RWSWlPQ1R5dHZpR1lYUnZsdkFR?oc=5\" target=\"_blank\">Novo Nordisk Faces Spain Probe Over Weight-Loss Advertising</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+    "ai_summary": "Novo Nordisk Faces Spain Probe Over Weight-Loss Advertising - Bloomberg. Novo Nordisk faces Spain probe over weight-loss ads in Spain. The Danish drugmaker has been accused of over-promoting its products. The company says it is cooperating with the investigation.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Novo Nordisk",
+        "label": "ORG",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Weight-Loss Advertising - Bloomberg",
+        "label": "ORG",
+        "start": 36,
+        "end": 71
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 76,
+        "end": 105
+      },
+      {
+        "text": "CBMisgFBVV95cUxOd25BWnNxcTZhXy03dDJqWUFyczN3NzVMZTZFRVdDTm1aekgwUXZXUlJQcUVUQkZ6YWhVM0dzalctYWFzZWJmbGdXSWtZZmg0YmluOVpCbGtxSkIwdFhYUFBGREN1c2VBc2N5NEFPc0twYlNBMF9HY01jRERtR0hxUEQ0UGx3V29jaE1XdXdjR0tveG1DeHN5b2JIT2tTQ3RWSWlPQ1R5dHZpR1lYUnZsdkFR?oc=5",
+        "label": "GPE",
+        "start": 119,
+        "end": 368
+      },
+      {
+        "text": "Nordisk Faces Spain",
+        "label": "ORG",
+        "start": 391,
+        "end": 410
+      }
+    ],
+    "category": "Strategy and Management"
+  },
+  {
+    "title": "Hims & Hers Stock Drops More Than 30% After Novo Nordisk Breakup - WSJ",
+    "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPSENQUzh6OWs4aHFrLXI2LW1kUS1GeWdBSzhvZnNILS1SR1RXWjdtUGNfNExXQ0ZHU0g3MllPQ05Vc0tCbTF2OUFTZndQcE5kNEZKOEFVbW5QLTdwTURDajNzMjR1ZUFuaEc5dXg1NDlsZVcwS1ZsWFVDblVLS3FkSG52cDdQZG9ianFNYmZOTWl3YlhyOGlhenJycVBHeVBaaUpibjh6eGNPN293WUVxd2pkek90Skx6VlcybTVpOFJmbDB1bGtXN1RjNzJmbHMyVGtXNXlqV2tSQ05nMzRxSnc0SkVkbTludF80dzd1THQxdFViTVpuOW5TX3hVSXlPdU1iNmpDSHlpbElhc3UzOE4zUkhXWW54amZVYnJWdlVxRHVXQ0lYcWVPajBLcHQzLWhfY09CRTFfSkZCQ2lsYTZfYjIxcVVoTFdqRkV6Vm9RSVc0THdtdFhaMHBfOTgxcDM4X0thUEtyRFhpb2tSaU4wLU1QY0RBWmhBSTEzSFhCblJBa1NuNDZKTDBCaVJUYzgyaXpR?oc=5",
+    "published": "Mon, 23 Jun 2025 19:24:00 GMT",
+    "source": "WSJ",
+    "original_summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilgNBVV95cUxPSENQUzh6OWs4aHFrLXI2LW1kUS1GeWdBSzhvZnNILS1SR1RXWjdtUGNfNExXQ0ZHU0g3MllPQ05Vc0tCbTF2OUFTZndQcE5kNEZKOEFVbW5QLTdwTURDajNzMjR1ZUFuaEc5dXg1NDlsZVcwS1ZsWFVDblVLS3FkSG52cDdQZG9ianFNYmZOTWl3YlhyOGlhenJycVBHeVBaaUpibjh6eGNPN293WUVxd2pkek90Skx6VlcybTVpOFJmbDB1bGtXN1RjNzJmbHMyVGtXNXlqV2tSQ05nMzRxSnc0SkVkbTludF80dzd1THQxdFViTVpuOW5TX3hVSXlPdU1iNmpDSHlpbElhc3UzOE4zUkhXWW54amZVYnJWdlVxRHVXQ0lYcWVPajBLcHQzLWhfY09CRTFfSkZCQ2lsYTZfYjIxcVVoTFdqRkV6Vm9RSVc0THdtdFhaMHBfOTgxcDM4X0thUEtyRFhpb2tSaU4wLU1QY0RBWmhBSTEzSFhCblJBa1NuNDZKTDBCaVJUYzgyaXpR?oc=5\" target=\"_blank\">Hims & Hers Stock Drops More Than 30% After Novo Nordisk Breakup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXUxSkNMV1dGZG5tNmV3XzhnRG5BVGczQ3l2T25FMTVwcU9yV3VFRWVmMjgxY1d3dkJ3WHBaVHRVc280VDZGU196ellUenc0U19aWFA5OEM2VUw2a2NSRVVyN01FLVU2Z2Fnc01laWpuSzAzSmQxay1EVWsxUmJteVBVcWdubjY0TVFTRDk3ZkJDZ2tTWGhidWpmYjN0bmlh?oc=5\" target=\"_blank\">Novo Nordisk split puts Hims & Hers future in question</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUV84R2pUbUVXMGtJNUN1Rjd1NngtemJfTjRkM3lISUZaeFdyUDZiUHJ1b1pDS2lMNnZfTFpzbzVmZkc3eVJUbHRBc1RJUjlGdHNES2dYazdBWWdodjJLZUVSbmItbXIxblQ0b3FOUkFnQkRVLV9welBEVmJ2MkFnZVFKYzlzdjdEbC14MHlnUlVTa3l6VEt6UlZtZG9wMDYzWjBIZDRIb0VqaVdPa0kzVXZVUlBzMjg1bV92UmtacF90Nm8xbFZtYnluTE05ZWhkaXhkak40bmJudkhuQ1E?oc=5\" target=\"_blank\">Novo, Hims & Hers engage in war of words after Wegovy deal falls apart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li></ol>",
+    "ai_summary": "Hims & Hers Stock Drops More Than 30% After Novo Nordisk Breakup - WSJ. <ol><li><a href=\"https://news. google.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Hims & Hers Stock Drops",
+        "label": "ORG",
+        "start": 0,
+        "end": 23
+      },
+      {
+        "text": "More Than 30%",
+        "label": "PERCENT",
+        "start": 24,
+        "end": 37
+      },
+      {
+        "text": "Novo Nordisk Breakup - WSJ",
+        "label": "PERSON",
+        "start": 44,
+        "end": 70
+      },
+      {
+        "text": "ol><li><a href=\"https://news.google.com/rss",
+        "label": "PERSON",
+        "start": 73,
+        "end": 116
+      },
+      {
+        "text": "More Than 30%",
+        "label": "PERCENT",
+        "start": 721,
+        "end": 734
+      },
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 741,
+        "end": 753
+      },
+      {
+        "text": "href=\"https://news.google.com/rss",
+        "label": "ORG",
+        "start": 821,
+        "end": 854
+      },
+      {
+        "text": "Nordisk",
+        "label": "ORG",
+        "start": 1112,
+        "end": 1119
+      },
+      {
+        "text": "Hims & Hers",
+        "label": "ORG",
+        "start": 1131,
+        "end": 1142
+      },
+      {
+        "text": "href=\"https://news.google.com/rss",
+        "label": "ORG",
+        "start": 1231,
+        "end": 1264
+      },
+      {
+        "text": "Hims & Hers",
+        "label": "ORG",
+        "start": 1606,
+        "end": 1617
+      },
+      {
+        "text": "Wegovy",
+        "label": "ORG",
+        "start": 1647,
+        "end": 1653
+      }
+    ],
+    "category": "Strategy and Management"
+  },
+  {
+    "title": "Wegovy Now Available Through WeightWatchers at $299: Novo Nordisk Expands Official Distribution Network - Stock Titan",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ3dPeGVFQ3VTYl9jQTNKb1IyQmg0dEpQOXZCUloxbTl6eVVZSVR5R001WkFfUEtRa3cxRTlVZDBVd2ZjeE9Zb3NaQ3hvamtHbWZBT0E0SmwzUkVsY29pUm9hTFNLTUR4RnlOZFB5UDViQ2tEemtvMU1mSUxrdmFqS0NIVjU3bjdHTzVBbjE2UExobHg0SUpOZ3k0OE5BODJSdVRtMVRla0tTTUpkZ1NYYW9nYw?oc=5",
+    "published": "Thu, 26 Jun 2025 15:09:00 GMT",
+    "source": "Stock Titan",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ3dPeGVFQ3VTYl9jQTNKb1IyQmg0dEpQOXZCUloxbTl6eVVZSVR5R001WkFfUEtRa3cxRTlVZDBVd2ZjeE9Zb3NaQ3hvamtHbWZBT0E0SmwzUkVsY29pUm9hTFNLTUR4RnlOZFB5UDViQ2tEemtvMU1mSUxrdmFqS0NIVjU3bjdHTzVBbjE2UExobHg0SUpOZ3k0OE5BODJSdVRtMVRla0tTTUpkZ1NYYW9nYw?oc=5\" target=\"_blank\">Wegovy Now Available Through WeightWatchers at $299: Novo Nordisk Expands Official Distribution Network</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+    "ai_summary": "Wegovy Now Available Through WeightWatchers at $299: Novo Nordisk Expands Official Distribution Network - Stock Titan. Wegovy now available through weightwatchers.com. Stock Titan is a joint venture between Nasdaq-listed Nasdaq.com and Lundbeck.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Wegovy Now Available Through WeightWatchers",
+        "label": "ORG",
+        "start": 0,
+        "end": 43
+      },
+      {
+        "text": "299",
+        "label": "MONEY",
+        "start": 48,
+        "end": 51
+      },
+      {
+        "text": "Titan",
+        "label": "GPE",
+        "start": 112,
+        "end": 117
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 122,
+        "end": 151
+      },
+      {
+        "text": "CBMiswFBVV95cUxQQ3dPeGVFQ3VTYl9jQTNKb1IyQmg0dEpQOXZCUloxbTl6eVVZSVR5R001WkFfUEtRa3cxRTlVZDBVd2ZjeE9Zb3NaQ3hvamtHbWZBT0E0SmwzUkVsY29pUm9hTFNLTUR4RnlOZFB5UDViQ2tEemtvMU1mSUxrdmFqS0NIVjU3bjdHTzVBbjE2UExobHg0SUpOZ3k0OE5BODJSdVRtMVRla0tTTUpkZ1NYYW9nYw?oc=5",
+        "label": "PERSON",
+        "start": 165,
+        "end": 416
+      },
+      {
+        "text": "299",
+        "label": "MONEY",
+        "start": 482,
+        "end": 485
+      }
+    ],
+    "category": "Strategy and Management"
+  },
+  {
+    "title": "Novo Nordisk terminates collaboration with Hims & Hers Health, Inc. due to concerns about their illegal mass compounding and deceptive marketing - PR Newswire",
+    "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPdHBxRDBaMF9OWXdhVGJ0WnBtcDhqcmhOa3VrWUd2dlFNZGcwbzhaWW9WdWViSzZSbHhpUkNfWXI3MEFFVzJVOHpHejBmbmFzaEoxRVR6OVBrdEVpQ3Y1d0UtVEZVRTJ4RmlDNlNkQ2EzRXVwWmFrRVM3NDhJZnk2czc5QUlRR2NHOS1LTTZja251ZEZISGpCTUxxQkNFZUJlZmJVekFLM054SDc1UTBDSXVQMWRlaXZDdnZ6UUtjTXhlYlJueTd2TzNMUVI2UF9jU0x2clhXWS1zTllqakdEdU5uQWtSUlVlZFRlRGtpUUU4VldrZDNTZHlLaUF1eGZRV2tqcTlRVVhaMmdUYTVTMklvN0JFM0ZyODd1NDlrS29VMDg?oc=5",
+    "published": "Mon, 23 Jun 2025 12:03:00 GMT",
+    "source": "PR Newswire",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxPdHBxRDBaMF9OWXdhVGJ0WnBtcDhqcmhOa3VrWUd2dlFNZGcwbzhaWW9WdWViSzZSbHhpUkNfWXI3MEFFVzJVOHpHejBmbmFzaEoxRVR6OVBrdEVpQ3Y1d0UtVEZVRTJ4RmlDNlNkQ2EzRXVwWmFrRVM3NDhJZnk2czc5QUlRR2NHOS1LTTZja251ZEZISGpCTUxxQkNFZUJlZmJVekFLM054SDc1UTBDSXVQMWRlaXZDdnZ6UUtjTXhlYlJueTd2TzNMUVI2UF9jU0x2clhXWS1zTllqakdEdU5uQWtSUlVlZFRlRGtpUUU4VldrZDNTZHlLaUF1eGZRV2tqcTlRVVhaMmdUYTVTMklvN0JFM0ZyODd1NDlrS29VMDg?oc=5\" target=\"_blank\">Novo Nordisk terminates collaboration with Hims & Hers Health, Inc. due to concerns about their illegal mass compounding and deceptive marketing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+    "ai_summary": "Novo Nordisk terminates collaboration with Hims & Hers Health, Inc. due to concerns about their illegal mass compounding and deceptive marketing - PR Newswire. Novo Nordisk: We have made a decision to terminate our collaboration with\u00a0Hers & Hers.",
     "company_type": "competitor",
     "content_source": "original_summary",
     "detected_entities": [
@@ -59,63 +230,57 @@
         "end": 12
       },
       {
-        "text": "SC",
+        "text": "Hims & Hers Health, Inc.",
         "label": "ORG",
-        "start": 31,
-        "end": 33
+        "start": 43,
+        "end": 67
+      },
+      {
+        "text": "PR Newswire",
+        "label": "ORG",
+        "start": 147,
+        "end": 158
       },
       {
         "text": "href=\"https://news.google.com",
         "label": "ORG",
-        "start": 103,
-        "end": 132
+        "start": 163,
+        "end": 192
       },
       {
         "text": "Nordisk",
         "label": "ORG",
-        "start": 290,
-        "end": 297
+        "start": 629,
+        "end": 636
       },
       {
-        "text": "SC",
+        "text": "Hims & Hers Health, Inc.",
         "label": "ORG",
-        "start": 316,
-        "end": 318
+        "start": 667,
+        "end": 691
       }
     ],
-    "category": "ESG and Sustainability"
+    "category": "Strategy and Management"
   },
   {
-    "title": "A $250 mistake seems set to cost Ozempic maker Novo Nordisk billions - Quartz",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PR2hCcTdiVTVrRVVfVGM5WGR5cTl3bWZTR19vYUF6Z1YxWEpOWkE1Wjg2bFVTMXNrT2otLWNSc2U2RDl0ZTlPV1BqUkhUSGJ0MEpnNDBuM2IzZFd5SFc1MnNOZVlsYnBOckQyWkhuM0FUMktwT3IwYnhFWEVtQVU?oc=5",
-    "published": "Mon, 16 Jun 2025 14:42:10 GMT",
-    "source": "Quartz",
-    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1PR2hCcTdiVTVrRVVfVGM5WGR5cTl3bWZTR19vYUF6Z1YxWEpOWkE1Wjg2bFVTMXNrT2otLWNSc2U2RDl0ZTlPV1BqUkhUSGJ0MEpnNDBuM2IzZFd5SFc1MnNOZVlsYnBOckQyWkhuM0FUMktwT3IwYnhFWEVtQVU?oc=5\" target=\"_blank\">A $250 mistake seems set to cost Ozempic maker Novo Nordisk billions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quartz</font>",
-    "ai_summary": "A $250 mistake seems set to cost Ozempic maker Novo Nordisk billions - Quartz. A $250 error seems to have cost the company billions of dollars. The mistake was made by the company's chief operating officer. The company has since apologised for the mistake.",
+    "title": "Novo Nordisk\u2019s New Obesity Drug Beats Wegovy Weight Loss in Early Trial - WSJ",
+    "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxQOTJsYXNtMGw0REZwRHBzZFhQeVJVWTh2REw0VzNrSDRnTTYtcWp4TlJ1eGcwSmx0YURSNzQxRUFxMzFiaDdWM0R3eUlLRHhoRnNIeU5NSmstMVpxUGVuX3VZelI0R0gtQnZTVU1ESGEzUnJQUTB1N1VtbFF5QzREajE0VTJiOW45cXBYZXZjUWhRVGljcWMwVmt0WVBQSmpYWjJqd2xuZTZJblA0cXg0djdoT01QSlFZMmtFb3Q2R0ZNVHF6UVJ2RUdxSmhmRDd2UlYxYVYyVHFPMjBrVzJ6SXFNbzhXOWxnWjdvWVUzYkw2Q3NxZHVNZjJIQjh0dlR3cW5RWmtMcGZhajloOUhEa2VteXA4TE1LaXEyZkhyTE40U0kxcUxxQ3FFbGZIOTc0aUZ5NTZ2RFRqZzVZUV9MMXFFUlMyaU5wUUl2Mk9DWFpIdG5uX3Q5MDgzcTZxWVViTGZBbGxNODNVM1JrOGc1RnRUNG5yTlNLRVktREFsS0FqVjZXbHktSnU2Q2RscjVKYTRWWXoyNWgzLXBwaWw3RUZSQmItTzREc3dxRndUTkRGYi1RXy1xWQ?oc=5",
+    "published": "Mon, 23 Jun 2025 10:25:00 GMT",
+    "source": "WSJ",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuANBVV95cUxQOTJsYXNtMGw0REZwRHBzZFhQeVJVWTh2REw0VzNrSDRnTTYtcWp4TlJ1eGcwSmx0YURSNzQxRUFxMzFiaDdWM0R3eUlLRHhoRnNIeU5NSmstMVpxUGVuX3VZelI0R0gtQnZTVU1ESGEzUnJQUTB1N1VtbFF5QzREajE0VTJiOW45cXBYZXZjUWhRVGljcWMwVmt0WVBQSmpYWjJqd2xuZTZJblA0cXg0djdoT01QSlFZMmtFb3Q2R0ZNVHF6UVJ2RUdxSmhmRDd2UlYxYVYyVHFPMjBrVzJ6SXFNbzhXOWxnWjdvWVUzYkw2Q3NxZHVNZjJIQjh0dlR3cW5RWmtMcGZhajloOUhEa2VteXA4TE1LaXEyZkhyTE40U0kxcUxxQ3FFbGZIOTc0aUZ5NTZ2RFRqZzVZUV9MMXFFUlMyaU5wUUl2Mk9DWFpIdG5uX3Q5MDgzcTZxWVViTGZBbGxNODNVM1JrOGc1RnRUNG5yTlNLRVktREFsS0FqVjZXbHktSnU2Q2RscjVKYTRWWXoyNWgzLXBwaWw3RUZSQmItTzREc3dxRndUTkRGYi1RXy1xWQ?oc=5\" target=\"_blank\">Novo Nordisk\u2019s New Obesity Drug Beats Wegovy Weight Loss in Early Trial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+    "ai_summary": "Novo Nordisk\u2019s New Obesity Drug Beats Wegovy Weight Loss in Early Trial - WSJ. Novo Nordisk's new drug is called Novo-Novo, a combination of\u00a0Novo-Nordisk and\u00a0Nordic Pharmaceuticals. The drug is being trialled in the U.S.",
     "company_type": "competitor",
     "content_source": "original_summary",
     "detected_entities": [
       {
-        "text": "250",
-        "label": "MONEY",
-        "start": 3,
-        "end": 6
-      },
-      {
-        "text": "Ozempic",
-        "label": "ORG",
-        "start": 33,
-        "end": 40
-      },
-      {
-        "text": "Novo Nordisk",
+        "text": "Novo Nordisk\u2019s",
         "label": "PERSON",
-        "start": 47,
-        "end": 59
+        "start": 0,
+        "end": 14
       },
       {
-        "text": "billions - Quartz",
-        "label": "CARDINAL",
+        "text": "Early Trial - WSJ",
+        "label": "ORG",
         "start": 60,
         "end": 77
       },
@@ -126,206 +291,1302 @@
         "end": 111
       },
       {
-        "text": "250",
-        "label": "MONEY",
-        "start": 326,
-        "end": 329
-      },
-      {
-        "text": "Ozempic",
+        "text": "Nordisk\u2019s New Obesity Drug Beats Wegovy Weight Loss",
         "label": "ORG",
-        "start": 356,
-        "end": 363
+        "start": 747,
+        "end": 798
+      }
+    ],
+    "category": "ESG and Sustainability"
+  },
+  {
+    "title": "General Mills earnings, Novo Nordisk stock slips, Micron results - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQnNlb25VVmVsM09Tc0IxNjd4WnJ2Y1ZzVHEwZ1RJczRNOURBQzlWUl9RVXRPbXdkSUhNMGlzNURwYnBYTENTYk5odVYtck1CMXFWYWEtZG9Bckh6ajN0bXJrTlpQUTUxazEyYk9iY2VoTklHV2p5aVNkR1pNN1NyUEVSeG5OVTIwWHc?oc=5",
+    "published": "Wed, 25 Jun 2025 18:20:02 GMT",
+    "source": "Yahoo Finance",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPQnNlb25VVmVsM09Tc0IxNjd4WnJ2Y1ZzVHEwZ1RJczRNOURBQzlWUl9RVXRPbXdkSUhNMGlzNURwYnBYTENTYk5odVYtck1CMXFWYWEtZG9Bckh6ajN0bXJrTlpQUTUxazEyYk9iY2VoTklHV2p5aVNkR1pNN1NyUEVSeG5OVTIwWHc?oc=5\" target=\"_blank\">General Mills earnings, Novo Nordisk stock slips, Micron results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+    "ai_summary": "General Mills earnings, Novo Nordisk stock slips, Micron results - Yahoo Finance. General Mills Earnings, Nova Nordisk Stock slips, and Micron Results. Yahoo Finance: General Mills earnings. Novo-Nordisk Stock Slips. Micron Stock Slides.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "General Mills",
+        "label": "ORG",
+        "start": 0,
+        "end": 13
       },
       {
         "text": "Novo Nordisk",
         "label": "PERSON",
-        "start": 370,
-        "end": 382
+        "start": 24,
+        "end": 36
+      },
+      {
+        "text": "Micron",
+        "label": "ORG",
+        "start": 50,
+        "end": 56
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 85,
+        "end": 114
+      },
+      {
+        "text": "CBMiigFBVV95cUxPQnNlb25VVmVsM09Tc0IxNjd4WnJ2Y1ZzVHEwZ1RJczRNOURBQzlWUl9RVXRPbXdkSUhNMGlzNURwYnBYTENTYk5odVYtck1CMXFWYWEtZG9Bckh6ajN0bXJrTlpQUTUxazEyYk9iY2VoTklHV2p5aVNkR1pNN1NyUEVSeG5OVTIwWHc?oc=5",
+        "label": "ORG",
+        "start": 128,
+        "end": 324
+      },
+      {
+        "text": "Mills",
+        "label": "ORG",
+        "start": 350,
+        "end": 355
+      },
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 366,
+        "end": 378
+      },
+      {
+        "text": "Micron results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+        "label": "ORG",
+        "start": 392,
+        "end": 464
       }
     ],
     "category": "Strategy and Management"
   },
   {
-    "title": "The story of how Novo Nordisk will lose billions because it didn\u2019t pay a couple of hundred dollars - MarketWatch",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSmYzODExd2VsdHlpLVo1V0o1RnpKTVF6QzVnajRSakI2OF9JUlRxYXpMb2g2U2thazhuVGxZOE13Ynk0NE03aUpleENBZWwtYl9RRlF2ZGZWTzRxdXhXWGpYSXk3QjJ4dTZfWUtESWlRWDhWVDJYQ0hzQmZ5LURtd1pGc3JUWUVCdHZjbVFUcll0UENaOEpUZFBuM2lQcEJ1N0ZfQmpBX2Y4YV9Sek9LbW4yVlcwZHJzeVJseE0yVWc5ZWlaRWlkV0s1c2hDZDZobTRWa2lMZw?oc=5",
-    "published": "Mon, 16 Jun 2025 08:24:00 GMT",
-    "source": "MarketWatch",
-    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSmYzODExd2VsdHlpLVo1V0o1RnpKTVF6QzVnajRSakI2OF9JUlRxYXpMb2g2U2thazhuVGxZOE13Ynk0NE03aUpleENBZWwtYl9RRlF2ZGZWTzRxdXhXWGpYSXk3QjJ4dTZfWUtESWlRWDhWVDJYQ0hzQmZ5LURtd1pGc3JUWUVCdHZjbVFUcll0UENaOEpUZFBuM2lQcEJ1N0ZfQmpBX2Y4YV9Sek9LbW4yVlcwZHJzeVJseE0yVWc5ZWlaRWlkV0s1c2hDZDZobTRWa2lMZw?oc=5\" target=\"_blank\">The story of how Novo Nordisk will lose billions because it didn\u2019t pay a couple of hundred dollars</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
-    "ai_summary": "The story of how Novo Nordisk will lose billions because it didn\u2019t pay a couple of hundred dollars - MarketWatch. The story ofHowNovo Nordisks will lose billion because it did not pay a few hundred dollars.",
+    "title": "Novo Nordisk Stock Sinks as Latest Weight-Loss Drug Trial Disappoints - Investopedia",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVk1hMWhsNFpnVklwOHN4ZmFSZ0E4Z2ZIT0xZMzYxTkhtcmlDR2JGNnREaWN5M0pEemg2c1hyWFE1bDExWVZkR0VrNTNGZW9SS1QzelV3a2lFRFRLaGkzWkdjeFM0WG9mU1Z3V2UxTmpRUXM3V19VNUVnYThEYnBzVktMbkMxazQ3djNZQTgwaVhjdDIzSF91ZWVjOGZUNEl1cDZ1MnZ2dHJBdVU?oc=5",
+    "published": "Mon, 23 Jun 2025 15:20:25 GMT",
+    "source": "Investopedia",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVk1hMWhsNFpnVklwOHN4ZmFSZ0E4Z2ZIT0xZMzYxTkhtcmlDR2JGNnREaWN5M0pEemg2c1hyWFE1bDExWVZkR0VrNTNGZW9SS1QzelV3a2lFRFRLaGkzWkdjeFM0WG9mU1Z3V2UxTmpRUXM3V19VNUVnYThEYnBzVktMbkMxazQ3djNZQTgwaVhjdDIzSF91ZWVjOGZUNEl1cDZ1MnZ2dHJBdVU?oc=5\" target=\"_blank\">Novo Nordisk Stock Sinks as Latest Weight-Loss Drug Trial Disappoints</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>",
+    "ai_summary": "Novo Nordisk Stock Sinks as Latest Weight-Loss Drug Trial Disappoints - Investopedia. Novo Nordisk stock down 2.7% on Monday morning after disappointing results from drug trial. The stock is down 1.8% on Tuesday morning after the results were announced.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Novo Nordisk Stock Sinks",
+        "label": "ORG",
+        "start": 0,
+        "end": 24
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 89,
+        "end": 118
+      },
+      {
+        "text": "Nordisk Stock Sinks",
+        "label": "ORG",
+        "start": 395,
+        "end": 414
+      }
+    ],
+    "category": "ESG and Sustainability"
+  },
+  {
+    "title": "Novo Nordisk to Expand Access to Wegovy With WeightWatchers Partnership - WSJ",
+    "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNMGQ1TVRmYlYtLTJIQTNNOExkLXM5Sm9mdGhOS2Z5VmZjRF9CT2x2eFVwU3FaZHo1Vm54aERnZ2cwTjZDRVJHX3FPdnAxZlVwN1VTb1lnWEFodWZZcHBjemwtRUV2cnZHbERoWjROZHQtQzRUT0NoTjlHbkZ1WWVVLWRLNGFMNlYwM0kyQWVfNGZUeHZ4UndiMi1lOEptSWZlS0V4WEJYZVNFMEJhbmRQWEIzU243TWZQdWVZS0tsV29ab3U3eHUxV2hfTUxfcWg1aVJ4RzdNeHBSVlNHNWhwdTFnc0pMWjJiQVJWUzVpVEc4Yzk4YXlmMHBoaFlud2dQQjNoNVpvdjBhV3k5emplMnVlQUZKelNiclRoZTNGUUxLM214S05BT2tiTUlJbnFGNG16Z0xaTFRCSUl5Zm9CVktXdnE0LVI3X3NrMVZEQU93SXpOVW4ycHd2RkZSMDY5dFJxTk9wT0N5RFk5UG9RRURCX0lOMTZBZDlvWDlOWjFRZ1c1VjBXdEVGWW5ERmhncWFTVWcxU2RhenYwZDI4MDRyeVR2aVpELUxLY1luZm12WURVQkd4Z3RR?oc=5",
+    "published": "Thu, 26 Jun 2025 16:41:00 GMT",
+    "source": "WSJ",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugNBVV95cUxNMGQ1TVRmYlYtLTJIQTNNOExkLXM5Sm9mdGhOS2Z5VmZjRF9CT2x2eFVwU3FaZHo1Vm54aERnZ2cwTjZDRVJHX3FPdnAxZlVwN1VTb1lnWEFodWZZcHBjemwtRUV2cnZHbERoWjROZHQtQzRUT0NoTjlHbkZ1WWVVLWRLNGFMNlYwM0kyQWVfNGZUeHZ4UndiMi1lOEptSWZlS0V4WEJYZVNFMEJhbmRQWEIzU243TWZQdWVZS0tsV29ab3U3eHUxV2hfTUxfcWg1aVJ4RzdNeHBSVlNHNWhwdTFnc0pMWjJiQVJWUzVpVEc4Yzk4YXlmMHBoaFlud2dQQjNoNVpvdjBhV3k5emplMnVlQUZKelNiclRoZTNGUUxLM214S05BT2tiTUlJbnFGNG16Z0xaTFRCSUl5Zm9CVktXdnE0LVI3X3NrMVZEQU93SXpOVW4ycHd2RkZSMDY5dFJxTk9wT0N5RFk5UG9RRURCX0lOMTZBZDlvWDlOWjFRZ1c1VjBXdEVGWW5ERmhncWFTVWcxU2RhenYwZDI4MDRyeVR2aVpELUxLY1luZm12WURVQkd4Z3RR?oc=5\" target=\"_blank\">Novo Nordisk to Expand Access to Wegovy With WeightWatchers Partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+    "ai_summary": "Novo Nordisk to Expand Access to Wegovy With WeightWatchers Partnership - WSJ. Novo Nordisk will offer Weight Watchers to government officials. The company will also offer its own health care products to the government.",
     "company_type": "competitor",
     "content_source": "original_summary",
     "detected_entities": [
       {
         "text": "Novo Nordisk",
         "label": "PERSON",
-        "start": 17,
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Expand Access",
+        "label": "ORG",
+        "start": 16,
         "end": 29
       },
       {
-        "text": "billions",
-        "label": "CARDINAL",
-        "start": 40,
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 82,
+        "end": 111
+      },
+      {
+        "text": "Nordisk to Expand Access to Wegovy With WeightWatchers",
+        "label": "ORG",
+        "start": 749,
+        "end": 803
+      }
+    ],
+    "category": "ESG and Sustainability"
+  },
+  {
+    "title": "Why Shares in Novo Nordisk Lost Weight Today - The Motley Fool",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVmtWQlgyakY3ZUxHWjdSRE9ZYnUyamo1N1dEMk5LdlFXVDY5R05JSlkxUTl3NVdVSllMSzEzWnZudS1jOWFsaHZUWk9hQkw2c3IwcnhVQVdTczlTcm41V3J6V0xCVm1NNFc4S2J1OHFGc2Znc1NfWkRSTFBuRTZyeUJYRzhMbExQUlJVRUIzY08?oc=5",
+    "published": "Wed, 25 Jun 2025 19:09:16 GMT",
+    "source": "The Motley Fool",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOVmtWQlgyakY3ZUxHWjdSRE9ZYnUyamo1N1dEMk5LdlFXVDY5R05JSlkxUTl3NVdVSllMSzEzWnZudS1jOWFsaHZUWk9hQkw2c3IwcnhVQVdTczlTcm41V3J6V0xCVm1NNFc4S2J1OHFGc2Znc1NfWkRSTFBuRTZyeUJYRzhMbExQUlJVRUIzY08?oc=5\" target=\"_blank\">Why Shares in Novo Nordisk Lost Weight Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+    "ai_summary": "Why Shares in Novo Nordisk Lost Weight Today - The Motley Fool. Why Shares in Nordisk lost weight today? Read this article and decide for yourself. Share this article with the Daily Discussion below and share it with your friends on Facebook and Twitter.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Novo Nordisk",
+        "label": "ORG",
+        "start": 14,
+        "end": 26
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 67,
+        "end": 96
+      },
+      {
+        "text": "Novo Nordisk Lost Weight",
+        "label": "ORG",
+        "start": 346,
+        "end": 370
+      },
+      {
+        "text": "color=\"#6f6f6f\">The Motley",
+        "label": "ORG",
+        "start": 398,
+        "end": 424
+      }
+    ],
+    "category": "Strategy and Management"
+  },
+  {
+    "title": "Novo Nordisk halts Wegovy sales on Hims & Hers, claiming \"deceptive marketing\" practices - CBS News",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNekktRUVsZE1Vc3BXbDBRVkgwR1FVT3g3d0N0cVViMGx6cUVRRlFZN25jMDJfMC1zZEVPZmJoV2ExSnFidDZ0ZUJiVHFCTno0bmdDMUVTQmh2b1FvQV9Fc3NlbFRCUWtzN0poVmpXNEw5bXFjTGxGWWhkSmVHUHlCNkw1MNIBiAFBVV95cUxQYkJFMW43NzNramQ1NHB4TDRCaDBuanp3Qm1jNkZYTDNMZTFFTkQxQ3VBYmNfMks2NTd6Skx1SHVrdnJvS1lGdTkwMy1lWDBHUlFtUDNhdkZFTVdCanpyNC10VGdnSUxJUExMVlZrRXJuSHBqUHZZYVo3WkxlSWRVdklkTjNhNXJf?oc=5",
+    "published": "Mon, 23 Jun 2025 18:49:50 GMT",
+    "source": "CBS News",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNekktRUVsZE1Vc3BXbDBRVkgwR1FVT3g3d0N0cVViMGx6cUVRRlFZN25jMDJfMC1zZEVPZmJoV2ExSnFidDZ0ZUJiVHFCTno0bmdDMUVTQmh2b1FvQV9Fc3NlbFRCUWtzN0poVmpXNEw5bXFjTGxGWWhkSmVHUHlCNkw1MNIBiAFBVV95cUxQYkJFMW43NzNramQ1NHB4TDRCaDBuanp3Qm1jNkZYTDNMZTFFTkQxQ3VBYmNfMks2NTd6Skx1SHVrdnJvS1lGdTkwMy1lWDBHUlFtUDNhdkZFTVdCanpyNC10VGdnSUxJUExMVlZrRXJuSHBqUHZZYVo3WkxlSWRVdklkTjNhNXJf?oc=5\" target=\"_blank\">Novo Nordisk halts Wegovy sales on Hims & Hers, claiming \"deceptive marketing\" practices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+    "ai_summary": "Novo Nordisk halts Wegovy sales on Hims & Hers, claiming \"deceptive marketing\" practices - CBS News. Novo Nordisk: We are committed to transparency in our marketing. We are also committed to our customers' health and well-being.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Wegovy",
+        "label": "ORG",
+        "start": 19,
+        "end": 25
+      },
+      {
+        "text": "Hims & Hers",
+        "label": "ORG",
+        "start": 35,
+        "end": 46
+      },
+      {
+        "text": "CBS News",
+        "label": "ORG",
+        "start": 91,
+        "end": 99
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 104,
+        "end": 133
+      },
+      {
+        "text": "Nordisk",
+        "label": "ORG",
+        "start": 543,
+        "end": 550
+      },
+      {
+        "text": "Wegovy",
+        "label": "ORG",
+        "start": 557,
+        "end": 563
+      },
+      {
+        "text": "Hims & Hers",
+        "label": "ORG",
+        "start": 573,
+        "end": 584
+      },
+      {
+        "text": "color=\"#6f6f6f\">CBS News</font>",
+        "label": "PERSON",
+        "start": 648,
+        "end": 679
+      }
+    ],
+    "category": "Strategy and Management"
+  },
+  {
+    "title": "Novo Nordisk ends collaboration with Hims & Hers for discounted weight loss meds - ABC News - Breaking News, Latest News and Videos",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdGRib3VmaUtwZGJteFFFUXYtaEtCejFNaGxJTXlsdFJuTmJSS3Zwb1NvRlZwY2NkWWlic2E3UDk0aVZGcHFocVFDUDE2TUdnUGNhQWNzUkJhWkt6M25ERWM0RUpvZ0JrZ0RHXzEwcUx6X0VyZkxJYnBpSDBmNTVoS1JkZEIwVTVua1NjWk9xZkRMVHFCZWdDcnQ2T1VkZGVvU3poZ2pNTXZxT3JaUmh1b3BqOFTSAboBQVVfeXFMTzBSdGRYanY0NUZNMTdtOUtrWVZMaHdLWEQyRmpCOGMyemhhTFRjZ3JOTFp0WmM0Vk5WeFVWbGlIXzVPcFNnZGx0VkVObTQ3dEZVSmpVNUkwdFBpMVlMUlVmSkxqMTZ0ZF9UTm5mWlFjM3BfMzBXUVBzcGh3TUo5VWRzZl96cUhHVHRsaHBhdmdoSVVCYmd3WDVpN3kwUDZvUHR4cUFmemQ0MVNGOWkzbUJfZm9LUWxrMm9B?oc=5",
+    "published": "Tue, 24 Jun 2025 00:45:00 GMT",
+    "source": "ABC News - Breaking News, Latest News and Videos",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNdGRib3VmaUtwZGJteFFFUXYtaEtCejFNaGxJTXlsdFJuTmJSS3Zwb1NvRlZwY2NkWWlic2E3UDk0aVZGcHFocVFDUDE2TUdnUGNhQWNzUkJhWkt6M25ERWM0RUpvZ0JrZ0RHXzEwcUx6X0VyZkxJYnBpSDBmNTVoS1JkZEIwVTVua1NjWk9xZkRMVHFCZWdDcnQ2T1VkZGVvU3poZ2pNTXZxT3JaUmh1b3BqOFTSAboBQVVfeXFMTzBSdGRYanY0NUZNMTdtOUtrWVZMaHdLWEQyRmpCOGMyemhhTFRjZ3JOTFp0WmM0Vk5WeFVWbGlIXzVPcFNnZGx0VkVObTQ3dEZVSmpVNUkwdFBpMVlMUlVmSkxqMTZ0ZF9UTm5mWlFjM3BfMzBXUVBzcGh3TUo5VWRzZl96cUhHVHRsaHBhdmdoSVVCYmd3WDVpN3kwUDZvUHR4cUFmemQ0MVNGOWkzbUJfZm9LUWxrMm9B?oc=5\" target=\"_blank\">Novo Nordisk ends collaboration with Hims & Hers for discounted weight loss meds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font>",
+    "ai_summary": "Novo Nordisk ends collaboration with Hims & Hers for discounted weight loss meds. ABC News - Breaking News, Latest News and Videos. Novo Nordisk Ends Collaboration With Hims and Hers for Discounted Meds. For confidential support call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or see www.samaritans.org.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Hims & Hers",
+        "label": "ORG",
+        "start": 37,
         "end": 48
       },
       {
-        "text": "a couple of hundred dollars - MarketWatch",
-        "label": "MONEY",
-        "start": 71,
-        "end": 112
+        "text": "ABC News - Breaking News,",
+        "label": "ORG",
+        "start": 83,
+        "end": 108
+      },
+      {
+        "text": "Latest News",
+        "label": "ORG",
+        "start": 109,
+        "end": 120
+      },
+      {
+        "text": "Videos",
+        "label": "GPE",
+        "start": 125,
+        "end": 131
       },
       {
         "text": "href=\"https://news.google.com",
         "label": "ORG",
-        "start": 117,
-        "end": 146
+        "start": 136,
+        "end": 165
+      },
+      {
+        "text": "CBMitAFBVV95cUxNdGRib3VmaUtwZGJteFFFUXYtaEtCejFNaGxJTXlsdFJuTmJSS3Zwb1NvRlZwY2NkWWlic2E3UDk0aVZGcHFocVFDUDE2TUdnUGNhQWNzUkJhWkt6M25ERWM0RUpvZ0JrZ0RHXzEwcUx6X0VyZkxJYnBpSDBmNTVoS1JkZEIwVTVua1NjWk9xZkRMVHFCZWdDcnQ2T1VkZGVvU3poZ2pNTXZxT3JaUmh1b3BqOFTSAboBQVVfeXFMTzBSdGRYanY0NUZNMTdtOUtrWVZMaHdLWEQyRmpCOGMyemhhTFRjZ3JOTFp0WmM0Vk5WeFVWbGlIXzVPcFNnZGx0VkVObTQ3dEZVSmpVNUkwdFBpMVlMUlVmSkxqMTZ0ZF9UTm5mWlFjM3BfMzBXUVBzcGh3TUo5VWRzZl96cUhHVHRsaHBhdmdoSVVCYmd3WDVpN3kwUDZvUHR4cUFmemQ0MVNGOWkzbUJfZm9LUWxrMm9B?oc=5",
+        "label": "GPE",
+        "start": 179,
+        "end": 684
+      },
+      {
+        "text": "Nordisk",
+        "label": "ORG",
+        "start": 707,
+        "end": 714
+      },
+      {
+        "text": "Hims & Hers",
+        "label": "ORG",
+        "start": 739,
+        "end": 750
+      },
+      {
+        "text": "meds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News",
+        "label": "PERSON",
+        "start": 778,
+        "end": 844
+      },
+      {
+        "text": "Latest News",
+        "label": "ORG",
+        "start": 846,
+        "end": 857
+      }
+    ],
+    "category": "Strategy and Management"
+  },
+  {
+    "title": "Novo Nordisk launches weight-loss drug Wegovy in India to compete with Lilly's Mounjaro - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUjFiQ1RWU3MyQnFheG5BVTNuTXphTjlkcVo3NEYxLWg1d3V2Y3NMYlNFeDJDOGhRZVRZWktaLURrWlhBcVFUT0gzcmMxWl9OcnBGX21wWV8xSlBQU1NrazFxa1QtT2RNS1lkYkVCbDcyMlBSUkhOT3lQVGpkSVZMQzZIVjUzaVYwQzY2TnJWamYtVW1aYlBQNVR5OHVYYXQxUzF1T0lqOGFQT0cwT2JXZERxT3hQNllmRkNuTS1VczB6a0w5aVhhcXZ6Q0QxR00?oc=5",
+    "published": "Tue, 24 Jun 2025 14:47:35 GMT",
+    "source": "Reuters",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPUjFiQ1RWU3MyQnFheG5BVTNuTXphTjlkcVo3NEYxLWg1d3V2Y3NMYlNFeDJDOGhRZVRZWktaLURrWlhBcVFUT0gzcmMxWl9OcnBGX21wWV8xSlBQU1NrazFxa1QtT2RNS1lkYkVCbDcyMlBSUkhOT3lQVGpkSVZMQzZIVjUzaVYwQzY2TnJWamYtVW1aYlBQNVR5OHVYYXQxUzF1T0lqOGFQT0cwT2JXZERxT3hQNllmRkNuTS1VczB6a0w5aVhhcXZ6Q0QxR00?oc=5\" target=\"_blank\">Novo Nordisk launches weight-loss drug Wegovy in India to compete with Lilly's Mounjaro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+    "ai_summary": "Novo Nordisk launches weight-loss drug Wegovy in India to compete with Lilly's Mounjaro - Reuters. Novo Nordisk: \"Wegovy is a low-calorie, low-fat weight loss drug\"",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "India",
+        "label": "GPE",
+        "start": 49,
+        "end": 54
+      },
+      {
+        "text": "Lilly",
+        "label": "ORG",
+        "start": 71,
+        "end": 76
+      },
+      {
+        "text": "Mounjaro - Reuters",
+        "label": "ORG",
+        "start": 79,
+        "end": 97
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 102,
+        "end": 131
+      },
+      {
+        "text": "Nordisk",
+        "label": "ORG",
+        "start": 456,
+        "end": 463
+      },
+      {
+        "text": "India",
+        "label": "GPE",
+        "start": 500,
+        "end": 505
+      },
+      {
+        "text": "Lilly",
+        "label": "ORG",
+        "start": 522,
+        "end": 527
+      }
+    ],
+    "category": "Strategy and Management"
+  },
+  {
+    "title": "Hims & Hers stock plunges 30% as Novo Nordisk terminates Wegovy direct sales deal - Fierce Healthcare",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcGxlQ2gxaHZsZEJpbjdvUUUyamU0SC1JcU9OQWlmalQ5MmZDUnc4RGFSTF9xMXF1ZFJ2THBmTU9ESTNwcW0xRXN4RjhwRktTazkycDVYNlBwMGR6TUNtY2hOQVVjVUdvVWJfUV9aOTM4NFZLeHMtWXNCVkgzSEVwbmtvNDFYOVRURFU4ZEE5a2lTZjVlR3Z4UTRqV2tTVGNCd0RhOTV5c1BHM1lQOF9TU0FWbDgySHNEVW9PTA?oc=5",
+    "published": "Mon, 23 Jun 2025 16:00:00 GMT",
+    "source": "Fierce Healthcare",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPcGxlQ2gxaHZsZEJpbjdvUUUyamU0SC1JcU9OQWlmalQ5MmZDUnc4RGFSTF9xMXF1ZFJ2THBmTU9ESTNwcW0xRXN4RjhwRktTazkycDVYNlBwMGR6TUNtY2hOQVVjVUdvVWJfUV9aOTM4NFZLeHMtWXNCVkgzSEVwbmtvNDFYOVRURFU4ZEE5a2lTZjVlR3Z4UTRqV2tTVGNCd0RhOTV5c1BHM1lQOF9TU0FWbDgySHNEVW9PTA?oc=5\" target=\"_blank\">Hims & Hers stock plunges 30% as Novo Nordisk terminates Wegovy direct sales deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fierce Healthcare</font>",
+    "ai_summary": "Hims & Hers stock plunges 30% as Novo Nordisk terminates Wegovy direct sales deal. Fierce Healthcare reports Hims & Hers shares fell 30% to $6.05. Fierder Healthcare is a leading provider of healthcare services.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Hims & Hers",
+        "label": "ORG",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "30%",
+        "label": "PERCENT",
+        "start": 26,
+        "end": 29
       },
       {
         "text": "Novo Nordisk",
         "label": "PERSON",
-        "start": 494,
-        "end": 506
+        "start": 33,
+        "end": 45
       },
       {
-        "text": "billions",
-        "label": "CARDINAL",
-        "start": 517,
-        "end": 525
-      },
-      {
-        "text": "a couple of hundred",
-        "label": "CARDINAL",
-        "start": 548,
-        "end": 567
-      }
-    ],
-    "category": "Strategy and Management"
-  },
-  {
-    "title": "Novo Nordisk Reclaims Top Spot in Europe by Market Value - Insider Monkey",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORkFjWUdPYWkxVVN3UHBoV21ZUklwbVRoSGp3Y1FxUHpORm9wS2F3M21iRVptclpQcXB0NjdpaXR0R3VpWHE4RkxTYlN4c1JRQndHb1RyXzBzNmtERXVtSlRNT084akVGOFZScXhkNVBwLXpWWm00emQwVVJFc1M3WWs0WXVtUDNnU0cycVRjNGVudng1NlpVRDJfbE5tYnY2MmfSAaoBQVVfeXFMUE5wN0lUU1ljN3B5eDI2SHBIQXJLb2ZDNlVFN2ZESGRCRm5leklEUkdFM1lKRDdlZk52ZndvRzdiYkMzZk1UUzN5WTNqOXlHdGNmZ3lQTlRnTGxiMG9rWVhYNVVhbGhFcWZWTVNjd2hEd3d4LWh4X29TWlFrNDM0cHloZUVROHdDM0FkZjRuc0ZCdEhWYnNwWWo5Nnl4TFdvdFJuRFpHZk1NcEE?oc=5",
-    "published": "Tue, 17 Jun 2025 17:55:52 GMT",
-    "source": "Insider Monkey",
-    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxORkFjWUdPYWkxVVN3UHBoV21ZUklwbVRoSGp3Y1FxUHpORm9wS2F3M21iRVptclpQcXB0NjdpaXR0R3VpWHE4RkxTYlN4c1JRQndHb1RyXzBzNmtERXVtSlRNT084akVGOFZScXhkNVBwLXpWWm00emQwVVJFc1M3WWs0WXVtUDNnU0cycVRjNGVudng1NlpVRDJfbE5tYnY2MmfSAaoBQVVfeXFMUE5wN0lUU1ljN3B5eDI2SHBIQXJLb2ZDNlVFN2ZESGRCRm5leklEUkdFM1lKRDdlZk52ZndvRzdiYkMzZk1UUzN5WTNqOXlHdGNmZ3lQTlRnTGxiMG9rWVhYNVVhbGhFcWZWTVNjd2hEd3d4LWh4X29TWlFrNDM0cHloZUVROHdDM0FkZjRuc0ZCdEhWYnNwWWo5Nnl4TFdvdFJuRFpHZk1NcEE?oc=5\" target=\"_blank\">Novo Nordisk Reclaims Top Spot in Europe by Market Value</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Insider Monkey</font>",
-    "ai_summary": "Novo Nordisk Reclaims Top Spot in Europe by Market Value - Insider Monkey. Novo Nordisk's share price is up more than 6% in the last three months. The stock is trading at a record high of $28.50 per share.",
-    "company_type": "competitor",
-    "content_source": "original_summary",
-    "detected_entities": [
-      {
-        "text": "Novo Nordisk Reclaims Top Spot",
-        "label": "PERSON",
-        "start": 0,
-        "end": 30
-      },
-      {
-        "text": "Europe",
-        "label": "LOC",
-        "start": 34,
-        "end": 40
+        "text": "Wegovy",
+        "label": "ORG",
+        "start": 57,
+        "end": 63
       },
       {
         "text": "href=\"https://news.google.com",
         "label": "ORG",
-        "start": 78,
-        "end": 107
+        "start": 106,
+        "end": 135
       },
       {
-        "text": "CBMiogFBVV95cUxORkFjWUdPYWkxVVN3UHBoV21ZUklwbVRoSGp3Y1FxUHpORm9wS2F3M21iRVptclpQcXB0NjdpaXR0R3VpWHE4RkxTYlN4c1JRQndHb1RyXzBzNmtERXVtSlRNT084akVGOFZScXhkNVBwLXpWWm00emQwVVJFc1M3WWs0WXVtUDNnU0cycVRjNGVudng1NlpVRDJfbE5tYnY2MmfSAaoBQVVfeXFMUE5wN0lUU1ljN3B5eDI2SHBIQXJLb2ZDNlVFN2ZESGRCRm5leklEUkdFM1lKRDdlZk52ZndvRzdiYkMzZk1UUzN5WTNqOXlHdGNmZ3lQTlRnTGxiMG9rWVhYNVVhbGhFcWZWTVNjd2hEd3d4LWh4X29TWlFrNDM0cHloZUVROHdDM0FkZjRuc0ZCdEhWYnNwWWo5Nnl4TFdvdFJuRFpHZk1NcEE?oc=5",
-        "label": "GPE",
-        "start": 121,
-        "end": 581
+        "text": "30%",
+        "label": "PERCENT",
+        "start": 456,
+        "end": 459
       },
       {
-        "text": "Nordisk Reclaims Top Spot",
+        "text": "Novo Nordisk",
         "label": "PERSON",
-        "start": 604,
-        "end": 629
+        "start": 463,
+        "end": 475
       },
       {
-        "text": "Europe",
-        "label": "LOC",
-        "start": 633,
-        "end": 639
+        "text": "Wegovy",
+        "label": "ORG",
+        "start": 487,
+        "end": 493
+      }
+    ],
+    "category": "ESG and Sustainability"
+  },
+  {
+    "title": "Novo Nordisk ends deal with Hims due to compounding concerns with obesity drugs - STAT",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNODU4STZFN2FULXZ6WUtDdjl2VnBCTzNlM09zVGF2cWMxUmhYRERFVkM4MFh0UmowMjYxVE1jdzlTR0xEbzJqWWw4Q1dOQk1VRlBrMUdibU9SQ1I2TlQ1X0NHWjFtTUppalpNSDVRbDRNY1pES3JfTS1FZ3JDSkc0TWR0REVZS1ZoQmRrWWtGWHZxTV9Rd3EzNlhDeGVkbWJuNU5MNDdfQ2VSc0N3dWVhTllmNA?oc=5",
+    "published": "Mon, 23 Jun 2025 12:39:46 GMT",
+    "source": "STAT",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNODU4STZFN2FULXZ6WUtDdjl2VnBCTzNlM09zVGF2cWMxUmhYRERFVkM4MFh0UmowMjYxVE1jdzlTR0xEbzJqWWw4Q1dOQk1VRlBrMUdibU9SQ1I2TlQ1X0NHWjFtTUppalpNSDVRbDRNY1pES3JfTS1FZ3JDSkc0TWR0REVZS1ZoQmRrWWtGWHZxTV9Rd3EzNlhDeGVkbWJuNU5MNDdfQ2VSc0N3dWVhTllmNA?oc=5\" target=\"_blank\">Novo Nordisk ends deal with Hims due to compounding concerns with obesity drugs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">STAT</font>",
+    "ai_summary": "Novo Nordisk ends deal with Hims due to compounding concerns with obesity drugs. Novo Nordisk end deal due to 'compounding concerns' over obesity drugs, STAT reports. The company has been working on a new obesity drug for more than a decade.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Hims",
+        "label": "ORG",
+        "start": 28,
+        "end": 32
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 91,
+        "end": 120
+      },
+      {
+        "text": "Nordisk",
+        "label": "ORG",
+        "start": 408,
+        "end": 415
+      },
+      {
+        "text": "Hims",
+        "label": "ORG",
+        "start": 431,
+        "end": 435
       }
     ],
     "category": "Strategy and Management"
   },
   {
-    "title": "FDA Launches AI Experiment to Streamline Drug Reviews as Novo Nordisk Faces Rising Competition in Obesity Treatments - geneonline.com",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSFNNbXdiemV4bml5UGhUQlhRclZTcGM3M0hDb29KYVk4OUlMLVE4ak9ldWlLSGMxTjFUY1p2UkFpQ091UWFxUFp4bzdZWm1KSjNNX1JzV1BubktLRDNlcGFNcXRSVlY5WHJDM2ZiRzlJYUdhamNFdDU5NWdDazlPYWFiUy0xMXdseEJTZ21vUXBDRlpCY0RJZHdzY0pYV3NOeHo2RFdjTzhCbllGeDJsMHFHbTJ1eThEUjRINlJqOUxTb29xcDZsbWdYNTVmcVBySkFCMnV5b2ZnbXNy?oc=5",
-    "published": "Wed, 18 Jun 2025 00:07:15 GMT",
-    "source": "geneonline.com",
-    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSFNNbXdiemV4bml5UGhUQlhRclZTcGM3M0hDb29KYVk4OUlMLVE4ak9ldWlLSGMxTjFUY1p2UkFpQ091UWFxUFp4bzdZWm1KSjNNX1JzV1BubktLRDNlcGFNcXRSVlY5WHJDM2ZiRzlJYUdhamNFdDU5NWdDazlPYWFiUy0xMXdseEJTZ21vUXBDRlpCY0RJZHdzY0pYV3NOeHo2RFdjTzhCbllGeDJsMHFHbTJ1eThEUjRINlJqOUxTb29xcDZsbWdYNTVmcVBySkFCMnV5b2ZnbXNy?oc=5\" target=\"_blank\">FDA Launches AI Experiment to Streamline Drug Reviews as Novo Nordisk Faces Rising Competition in Obesity Treatments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">geneonline.com</font>",
-    "ai_summary": "FDA Launches AI Experiment to Streamline Drug Reviews as Novo Nordisk Faces Rising Competition in Obesity Treatments. FDA launches AI experiment to streamline drug reviews as Novos Nordisk faces rising competition in obesity treatments. Novos faces competition from GlaxoSmithKline, Gilead Sciences, and others.",
+    "title": "Novo Nordisk ends deal with Hims & Hers over sales of Wegovy copycats; HIMS drops 34% - CNBC",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaWFCelhkZHVwX1pvWUZ2bDMwR2o1UnRoc3FvUjRJcDVuR2VXT2V6UDVwcHJxcVRDbFJZRENSZHBTdm9DMjNCdV93enhBTDQ2LTJESHhScml1OFZRNW1SaXR5cXNqR3NKdEY1WDVaSEdJMDdjZE9qTmhmajFaZDE0SEk3RTdzRHl00gGOAUFVX3lxTE15SXRJT0sydmZvWmFZbElMU09EUTBoSS1nbWh1YkNlcVItOHByXzZTTENoZU8yLXZOa3VfejZQZ19hNmNSUEVHbUp1MElZckxyYllxVDNBb3FJVHFNeDV5V3FkV19hMTBZdmQ4YXZjc0JMUFNSbGNXbnpMdE1uc2x5TmEwUHlLRFVhMXZCMkE?oc=5",
+    "published": "Mon, 23 Jun 2025 12:20:56 GMT",
+    "source": "CNBC",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaWFCelhkZHVwX1pvWUZ2bDMwR2o1UnRoc3FvUjRJcDVuR2VXT2V6UDVwcHJxcVRDbFJZRENSZHBTdm9DMjNCdV93enhBTDQ2LTJESHhScml1OFZRNW1SaXR5cXNqR3NKdEY1WDVaSEdJMDdjZE9qTmhmajFaZDE0SEk3RTdzRHl00gGOAUFVX3lxTE15SXRJT0sydmZvWmFZbElMU09EUTBoSS1nbWh1YkNlcVItOHByXzZTTENoZU8yLXZOa3VfejZQZ19hNmNSUEVHbUp1MElZckxyYllxVDNBb3FJVHFNeDV5V3FkV19hMTBZdmQ4YXZjc0JMUFNSbGNXbnpMdE1uc2x5TmEwUHlLRFVhMXZCMkE?oc=5\" target=\"_blank\">Novo Nordisk ends deal with Hims & Hers over sales of Wegovy copycats; HIMS drops 34%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+    "ai_summary": "Novo Nordisk ends deal with Hims & Hers over sales of Wegovy copycats; HIMS drops 34% - CNBC. <a href=\"https://news. google.",
     "company_type": "competitor",
     "content_source": "original_summary",
     "detected_entities": [
       {
-        "text": "FDA Launches AI Experiment to",
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Hims & Hers",
+        "label": "ORG",
+        "start": 28,
+        "end": 39
+      },
+      {
+        "text": "Wegovy",
+        "label": "ORG",
+        "start": 54,
+        "end": 60
+      },
+      {
+        "text": "HIMS",
+        "label": "ORG",
+        "start": 71,
+        "end": 75
+      },
+      {
+        "text": "34%",
+        "label": "PERCENT",
+        "start": 82,
+        "end": 85
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 97,
+        "end": 126
+      },
+      {
+        "text": "Nordisk",
+        "label": "ORG",
+        "start": 551,
+        "end": 558
+      },
+      {
+        "text": "Hims & Hers",
+        "label": "ORG",
+        "start": 574,
+        "end": 585
+      },
+      {
+        "text": "Wegovy",
+        "label": "ORG",
+        "start": 600,
+        "end": 606
+      },
+      {
+        "text": "HIMS",
+        "label": "ORG",
+        "start": 617,
+        "end": 621
+      },
+      {
+        "text": "34%</a>&nbsp;&nbsp;<font",
+        "label": "CARDINAL",
+        "start": 628,
+        "end": 652
+      }
+    ],
+    "category": "Strategy and Management"
+  },
+  {
+    "title": "Hims & Hers stock plunges after Novo Nordisk ends Wegovy direct sales deal - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdnBoYXZfR3lOU05WOGhVcTJCX05YWWJoTUxBSi1INUlGRTlBU296THdwcUR2TWY4bkZ2NW5XUHl5RHl6d3VLN19XNktvNzVXVkxOX2QzeUZMR3hfZW94X1hZUjZkaTFhRTdRVHVqWTc5cklseGxFWTZ0dV9PU3c4Nm9oakVwUUpsZjJ0X3kzMjJVQ2tlOElQVmkweTlPMllKM2plSHcwc29yLS1NSlRPQUNhdWZNOFNsd0o0?oc=5",
+    "published": "Mon, 23 Jun 2025 20:15:13 GMT",
+    "source": "Yahoo Finance",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdnBoYXZfR3lOU05WOGhVcTJCX05YWWJoTUxBSi1INUlGRTlBU296THdwcUR2TWY4bkZ2NW5XUHl5RHl6d3VLN19XNktvNzVXVkxOX2QzeUZMR3hfZW94X1hZUjZkaTFhRTdRVHVqWTc5cklseGxFWTZ0dV9PU3c4Nm9oakVwUUpsZjJ0X3kzMjJVQ2tlOElQVmkweTlPMllKM2plSHcwc29yLS1NSlRPQUNhdWZNOFNsd0o0?oc=5\" target=\"_blank\">Hims & Hers stock plunges after Novo Nordisk ends Wegovy direct sales deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+    "ai_summary": "Hims & Hers stock plunges after Novo Nordisk ends Wegovy direct sales deal - Yahoo Finance. Hims & Hers share price falls by more than 10% after news of the deal was announced. The stock is now trading at around $4.50.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Hims & Hers",
         "label": "ORG",
         "start": 0,
-        "end": 29
+        "end": 11
       },
       {
-        "text": "Streamline Drug Reviews",
-        "label": "ORG",
-        "start": 30,
-        "end": 53
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 32,
+        "end": 44
       },
       {
-        "text": "Novo Nordisk Faces Rising Competition",
+        "text": "Wegovy",
         "label": "ORG",
-        "start": 57,
+        "start": 50,
+        "end": 56
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 95,
+        "end": 124
+      },
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 449,
+        "end": 461
+      },
+      {
+        "text": "Wegovy",
+        "label": "ORG",
+        "start": 467,
+        "end": 473
+      },
+      {
+        "text": "deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+        "label": "ORG",
+        "start": 487,
+        "end": 549
+      }
+    ],
+    "category": "Strategy and Management"
+  },
+  {
+    "title": "LifeMD stock rises on continued Wegovy partnership with Novo Nordisk - Investing.com",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZE1uNG5iQS1FT2pBeGRIQmFtNU9LWUZrQWNqQ016Q1BVTFZjNDd3WEs5MG1NeENMYk1XUnhLMU9RdFlXNlZ4ZVdVaDZDR2pGY0xTejhsaFlTWHBWMzFhcE5zUUl3aDVEVUlHakVpdXhiNDhYM0d0Tm1acDdLSmRFczFoSW1SYkk5Qmp0algybzE2cGlMa3hwNFh0SHZ6cEtGaE5LakFkUVdjYmRjTHdqT0haYU4tT211cVg4YUl6SktBemVUYlZJY1pR?oc=5",
+    "published": "Thu, 26 Jun 2025 15:45:00 GMT",
+    "source": "Investing.com",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNZE1uNG5iQS1FT2pBeGRIQmFtNU9LWUZrQWNqQ016Q1BVTFZjNDd3WEs5MG1NeENMYk1XUnhLMU9RdFlXNlZ4ZVdVaDZDR2pGY0xTejhsaFlTWHBWMzFhcE5zUUl3aDVEVUlHakVpdXhiNDhYM0d0Tm1acDdLSmRFczFoSW1SYkk5Qmp0algybzE2cGlMa3hwNFh0SHZ6cEtGaE5LakFkUVdjYmRjTHdqT0haYU4tT211cVg4YUl6SktBemVUYlZJY1pR?oc=5\" target=\"_blank\">LifeMD stock rises on continued Wegovy partnership with Novo Nordisk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+    "ai_summary": "LifeMD stock rises on continued Wegovy partnership with Novo Nordisk - Investing.com. LifeMD stock is a subsidiary of Danish drug giant Novo-Nordisk, which is owned by GlaxoSmithKline and Baxalta.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Wegovy",
+        "label": "ORG",
+        "start": 32,
+        "end": 38
+      },
+      {
+        "text": "Novo Nordisk - Investing.com",
+        "label": "PERSON",
+        "start": 56,
+        "end": 84
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 89,
+        "end": 118
+      },
+      {
+        "text": "CBMiygFBVV95cUxNZE1uNG5iQS1FT2pBeGRIQmFtNU9LWUZrQWNqQ016Q1BVTFZjNDd3WEs5MG1NeENMYk1XUnhLMU9RdFlXNlZ4ZVdVaDZDR2pGY0xTejhsaFlTWHBWMzFhcE5zUUl3aDVEVUlHakVpdXhiNDhYM0d0Tm1acDdLSmRFczFoSW1SYkk5Qmp0algybzE2cGlMa3hwNFh0SHZ6cEtGaE5LakFkUVdjYmRjTHdqT0haYU4tT211cVg4YUl6SktBemVUYlZJY1pR?oc=5",
+        "label": "ORG",
+        "start": 132,
+        "end": 413
+      },
+      {
+        "text": "target=\"_blank\">LifeMD",
+        "label": "ORG",
+        "start": 415,
+        "end": 437
+      },
+      {
+        "text": "Wegovy",
+        "label": "ORG",
+        "start": 463,
+        "end": 469
+      },
+      {
+        "text": "Novo",
+        "label": "PERSON",
+        "start": 487,
+        "end": 491
+      }
+    ],
+    "category": "Strategy and Management"
+  },
+  {
+    "title": "Novo Nordisk says WeightWatchers will sell Wegovy, announces $299 price - MarketScreener",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQ0dpaGJUWWtCb3dCUGdjemY0cXVBTDg0RzBNQnh1Z2hCX3k2dlRIUV9nbUozSTVMNEdiNzVfSElfWnc0QlNCWTZ2V0ZtZXBOckdjTXZhUWhpSEcweDByR1p4WmdBelRVY1FxRlkzTmk4bzFqTlhPRzE3ejREeHVWbDNralF3ZnZQTVQ3dTIzQlViYWw5SE15RTFiajR5OFg0OUF6YVpsbDF0UEVLSnVOSGE0THZVOE54RDB6ZGZwNVdmOFk5UDJEX29tWlM2b3plZWJZT1dnVEtvTW9mSTNzLWMxN2xHYUk?oc=5",
+    "published": "Thu, 26 Jun 2025 16:58:10 GMT",
+    "source": "MarketScreener",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQ0dpaGJUWWtCb3dCUGdjemY0cXVBTDg0RzBNQnh1Z2hCX3k2dlRIUV9nbUozSTVMNEdiNzVfSElfWnc0QlNCWTZ2V0ZtZXBOckdjTXZhUWhpSEcweDByR1p4WmdBelRVY1FxRlkzTmk4bzFqTlhPRzE3ejREeHVWbDNralF3ZnZQTVQ3dTIzQlViYWw5SE15RTFiajR5OFg0OUF6YVpsbDF0UEVLSnVOSGE0THZVOE54RDB6ZGZwNVdmOFk5UDJEX29tWlM2b3plZWJZT1dnVEtvTW9mSTNzLWMxN2xHYUk?oc=5\" target=\"_blank\">Novo Nordisk says WeightWatchers will sell Wegovy, announces $299 price</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketScreener</font>",
+    "ai_summary": "Novo Nordisk says WeightWatchers will sell Wegovy, announces $299 price - MarketScreener. Novo Nordisk say WeightWAtchers will sale Wegovys for $299 a box. Wegovies have been around for more than 100 years.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "WeightWatchers",
+        "label": "ORG",
+        "start": 18,
+        "end": 32
+      },
+      {
+        "text": "Wegovy",
+        "label": "ORG",
+        "start": 43,
+        "end": 49
+      },
+      {
+        "text": "299",
+        "label": "MONEY",
+        "start": 62,
+        "end": 65
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 93,
+        "end": 122
+      },
+      {
+        "text": "Nordisk",
+        "label": "ORG",
+        "start": 479,
+        "end": 486
+      },
+      {
+        "text": "WeightWatchers",
+        "label": "ORG",
+        "start": 492,
+        "end": 506
+      },
+      {
+        "text": "Wegovy",
+        "label": "ORG",
+        "start": 517,
+        "end": 523
+      },
+      {
+        "text": "299",
+        "label": "MONEY",
+        "start": 536,
+        "end": 539
+      }
+    ],
+    "category": "Strategy and Management"
+  },
+  {
+    "title": "Hims & Hers stock plummets after Novo Nordisk ends partnership over \u2018knockoff\u2019 Wegovy - Fast Company",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRFUzcUktY0dCTzBKSUwtWXFkRnE5WE9NV0VTZGlSYVBHaVlVa29odnlZbXhLSXRzcXNaeWc4REtONFlxY2Y5bFk3czYwOEpkTDVwLW9odVlaeFU1aDBMUjBnRUpWMnFjaGZwRWl5NDZCNmtsTHgxYVJJQjlXeWxVMGtnWm9iU1VrMTFnY0RaekhtY0RNMGdldkliS2VFRU0tWkROdkdGNC1GWm11ZGt2cXloOExLallsRm0w?oc=5",
+    "published": "Mon, 23 Jun 2025 18:35:50 GMT",
+    "source": "Fast Company",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRFUzcUktY0dCTzBKSUwtWXFkRnE5WE9NV0VTZGlSYVBHaVlVa29odnlZbXhLSXRzcXNaeWc4REtONFlxY2Y5bFk3czYwOEpkTDVwLW9odVlaeFU1aDBMUjBnRUpWMnFjaGZwRWl5NDZCNmtsTHgxYVJJQjlXeWxVMGtnWm9iU1VrMTFnY0RaekhtY0RNMGdldkliS2VFRU0tWkROdkdGNC1GWm11ZGt2cXloOExLallsRm0w?oc=5\" target=\"_blank\">Hims & Hers stock plummets after Novo Nordisk ends partnership over \u2018knockoff\u2019 Wegovy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fast Company</font>",
+    "ai_summary": "Hims & Hers stock plummets after Novo Nordisk ends partnership over \u2018knockoff\u2019 Wegovy - Fast Company. <a href=\"https://news. google.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Hims & Hers",
+        "label": "ORG",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 33,
+        "end": 45
+      },
+      {
+        "text": "Wegovy - Fast Company",
+        "label": "ORG",
+        "start": 79,
+        "end": 100
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 105,
+        "end": 134
+      },
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 460,
+        "end": 472
+      }
+    ],
+    "category": "Strategy and Management"
+  },
+  {
+    "title": "Hims & Hers Stock Plunges as Novo Nordisk Abruptly Ends Partnership - Barron's",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWkxjWnlsQUk2YnRTTGVKVWpLRFh3VDZnZjNFMWFzOGg0Nk91Z3c3ZS14bVFZbnBfRUhDV3JFenNFYXhnRFpFMWtHaHdWSmdQQVZmcXkwM1NwMmJ0TFduOV9Ubk1nRFdDZkhCU0pIeXhvQWRFUEJqMjhhcnV1TG11UUVxSQ?oc=5",
+    "published": "Mon, 23 Jun 2025 18:06:00 GMT",
+    "source": "Barron's",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOWkxjWnlsQUk2YnRTTGVKVWpLRFh3VDZnZjNFMWFzOGg0Nk91Z3c3ZS14bVFZbnBfRUhDV3JFenNFYXhnRFpFMWtHaHdWSmdQQVZmcXkwM1NwMmJ0TFduOV9Ubk1nRFdDZkhCU0pIeXhvQWRFUEJqMjhhcnV1TG11UUVxSQ?oc=5\" target=\"_blank\">Hims & Hers Stock Plunges as Novo Nordisk Abruptly Ends Partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+    "ai_summary": "Hims & Hers Stock Plunges as Novo Nordisk Abruptly Ends Partnership. Barron's: Hims & Hers stock plummets as Nordisk ends its partnership with the drugmaker. Novo says it will continue to make drugs for diabetes and other conditions.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Hims & Hers Stock Plunges",
+        "label": "ORG",
+        "start": 0,
+        "end": 25
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 83,
+        "end": 112
+      },
+      {
+        "text": "target=\"_blank\">Hims & Hers Stock Plunges",
+        "label": "ORG",
+        "start": 315,
+        "end": 356
+      }
+    ],
+    "category": "Strategy and Management"
+  },
+  {
+    "title": "Hims & Hers on track for biggest drop ever after Novo Nordisk ends partnership - Sherwood News",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOE14eEgxY09YbVV4alRxTF9KLUlNR2hQbUpvOVQxTDEzTEVFSXVBaFRHSFJ6dXRubVJrX0d0QWxSb1F6RzBkQXJZQWlIX19QcXdfeU05ZjZCR1NhUGdiTVdGUjNqNFp0M1hYbkFjMTZ1dTVnTVctZGczbzlLNFpJU2ZlZURBb1ktTW9LRXkyZXV5U2pUdkRpZUxpdGJiUQ?oc=5",
+    "published": "Mon, 23 Jun 2025 17:41:42 GMT",
+    "source": "Sherwood News",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPOE14eEgxY09YbVV4alRxTF9KLUlNR2hQbUpvOVQxTDEzTEVFSXVBaFRHSFJ6dXRubVJrX0d0QWxSb1F6RzBkQXJZQWlIX19QcXdfeU05ZjZCR1NhUGdiTVdGUjNqNFp0M1hYbkFjMTZ1dTVnTVctZGczbzlLNFpJU2ZlZURBb1ktTW9LRXkyZXV5U2pUdkRpZUxpdGJiUQ?oc=5\" target=\"_blank\">Hims & Hers on track for biggest drop ever after Novo Nordisk ends partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sherwood News</font>",
+    "ai_summary": "Hims & Hers on track for biggest drop ever after Novo Nordisk ends partnership. Sherwood News. Hims & Hers is a partnership of Sherwood Newspapers, a division of The Associated Press. The company is owned by Danish drug giant Novo-Nordisk.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Hims & Hers",
+        "label": "ORG",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 49,
+        "end": 61
+      },
+      {
+        "text": "Sherwood News",
+        "label": "ORG",
+        "start": 81,
         "end": 94
       },
       {
         "text": "href=\"https://news.google.com",
         "label": "ORG",
-        "start": 138,
-        "end": 167
+        "start": 99,
+        "end": 128
       },
       {
-        "text": "Streamline Drug Reviews",
+        "text": "target=\"_blank\">Hims & Hers",
+        "label": "WORK_OF_ART",
+        "start": 367,
+        "end": 394
+      },
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 432,
+        "end": 444
+      },
+      {
+        "text": "color=\"#6f6f6f\">Sherwood News</font",
+        "label": "PERSON",
+        "start": 483,
+        "end": 518
+      }
+    ],
+    "category": "ESG and Sustainability"
+  },
+  {
+    "title": "Novo Nordisk says WeightWatchers will sell Wegovy, announces $299 price - MarketScreener",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbGZuMEwzMDdUSktoNmMyZG9fVXdnS3k4Y1pPTGhzWXRqSXpWUTRWZ0E5ak5WdXVJS3VFbnRRQW9XbTRjeUgwcUxVNUttc3E2bzJsWmVTS3RDYlZYamE0dUZlNlp0WVB6VWhad2VvcnMxblZJZ0RFWGV0ZjluWmZGVkNCY0ZRQTVjWlhIWmlWR016TmFQTUhtb3FHd1c2MnNoMHNKYnBBTzdWRHlOUHc4ZERNOTJFZHJyQzR3QTR1QmR3YVJDVWxxdHFDeEdyMFoybnpBckZleW5INDFiQm5hU2FVYzZRRkk?oc=5",
+    "published": "Thu, 26 Jun 2025 16:58:12 GMT",
+    "source": "MarketScreener",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbGZuMEwzMDdUSktoNmMyZG9fVXdnS3k4Y1pPTGhzWXRqSXpWUTRWZ0E5ak5WdXVJS3VFbnRRQW9XbTRjeUgwcUxVNUttc3E2bzJsWmVTS3RDYlZYamE0dUZlNlp0WVB6VWhad2VvcnMxblZJZ0RFWGV0ZjluWmZGVkNCY0ZRQTVjWlhIWmlWR016TmFQTUhtb3FHd1c2MnNoMHNKYnBBTzdWRHlOUHc4ZERNOTJFZHJyQzR3QTR1QmR3YVJDVWxxdHFDeEdyMFoybnpBckZleW5INDFiQm5hU2FVYzZRRkk?oc=5\" target=\"_blank\">Novo Nordisk says WeightWatchers will sell Wegovy, announces $299 price</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketScreener</font>",
+    "ai_summary": "Novo Nordisk says WeightWatchers will sell Wegovy, announces $299 price - MarketScreener. Novo Nordisk say WeightWAtchers will sale Wegovys for $299 a box. Wegovies have been around for more than 100 years.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "WeightWatchers",
         "label": "ORG",
-        "start": 534,
-        "end": 557
+        "start": 18,
+        "end": 32
       },
       {
-        "text": "Novo Nordisk Faces Rising Competition in",
+        "text": "Wegovy",
         "label": "ORG",
-        "start": 561,
-        "end": 601
+        "start": 43,
+        "end": 49
       },
       {
-        "text": "Obesity",
-        "label": "GPE",
-        "start": 602,
-        "end": 609
+        "text": "299",
+        "label": "MONEY",
+        "start": 62,
+        "end": 65
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 93,
+        "end": 122
+      },
+      {
+        "text": "Nordisk",
+        "label": "ORG",
+        "start": 479,
+        "end": 486
+      },
+      {
+        "text": "WeightWatchers",
+        "label": "ORG",
+        "start": 492,
+        "end": 506
+      },
+      {
+        "text": "Wegovy",
+        "label": "ORG",
+        "start": 517,
+        "end": 523
+      },
+      {
+        "text": "299",
+        "label": "MONEY",
+        "start": 536,
+        "end": 539
       }
     ],
     "category": "Strategy and Management"
   },
   {
-    "title": "Novo Nordisk Reclaims Top Spot in Europe by Market Value - Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVVJiNW9fSU5MU0Vib3FleWNHcjctZjlQX2lPRTZNcGFqY3JPdjYzWHFCdkh3NFNFRm1nMUoybXlnOXpEWDdLZnd1c0I3SFVIcmNKcV80dFBxSF9EczhxMG44aHcwbGNTTHZSekc3bmdBc1p4TDBvMWxZcF82b1pzczZ3?oc=5",
-    "published": "Tue, 17 Jun 2025 17:48:08 GMT",
-    "source": "Yahoo Finance",
-    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNVVJiNW9fSU5MU0Vib3FleWNHcjctZjlQX2lPRTZNcGFqY3JPdjYzWHFCdkh3NFNFRm1nMUoybXlnOXpEWDdLZnd1c0I3SFVIcmNKcV80dFBxSF9EczhxMG44aHcwbGNTTHZSekc3bmdBc1p4TDBvMWxZcF82b1pzczZ3?oc=5\" target=\"_blank\">Novo Nordisk Reclaims Top Spot in Europe by Market Value</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-    "ai_summary": "Novo Nordisk Reclaims Top Spot in Europe by Market Value - Yahoo Finance. Novo Nordisk is a Danish drug manufacturer. The company has been around for more than 100 years. It is one of the biggest drug producers in the world.",
+    "title": "Novo Nordisk (NVO) Partners with WeightWatchers for Wegovy Distribution - GuruFocus",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaElwMC1DTWZjcDRjcmUwelJiaXdOODdkQ0ZWLUpqT0s0VU9VTFphdUhyUl8xTTNjM0NudmZuRzNQY1hBN1BZeTdGTGl3eGZkZjJPRFdYSmZlQ3F5LVlzdllZNW9IcXFOZDFXaFFuMldmTXNYT2FEeVV4TnpWZWdzY3FjZ0w5WFRLRXNDUVE5U3Y2WllqWXJZM1FEc0dTam1qYWRTY0JGNmJ5M3p4?oc=5",
+    "published": "Thu, 26 Jun 2025 16:57:10 GMT",
+    "source": "GuruFocus",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPaElwMC1DTWZjcDRjcmUwelJiaXdOODdkQ0ZWLUpqT0s0VU9VTFphdUhyUl8xTTNjM0NudmZuRzNQY1hBN1BZeTdGTGl3eGZkZjJPRFdYSmZlQ3F5LVlzdllZNW9IcXFOZDFXaFFuMldmTXNYT2FEeVV4TnpWZWdzY3FjZ0w5WFRLRXNDUVE5U3Y2WllqWXJZM1FEc0dTam1qYWRTY0JGNmJ5M3p4?oc=5\" target=\"_blank\">Novo Nordisk (NVO) Partners with WeightWatchers for Wegovy Distribution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+    "ai_summary": "Novo Nordisk (NVO) Partners with WeightWatchers for Wegovy Distribution - GuruFocus. Novo Nordisk is a leading Danish drugmaker. The company has been in business for more than 40 years. It is currently the world's second largest drugmaker after Novo.",
     "company_type": "competitor",
     "content_source": "original_summary",
     "detected_entities": [
       {
-        "text": "Novo Nordisk Reclaims Top Spot",
+        "text": "Novo Nordisk",
         "label": "PERSON",
         "start": 0,
+        "end": 12
+      },
+      {
+        "text": "WeightWatchers",
+        "label": "ORG",
+        "start": 33,
+        "end": 47
+      },
+      {
+        "text": "Wegovy Distribution - GuruFocus",
+        "label": "ORG",
+        "start": 52,
+        "end": 83
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 88,
+        "end": 117
+      },
+      {
+        "text": "Nordisk (NVO) Partners",
+        "label": "ORG",
+        "start": 395,
+        "end": 417
+      },
+      {
+        "text": "WeightWatchers",
+        "label": "ORG",
+        "start": 423,
+        "end": 437
+      },
+      {
+        "text": "Wegovy",
+        "label": "ORG",
+        "start": 442,
+        "end": 448
+      }
+    ],
+    "category": "Strategy and Management"
+  },
+  {
+    "title": "Novo Nordisk advances early-stage obesity medication, amycretin, to phase 3 clinical development based on early-phase clinical trial results in people with obesity or excess weight, published in The Lancet - PR Newswire",
+    "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNbnE2Tmw0TEFRU1RRYU5XRzBfNllhbUwtUUtJb3FyWExJM3hib2l0Y1E0QzN2Q0ZjWi1UVWNGMVBzbEc2am9pQkpCdEYxQnR6cHdOQkF1dm5aR0lZSmRYWk92T3Z0TzJHTnFPcFhPSG1xekhHUmRhX29BME83eDZQTmp3Y3dFZnhobzJFdG9JS0p2anlENVJEanNGM1hBZ0FmOGZqTG9UWm16eUdVUkRWeHIzZFo5UXRnUVdKTFdvNnY0S1dUN2lYbHlBWlRIc3hqOHVxcktBbjF3Z2h6dXNhQWIySHByYlA2WEtabml4M00zT1Z5RGZIbUg2WnBYMUNEX0c0WmVBUlVCcWpvb1RudVVsaDFvNUpzbFRvWGNhY05RLVFsdDlNVnF5R1d4UVhBd3R4YlhwNWJpQnhFN0I0QjMwaXVSTjh5TUJmenhDdkdVak54bE1CWXlRY05VUXRDaWZyYlFtaTdtdktDWWdLN2U3RlU?oc=5",
+    "published": "Fri, 20 Jun 2025 23:30:00 GMT",
+    "source": "PR Newswire",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AJBVV95cUxNbnE2Tmw0TEFRU1RRYU5XRzBfNllhbUwtUUtJb3FyWExJM3hib2l0Y1E0QzN2Q0ZjWi1UVWNGMVBzbEc2am9pQkpCdEYxQnR6cHdOQkF1dm5aR0lZSmRYWk92T3Z0TzJHTnFPcFhPSG1xekhHUmRhX29BME83eDZQTmp3Y3dFZnhobzJFdG9JS0p2anlENVJEanNGM1hBZ0FmOGZqTG9UWm16eUdVUkRWeHIzZFo5UXRnUVdKTFdvNnY0S1dUN2lYbHlBWlRIc3hqOHVxcktBbjF3Z2h6dXNhQWIySHByYlA2WEtabml4M00zT1Z5RGZIbUg2WnBYMUNEX0c0WmVBUlVCcWpvb1RudVVsaDFvNUpzbFRvWGNhY05RLVFsdDlNVnF5R1d4UVhBd3R4YlhwNWJpQnhFN0I0QjMwaXVSTjh5TUJmenhDdkdVak54bE1CWXlRY05VUXRDaWZyYlFtaTdtdktDWWdLN2U3RlU?oc=5\" target=\"_blank\">Novo Nordisk advances early-stage obesity medication, amycretin, to phase 3 clinical development based on early-phase clinical trial results in people with obesity or excess weight, published in The Lancet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+    "ai_summary": "",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 74,
+        "end": 75
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 224,
+        "end": 253
+      },
+      {
+        "text": "Nordisk",
+        "label": "ORG",
+        "start": 798,
+        "end": 805
+      },
+      {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 867,
+        "end": 868
+      }
+    ],
+    "category": "Strategy and Management"
+  },
+  {
+    "title": "Novo Nordisk (NVO) Expands Wegovy Access Through WeightWatchers Partnership | NVO Stock News - GuruFocus",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcjNrb1NnTi0tWGFxTXNEdVpENkpER2p5RTd0RHl2azBGSDZhU2dLQkhDcWJZQjVjWURJdnd6aFI0WFBLQW5kanFzYURYOTNXaFpJSVFleDNNSlNpLVVHRzkwYnRUTDE5TmFiaE1VVi1meElISGRsSGhCYVdTdjc4OEhGai1tNEFqT0s2QVFKNG5LNW1ralJjVGRpblFwdTcydHh1VmVmT0loX0YtVlFXaHhUMGV0a1F3ZDJ6ZlhXcnpBSjNjdFE?oc=5",
+    "published": "Thu, 26 Jun 2025 15:45:18 GMT",
+    "source": "GuruFocus",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPcjNrb1NnTi0tWGFxTXNEdVpENkpER2p5RTd0RHl2azBGSDZhU2dLQkhDcWJZQjVjWURJdnd6aFI0WFBLQW5kanFzYURYOTNXaFpJSVFleDNNSlNpLVVHRzkwYnRUTDE5TmFiaE1VVi1meElISGRsSGhCYVdTdjc4OEhGai1tNEFqT0s2QVFKNG5LNW1ralJjVGRpblFwdTcydHh1VmVmT0loX0YtVlFXaHhUMGV0a1F3ZDJ6ZlhXcnpBSjNjdFE?oc=5\" target=\"_blank\">Novo Nordisk (NVO) Expands Wegovy Access Through WeightWatchers Partnership | NVO Stock News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+    "ai_summary": "Novo Nordisk (NVO) Expands Wegovy Access Through WeightWatchers Partnership. NVO Stock News - GuruFocus.com. Novo Nordisk: We're expanding our Weight Watchers partnership with the government.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 109,
+        "end": 138
+      },
+      {
+        "text": "Nordisk (NVO",
+        "label": "ORG",
+        "start": 451,
+        "end": 463
+      }
+    ],
+    "category": "Strategy and Management"
+  },
+  {
+    "title": "Novo Nordisk Obesity Shot Tied to Greater Weight Loss at Lower Doses - Bloomberg",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYVg2YTAyd3BBSmVXNGw3VFB5VUxzME9TejZlTWdDeHNiQjJCNG5KYk40YmFqZkhWY0lUaDgyWC1TTFRTVUJ5T0dCaGVweEVTZ0NydnZXNklyUUFsSDRycXY4cWk5VUNhaElMaFhMZXZSSFgzVE5wemlLNkRxcVlHUFdwdG5LSGVsTG1UN1VvUmUzWlhuM012c2tUQng2NUtnbnpPMkNNc0JaSlVpLTEtZ0pQd21WbzlCcGFkaGV5eFc?oc=5",
+    "published": "Mon, 23 Jun 2025 07:22:18 GMT",
+    "source": "Bloomberg",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYVg2YTAyd3BBSmVXNGw3VFB5VUxzME9TejZlTWdDeHNiQjJCNG5KYk40YmFqZkhWY0lUaDgyWC1TTFRTVUJ5T0dCaGVweEVTZ0NydnZXNklyUUFsSDRycXY4cWk5VUNhaElMaFhMZXZSSFgzVE5wemlLNkRxcVlHUFdwdG5LSGVsTG1UN1VvUmUzWlhuM012c2tUQng2NUtnbnpPMkNNc0JaSlVpLTEtZ0pQd21WbzlCcGFkaGV5eFc?oc=5\" target=\"_blank\">Novo Nordisk Obesity Shot Tied to Greater Weight Loss at Lower Doses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+    "ai_summary": "Novo Nordisk Obesity Shot Tied to Greater Weight Loss at Lower Doses. Novo Nordisk obesity shot tied to greater weight loss at lower dosages. Bloomberg.com: Obesity shot linked to greater Weight loss at higher doses.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Lower Doses - Bloomberg",
+        "label": "FAC",
+        "start": 57,
+        "end": 80
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 85,
+        "end": 114
+      },
+      {
+        "text": "Nordisk Obesity Shot Tied",
+        "label": "ORG",
+        "start": 419,
+        "end": 444
+      }
+    ],
+    "category": "Strategy and Management"
+  },
+  {
+    "title": "Hims & Hers Stock Plunges 30% as Novo Nordisk Ends Partnership, Citing 'Illegal' Practices - Investopedia",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUWxFX0V0VmwzZjFFWUg5VWVoMHpqcGZZaGMtZTVkdEdXZkpOSF9fSzZlNDAtOE1sWXYzUThTdlJUbjB0S2Z2dUFZUVh5eE1NdmZVeDJubnJTcDdFY1hRbkVXcjZYcEdFbFFzRlFieGdOd2dzXzRUNzJ1SzJHX2ZtWVM2NjhwbnJFYjkyLV96OFpkNmp4R3ZmOEVwV2pIcGQtZVRWWmY1eVdRbXlKbnQ4WC1PRHo2dWE4eUx1aTlTODhaR0QwUXM5LWVnblBNUkU?oc=5",
+    "published": "Mon, 23 Jun 2025 16:18:17 GMT",
+    "source": "Investopedia",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOUWxFX0V0VmwzZjFFWUg5VWVoMHpqcGZZaGMtZTVkdEdXZkpOSF9fSzZlNDAtOE1sWXYzUThTdlJUbjB0S2Z2dUFZUVh5eE1NdmZVeDJubnJTcDdFY1hRbkVXcjZYcEdFbFFzRlFieGdOd2dzXzRUNzJ1SzJHX2ZtWVM2NjhwbnJFYjkyLV96OFpkNmp4R3ZmOEVwV2pIcGQtZVRWWmY1eVdRbXlKbnQ4WC1PRHo2dWE4eUx1aTlTODhaR0QwUXM5LWVnblBNUkU?oc=5\" target=\"_blank\">Hims & Hers Stock Plunges 30% as Novo Nordisk Ends Partnership, Citing 'Illegal' Practices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>",
+    "ai_summary": "Hims & Hers Stock Plunges 30% as Novo Nordisk Ends Partnership, Citing 'Illegal' Practices - Investopedia. Hims & Hers stock plummets 30% in one day. Novo Nordic ends partnership with Hims and Hers, citing 'illegal' practices.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Hims & Hers Stock Plunges",
+        "label": "ORG",
+        "start": 0,
+        "end": 25
+      },
+      {
+        "text": "30%",
+        "label": "PERCENT",
+        "start": 26,
+        "end": 29
+      },
+      {
+        "text": "Novo Nordisk Ends Partnership",
+        "label": "ORG",
+        "start": 33,
+        "end": 62
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 110,
+        "end": 139
+      },
+      {
+        "text": "30%",
+        "label": "PERCENT",
+        "start": 485,
+        "end": 488
+      },
+      {
+        "text": "Novo Nordisk Ends Partnership",
+        "label": "ORG",
+        "start": 492,
+        "end": 521
+      }
+    ],
+    "category": "Strategy and Management"
+  },
+  {
+    "title": "Hims & Hers stock plunges after Novo Nordisk ends its brief partnership - Business Insider",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX3VGb2c0VVNBcHRfU3ZJUklRaFJDdnZTM2xHY25ZN3RYOE1aTkQ5R0F4Zm1CZUkzNS1Ld3VjX2ViMU5oYnBkNmJKd2EzMncwY2hBbTFZRjZKSFNjUl9EeEJlWi15RW0zVnNNU1R2OG41MXBaUGFjZGFtNjVmcHFQQlJhRU1SS0gtNWcwRGI3ZlE0V3NKMEIxR3lSd1I3enVTM0RJai1lTHFkQ2sydEE?oc=5",
+    "published": "Tue, 24 Jun 2025 03:24:00 GMT",
+    "source": "Business Insider",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNX3VGb2c0VVNBcHRfU3ZJUklRaFJDdnZTM2xHY25ZN3RYOE1aTkQ5R0F4Zm1CZUkzNS1Ld3VjX2ViMU5oYnBkNmJKd2EzMncwY2hBbTFZRjZKSFNjUl9EeEJlWi15RW0zVnNNU1R2OG41MXBaUGFjZGFtNjVmcHFQQlJhRU1SS0gtNWcwRGI3ZlE0V3NKMEIxR3lSd1I3enVTM0RJai1lTHFkQ2sydEE?oc=5\" target=\"_blank\">Hims & Hers stock plunges after Novo Nordisk ends its brief partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+    "ai_summary": "Hims & Hers stock plunges after Novo Nordisk ends its brief partnership. Business Insider: Hims & Hers Stock plunges After Nordisk Ends Its Partnership with Hims&Hers. The two companies will continue to work together in the future.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Hims & Hers",
+        "label": "ORG",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 32,
+        "end": 44
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 95,
+        "end": 124
+      },
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 432,
+        "end": 444
+      }
+    ],
+    "category": "Strategy and Management"
+  },
+  {
+    "title": "New Novo Nordisk drug could beat market leaders for weight loss, early results show - Financial Times",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JdDF3aVFsUkNic09pNmxGdGlWZXpoTk9Cdzd0Z2cwbjVpZmpsZTd3dUxmNkxCclJNVWtxSFNlYjg4RHBBQkNEQnZSaEdmOFI3WXhSeGRCeDdOa3g3dnZfcVJKMGsxR3J6bkx0ZWxPUlQ?oc=5",
+    "published": "Fri, 20 Jun 2025 23:30:02 GMT",
+    "source": "Financial Times",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9JdDF3aVFsUkNic09pNmxGdGlWZXpoTk9Cdzd0Z2cwbjVpZmpsZTd3dUxmNkxCclJNVWtxSFNlYjg4RHBBQkNEQnZSaEdmOFI3WXhSeGRCeDdOa3g3dnZfcVJKMGsxR3J6bkx0ZWxPUlQ?oc=5\" target=\"_blank\">New Novo Nordisk drug could beat market leaders for weight loss, early results show</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+    "ai_summary": "New Novo Nordisk drug could beat market leaders for weight loss, early results show - Financial Times. New drug could be available in the U.S. by the end of the year. It is expected to cost about $1,000 per patient.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Financial Times",
+        "label": "ORG",
+        "start": 86,
+        "end": 101
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 106,
+        "end": 135
+      }
+    ],
+    "category": "Strategy and Management"
+  },
+  {
+    "title": "Hims & Hers shares plummet 35% as Novo Nordisk pulls partnership plug - Pharmaceutical Technology",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdlBDV2hQQVN3SDdoVjZiN29JeFpZaVFvN3hQMl9KZTFKVzVvRm96Q0JqbXlZblhXdW5HdTdGMDdiYTh2V1N2eUN6X1U1Z18tOEM4TVRRaXEyb1l2a0JxTW9Vc2ZYS1RqZG5DZjdnOTBDNTRQcWMwdGNkMl9uV2dKLWNjUURvYnhGYWZrZGlfa0Jlc1NyNVMzWmg4eEJZM0VqNFRGYXV0Zzc4dHg2ODlYcXdPQTY?oc=5",
+    "published": "Tue, 24 Jun 2025 10:41:15 GMT",
+    "source": "Pharmaceutical Technology",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQdlBDV2hQQVN3SDdoVjZiN29JeFpZaVFvN3hQMl9KZTFKVzVvRm96Q0JqbXlZblhXdW5HdTdGMDdiYTh2V1N2eUN6X1U1Z18tOEM4TVRRaXEyb1l2a0JxTW9Vc2ZYS1RqZG5DZjdnOTBDNTRQcWMwdGNkMl9uV2dKLWNjUURvYnhGYWZrZGlfa0Jlc1NyNVMzWmg4eEJZM0VqNFRGYXV0Zzc4dHg2ODlYcXdPQTY?oc=5\" target=\"_blank\">Hims & Hers shares plummet 35% as Novo Nordisk pulls partnership plug</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pharmaceutical Technology</font>",
+    "ai_summary": "Hims & Hers shares plummet 35% as Novo Nordisk pulls partnership plug - Pharmaceutical Technology. Hims and Hers shares fall 35% in one day. Novo Nordic pulls partnership with\u00a0Pharmaceutical\u00a0Technology. Pharmaceutical\u00a0Technology\u00a0is a joint venture between\u00a0Novo Nordisk and\u00a0Pfizer.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Hims & Hers",
+        "label": "ORG",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "35%",
+        "label": "PERCENT",
+        "start": 27,
         "end": 30
       },
       {
-        "text": "Europe",
-        "label": "LOC",
+        "text": "Novo Nordisk",
+        "label": "PERSON",
         "start": 34,
+        "end": 46
+      },
+      {
+        "text": "plug - Pharmaceutical Technology",
+        "label": "ORG",
+        "start": 65,
+        "end": 97
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 102,
+        "end": 131
+      },
+      {
+        "text": "35%",
+        "label": "PERCENT",
+        "start": 442,
+        "end": 445
+      },
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 449,
+        "end": 461
+      }
+    ],
+    "category": "Strategy and Management"
+  },
+  {
+    "title": "Novo Nordisk ties up with WeightWatchers to sell Wegovy - MarketScreener",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMlFFWnpMWWZVOGUwbmdnd1NnZTcxanlsOUdDVHhUOXJpSVRMT19mZEU0WHY3dzJyYTRJR1RJWmpLc1FuZnRxaUJRVF9faThCc0lZc0YzMm1VcjF6aVAyVjI5ak13RzQ2Y0QxQkIxNEx3aFFsdmh6LXRxTkxVRUtiT01QYXNWcjBzY2dHcHU4X3NHR2prZ1Z3aXl4RWppNnFfb3ozTFQ1S3YyQ0hUazFleWdhd0FleDdwYnJzdHhNY09JajNLaTNpZmtzMVlZVkRfczJMZQ?oc=5",
+    "published": "Thu, 26 Jun 2025 15:30:11 GMT",
+    "source": "MarketScreener",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMlFFWnpMWWZVOGUwbmdnd1NnZTcxanlsOUdDVHhUOXJpSVRMT19mZEU0WHY3dzJyYTRJR1RJWmpLc1FuZnRxaUJRVF9faThCc0lZc0YzMm1VcjF6aVAyVjI5ak13RzQ2Y0QxQkIxNEx3aFFsdmh6LXRxTkxVRUtiT01QYXNWcjBzY2dHcHU4X3NHR2prZ1Z3aXl4RWppNnFfb3ozTFQ1S3YyQ0hUazFleWdhd0FleDdwYnJzdHhNY09JajNLaTNpZmtzMVlZVkRfczJMZQ?oc=5\" target=\"_blank\">Novo Nordisk ties up with WeightWatchers to sell Wegovy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketScreener</font>",
+    "ai_summary": "Novo Nordisk ties up with WeightWatchers to sell Wegovy - MarketScreener. Novo Nordisk tied up with weightwatchers to sold Wegovi. Novos Nordisk to sell the Wegovic brand of insulin.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "WeightWatchers",
+        "label": "ORG",
+        "start": 26,
         "end": 40
+      },
+      {
+        "text": "Wegovy - MarketScreener",
+        "label": "PERSON",
+        "start": 49,
+        "end": 72
       },
       {
         "text": "href=\"https://news.google.com",
@@ -334,102 +1595,96 @@
         "end": 106
       },
       {
-        "text": "Nordisk Reclaims Top Spot",
-        "label": "PERSON",
-        "start": 328,
-        "end": 353
+        "text": "Nordisk",
+        "label": "ORG",
+        "start": 438,
+        "end": 445
       },
       {
-        "text": "Europe",
-        "label": "LOC",
-        "start": 357,
-        "end": 363
-      },
-      {
-        "text": "Market",
-        "label": "GPE",
-        "start": 367,
-        "end": 373
+        "text": "WeightWatchers",
+        "label": "ORG",
+        "start": 459,
+        "end": 473
       }
     ],
     "category": "Strategy and Management"
   },
   {
-    "title": "Novo Nordisk focused on biotech deals for cardiometabolic indications - Seeking Alpha",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY0hiajBkRktBQkRSMFJhV3A0cnhsaU9LZXdOSS1QQU9Gb2dxbUZwWGdTSjFMZGxvNFAtTF9kenhoNXRmaTVDUlVxeGg0ZmtXS0paT01sejJXbENDUTdaLUZDOUIyeFVjRmZtOEtjc1h3UHdENFVJVWhhY2RPc3ZWNkdMcVhLRW93Ty1INGFaXzZKV1dyNlRfRl9yQzVSN1VLdXc?oc=5",
-    "published": "Tue, 17 Jun 2025 21:37:00 GMT",
-    "source": "Seeking Alpha",
-    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOY0hiajBkRktBQkRSMFJhV3A0cnhsaU9LZXdOSS1QQU9Gb2dxbUZwWGdTSjFMZGxvNFAtTF9kenhoNXRmaTVDUlVxeGg0ZmtXS0paT01sejJXbENDUTdaLUZDOUIyeFVjRmZtOEtjc1h3UHdENFVJVWhhY2RPc3ZWNkdMcVhLRW93Ty1INGFaXzZKV1dyNlRfRl9yQzVSN1VLdXc?oc=5\" target=\"_blank\">Novo Nordisk focused on biotech deals for cardiometabolic indications</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-    "ai_summary": "Novo Nordisk focused on biotech deals for cardiometabolic indications - Seeking Alpha. Novo Nordisk is a leading maker of insulin and other insulin-like growth factor receptor (IGR) products. The company is also a leading producer of insulin for the central nervous system.",
+    "title": "Hims & Hers Stock Plunges 35% as Novo Nordisk Ends Partnership, Citing 'Illegal' Practices - Investopedia",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZDJKM0tXRUp6eHlkRENlM3FCSy1DNndKZ3Z4RUl0cUpCZGd6UFFxZGx2d05hRUJRODFVaDN2a0VQeFBqeUhiZmZIMlFybVFlb3lOUVd0cjhXcnJoWDBHNnZkaGpCM2hXMXZFa2ttUHEyb2VVZlhLY2l6bG5JNXcwOUdnMklENmgxTnR2elFNUDdMeTJocUY5dWxQbEpjYnQ1dkRYSUlDbU9WZFB1empGdVc0Y2ZBTVN2N194RzFqbmc3MUNvMTJBRlZRQzZwY0V2YkxackwwdDI?oc=5",
+    "published": "Mon, 23 Jun 2025 16:18:17 GMT",
+    "source": "Investopedia",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZDJKM0tXRUp6eHlkRENlM3FCSy1DNndKZ3Z4RUl0cUpCZGd6UFFxZGx2d05hRUJRODFVaDN2a0VQeFBqeUhiZmZIMlFybVFlb3lOUVd0cjhXcnJoWDBHNnZkaGpCM2hXMXZFa2ttUHEyb2VVZlhLY2l6bG5JNXcwOUdnMklENmgxTnR2elFNUDdMeTJocUY5dWxQbEpjYnQ1dkRYSUlDbU9WZFB1empGdVc0Y2ZBTVN2N194RzFqbmc3MUNvMTJBRlZRQzZwY0V2YkxackwwdDI?oc=5\" target=\"_blank\">Hims & Hers Stock Plunges 35% as Novo Nordisk Ends Partnership, Citing 'Illegal' Practices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>",
+    "ai_summary": "Hims & Hers Stock Plunges 35% as Novo Nordisk Ends Partnership, Citing 'Illegal' Practices. Investopedia: Hims & Hers stock drops 35% on news of Novo's exit. Novo says it is ending its partnership with Hims and Hers.",
     "company_type": "competitor",
     "content_source": "original_summary",
     "detected_entities": [
       {
-        "text": "Novo Nordisk",
-        "label": "PERSON",
+        "text": "Hims & Hers Stock Plunges",
+        "label": "ORG",
         "start": 0,
-        "end": 12
+        "end": 25
       },
       {
-        "text": "Seeking Alpha",
-        "label": "PERSON",
-        "start": 72,
-        "end": 85
+        "text": "35%",
+        "label": "PERCENT",
+        "start": 26,
+        "end": 29
+      },
+      {
+        "text": "Novo Nordisk Ends Partnership",
+        "label": "ORG",
+        "start": 33,
+        "end": 62
       },
       {
         "text": "href=\"https://news.google.com",
         "label": "ORG",
-        "start": 90,
-        "end": 119
+        "start": 110,
+        "end": 139
       },
       {
-        "text": "CBMiogFBVV95cUxOY0hiajBkRktBQkRSMFJhV3A0cnhsaU9LZXdOSS1QQU9Gb2dxbUZwWGdTSjFMZGxvNFAtTF9kenhoNXRmaTVDUlVxeGg0ZmtXS0paT01sejJXbENDUTdaLUZDOUIyeFVjRmZtOEtjc1h3UHdENFVJVWhhY2RPc3ZWNkdMcVhLRW93Ty1INGFaXzZKV1dyNlRfRl9yQzVSN1VLdXc?oc=5",
-        "label": "GPE",
-        "start": 133,
-        "end": 361
-      },
-      {
-        "text": "Nordisk",
+        "text": "CBMi2AFBVV95cUxOZDJKM0tXRUp6eHlkRENlM3FCSy1DNndKZ3Z4RUl0cUpCZGd6UFFxZGx2d05hRUJRODFVaDN2a0VQeFBqeUhiZmZIMlFybVFlb3lOUVd0cjhXcnJoWDBHNnZkaGpCM2hXMXZFa2ttUHEyb2VVZlhLY2l6bG5JNXcwOUdnMklENmgxTnR2elFNUDdMeTJocUY5dWxQbEpjYnQ1dkRYSUlDbU9WZFB1empGdVc0Y2ZBTVN2N194RzFqbmc3MUNvMTJBRlZRQzZwY0V2YkxackwwdDI?oc=5",
         "label": "ORG",
-        "start": 384,
-        "end": 391
+        "start": 153,
+        "end": 453
+      },
+      {
+        "text": "target=\"_blank\">Hims & Hers Stock Plunges",
+        "label": "ORG",
+        "start": 455,
+        "end": 496
+      },
+      {
+        "text": "35%",
+        "label": "PERCENT",
+        "start": 497,
+        "end": 500
+      },
+      {
+        "text": "Novo Nordisk Ends Partnership",
+        "label": "ORG",
+        "start": 504,
+        "end": 533
       }
     ],
     "category": "Strategy and Management"
   },
   {
-    "title": "Novo Nordisk finds Deep Apple ripe for obesity R&D, inking $812M deal to go beyond incretins - Fierce Biotech",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTlB5OXlsbzJTWWpoVHJHN2MyS3FRMVZBODBieXJfVjlZRE5LTmRxTnQ1OW9jajg1eVNJLUNzdGRiX0V3eUdaVnBLN1N4NlItTTMwUlNsemVka3ZucmR1MFJMbFRaRWtPdDhsTVdMejdJRmlEd1BJWm9Td3NnZXFfVU5kRnBBRTJSVlp5V1dpSS1HSXl3STVvWXBlSEdZTWtMSGtINzliTDFYQ0prR2Z6cF9LdVFsVFdFSE9JVg?oc=5",
-    "published": "Wed, 11 Jun 2025 11:00:00 GMT",
-    "source": "Fierce Biotech",
-    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQTlB5OXlsbzJTWWpoVHJHN2MyS3FRMVZBODBieXJfVjlZRE5LTmRxTnQ1OW9jajg1eVNJLUNzdGRiX0V3eUdaVnBLN1N4NlItTTMwUlNsemVka3ZucmR1MFJMbFRaRWtPdDhsTVdMejdJRmlEd1BJWm9Td3NnZXFfVU5kRnBBRTJSVlp5V1dpSS1HSXl3STVvWXBlSEdZTWtMSGtINzliTDFYQ0prR2Z6cF9LdVFsVFdFSE9JVg?oc=5\" target=\"_blank\">Novo Nordisk finds Deep Apple ripe for obesity R&amp;D, inking $812M deal to go beyond incretins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fierce Biotech</font>",
-    "ai_summary": "Novo Nordisk finds Deep Apple ripe for obesity R&D, inking $812M deal to go beyond incretins - Fierce Biotech. <a href=\"https://news. google.",
+    "title": "Novo Nordisk Has Ended Its Wegovy Deal With Hims & Hers: Here's What Investors Need to Know - The Motley Fool",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWnlUSk1OTDliQUJyNGN1Yzc0N0Z3NlJsS0t1NzFTRDJja0oxbk5QWUhQWEtBVkl0UFpMV0ZXRkplbVJGZTZXeFdVN1MzdGRVRDF4TkQ1R0NZejVPcS1oWVNUWHFyc1hJU3NaOGwydkIyX3JSaVNUb29ZRWI5MzU3QjY0OFlObTBpU0VB?oc=5",
+    "published": "Tue, 24 Jun 2025 09:51:00 GMT",
+    "source": "The Motley Fool",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWnlUSk1OTDliQUJyNGN1Yzc0N0Z3NlJsS0t1NzFTRDJja0oxbk5QWUhQWEtBVkl0UFpMV0ZXRkplbVJGZTZXeFdVN1MzdGRVRDF4TkQ1R0NZejVPcS1oWVNUWHFyc1hJU3NaOGwydkIyX3JSaVNUb29ZRWI5MzU3QjY0OFlObTBpU0VB?oc=5\" target=\"_blank\">Novo Nordisk Has Ended Its Wegovy Deal With Hims & Hers: Here's What Investors Need to Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+    "ai_summary": "Novo Nordisk Has Ended Its Wegovy Deal With Hims & Hers: Here's What Investors Need to Know - The Motley Fool. Novo Nordisk has been a top-ranked drugmaker for more than a decade.",
     "company_type": "competitor",
     "content_source": "original_summary",
     "detected_entities": [
       {
-        "text": "Novo Nordisk",
+        "text": "Novo Nordisk Has Ended",
         "label": "PERSON",
         "start": 0,
-        "end": 12
-      },
-      {
-        "text": "Deep Apple",
-        "label": "PERSON",
-        "start": 19,
-        "end": 29
-      },
-      {
-        "text": "$812M",
-        "label": "MONEY",
-        "start": 59,
-        "end": 64
-      },
-      {
-        "text": "Fierce Biotech",
-        "label": "PERSON",
-        "start": 95,
-        "end": 109
+        "end": 22
       },
       {
         "text": "href=\"https://news.google.com",
@@ -438,45 +1693,21 @@
         "end": 143
       },
       {
-        "text": "CBMivAFBVV95cUxQTlB5OXlsbzJTWWpoVHJHN2MyS3FRMVZBODBieXJfVjlZRE5LTmRxTnQ1OW9jajg1eVNJLUNzdGRiX0V3eUdaVnBLN1N4NlItTTMwUlNsemVka3ZucmR1MFJMbFRaRWtPdDhsTVdMejdJRmlEd1BJWm9Td3NnZXFfVU5kRnBBRTJSVlp5V1dpSS1HSXl3STVvWXBlSEdZTWtMSGtINzliTDFYQ0prR2Z6cF9LdVFsVFdFSE9JVg?oc=5",
-        "label": "PERSON",
-        "start": 157,
-        "end": 420
-      },
-      {
-        "text": "Nordisk",
+        "text": "Nordisk Has Ended Its Wegovy Deal With Hims & Hers",
         "label": "ORG",
-        "start": 443,
-        "end": 450
-      },
-      {
-        "text": "Deep Apple",
-        "label": "PERSON",
-        "start": 457,
-        "end": 467
-      },
-      {
-        "text": "$812M",
-        "label": "MONEY",
-        "start": 501,
-        "end": 506
-      },
-      {
-        "text": "incretins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fierce Biotech</font",
-        "label": "PERSON",
-        "start": 525,
-        "end": 592
+        "start": 377,
+        "end": 427
       }
     ],
     "category": "Strategy and Management"
   },
   {
-    "title": "Novo Nordisk starts new CagriSema weightloss drug trial - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNDFsUXJJV1BFWjIzc2tWNmJaUVJXelNDel9lY2ZHMm10SFdjZk10eVVOcHpCMHc0SFNya2l2OE9rRW51bTVfMHlTR2czRmFSQm1qdm9RRkdvc1RSQm1pWExoN3QzODZYOXFISTlVRkUtaTJtckt1Mm1qd0poeDk2TjF6QmtrdTMtUU8wWnRoamI5OWxqU0g2WC1iR0NpVnFxbHJPaXM1WXg2elZNTzRKdkJGOXNuRnJHc084cXFheVYzcjNNbVE?oc=5",
-    "published": "Tue, 10 Jun 2025 17:01:43 GMT",
-    "source": "Reuters",
-    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPNDFsUXJJV1BFWjIzc2tWNmJaUVJXelNDel9lY2ZHMm10SFdjZk10eVVOcHpCMHc0SFNya2l2OE9rRW51bTVfMHlTR2czRmFSQm1qdm9RRkdvc1RSQm1pWExoN3QzODZYOXFISTlVRkUtaTJtckt1Mm1qd0poeDk2TjF6QmtrdTMtUU8wWnRoamI5OWxqU0g2WC1iR0NpVnFxbHJPaXM1WXg2elZNTzRKdkJGOXNuRnJHc084cXFheVYzcjNNbVE?oc=5\" target=\"_blank\">Novo Nordisk starts new CagriSema weightloss drug trial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-    "ai_summary": "Novo Nordisk starts new CagriSema weightloss drug trial - Reuters. Novo Nordisk is a leading manufacturer of insulin and other insulin-like growth factor receptor (IGR) agonists. The trial is expected to last at least six months.",
+    "title": "Novo Nordisk ends partnership with Hims & Hers over Wegovy copycats - The Hill",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdDVzdnp2VGZsV0ZZMGl5QW93WTUzbWh0d1VWSWdscDlGVTFBMk9heHVIRWFnbkVHMkxRR1VSSkdEMUcyWHN2Z0p5SVBfdkZPeDlmWjA1Wm1BbUZZUlFlMU1yRGFCUktBaHI5RktEam5BMFJxQnRnUU5XN1ZkSURVWXRLWEpOUdIBiwFBVV95cUxNb1lfUms5cDFVZjI1dlpCVWM3NUlhV2ZaMmFXY3dia3hiSzhXNnZpNXdwNF9zS0RGbFZWNjlNSS1iWGxUQVR2RkJ1S3M0X2NHZmppd3Vtc3FUdzlUQlJBOGhtSk5EUVl0NFRnMWp2WXo2OGU4ajFYYW05RHZfNThndTE5VVV2X29oajNj?oc=5",
+    "published": "Mon, 23 Jun 2025 18:19:00 GMT",
+    "source": "The Hill",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNdDVzdnp2VGZsV0ZZMGl5QW93WTUzbWh0d1VWSWdscDlGVTFBMk9heHVIRWFnbkVHMkxRR1VSSkdEMUcyWHN2Z0p5SVBfdkZPeDlmWjA1Wm1BbUZZUlFlMU1yRGFCUktBaHI5RktEam5BMFJxQnRnUU5XN1ZkSURVWXRLWEpOUdIBiwFBVV95cUxNb1lfUms5cDFVZjI1dlpCVWM3NUlhV2ZaMmFXY3dia3hiSzhXNnZpNXdwNF9zS0RGbFZWNjlNSS1iWGxUQVR2RkJ1S3M0X2NHZmppd3Vtc3FUdzlUQlJBOGhtSk5EUVl0NFRnMWp2WXo2OGU4ajFYYW05RHZfNThndTE5VVV2X29oajNj?oc=5\" target=\"_blank\">Novo Nordisk ends partnership with Hims & Hers over Wegovy copycats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>",
+    "ai_summary": "Novo Nordisk ends partnership with Hims & Hers over Wegovy copycats - The Hill. Novo Nordisk end partnership with Hems & Hers. The Hill is a website for people who want to know more about their local government. Click here for more information.",
     "company_type": "competitor",
     "content_source": "original_summary",
     "detected_entities": [
@@ -487,40 +1718,670 @@
         "end": 12
       },
       {
-        "text": "CagriSema",
+        "text": "Hims & Hers",
         "label": "ORG",
-        "start": 24,
-        "end": 33
+        "start": 35,
+        "end": 46
       },
       {
-        "text": "Reuters",
+        "text": "Wegovy",
+        "label": "PERSON",
+        "start": 52,
+        "end": 58
+      },
+      {
+        "text": "Hill",
         "label": "ORG",
-        "start": 58,
-        "end": 65
+        "start": 74,
+        "end": 78
       },
       {
         "text": "href=\"https://news.google.com",
         "label": "ORG",
-        "start": 70,
-        "end": 99
-      },
-      {
-        "text": "CBMixgFBVV95cUxPNDFsUXJJV1BFWjIzc2tWNmJaUVJXelNDel9lY2ZHMm10SFdjZk10eVVOcHpCMHc0SFNya2l2OE9rRW51bTVfMHlTR2czRmFSQm1qdm9RRkdvc1RSQm1pWExoN3QzODZYOXFISTlVRkUtaTJtckt1Mm1qd0poeDk2TjF6QmtrdTMtUU8wWnRoamI5OWxqU0g2WC1iR0NpVnFxbHJPaXM1WXg2elZNTzRKdkJGOXNuRnJHc084cXFheVYzcjNNbVE?oc=5",
-        "label": "PERSON",
-        "start": 113,
-        "end": 389
+        "start": 83,
+        "end": 112
       },
       {
         "text": "Nordisk",
         "label": "ORG",
-        "start": 412,
-        "end": 419
+        "start": 530,
+        "end": 537
       },
       {
-        "text": "CagriSema",
+        "text": "Hims & Hers",
         "label": "ORG",
-        "start": 431,
-        "end": 440
+        "start": 560,
+        "end": 571
+      },
+      {
+        "text": "Wegovy",
+        "label": "ORG",
+        "start": 577,
+        "end": 583
+      }
+    ],
+    "category": "Strategy and Management"
+  },
+  {
+    "title": "Novo Nordisk's experimental drug results in up to 24% weight loss - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVG05VnJxTUFUSXdUQkc4eElHSUxTVnZyc3RwNXI5VmNQejhOWmdycFI4V2pxV1k2S05YbmFuenJXYmVqaWN4eUNfbWZRWlUtcTFSdmlaWDdsM1lmb2FBUnhSb2xrdWpoVTVqZDE1WlMzMU55SU40eE9MSkRETEFLUlVfblI1WE94NU8wNDdQeC1kckdIZGotVWh6SGlpVEJpUmJEckh4aXQ3RDZ3T0RFekkwX0xEZzBBMUhPeWMzaFczWGxpOVhONw?oc=5",
+    "published": "Fri, 20 Jun 2025 23:35:34 GMT",
+    "source": "Reuters",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVG05VnJxTUFUSXdUQkc4eElHSUxTVnZyc3RwNXI5VmNQejhOWmdycFI4V2pxV1k2S05YbmFuenJXYmVqaWN4eUNfbWZRWlUtcTFSdmlaWDdsM1lmb2FBUnhSb2xrdWpoVTVqZDE1WlMzMU55SU40eE9MSkRETEFLUlVfblI1WE94NU8wNDdQeC1kckdIZGotVWh6SGlpVEJpUmJEckh4aXQ3RDZ3T0RFekkwX0xEZzBBMUhPeWMzaFczWGxpOVhONw?oc=5\" target=\"_blank\">Novo Nordisk's experimental drug results in up to 24% weight loss</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+    "ai_summary": "Novo Nordisk's experimental drug results in up to 24% weight loss - Reuters. Novo Nordisk\u2019s experimental drug Results in Up To 24% Weight Loss - Reuters, according to a new report. The drug is being trialled in the U.S.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Novo Nordisk's",
+        "label": "PERSON",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "up to",
+        "label": "PERCENT",
+        "start": 44,
+        "end": 49
+      },
+      {
+        "text": "24%",
+        "label": "PERCENT",
+        "start": 50,
+        "end": 53
+      },
+      {
+        "text": "Reuters",
+        "label": "ORG",
+        "start": 68,
+        "end": 75
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 80,
+        "end": 109
+      },
+      {
+        "text": "CBMiyAFBVV95cUxNVG05VnJxTUFUSXdUQkc4eElHSUxTVnZyc3RwNXI5VmNQejhOWmdycFI4V2pxV1k2S05YbmFuenJXYmVqaWN4eUNfbWZRWlUtcTFSdmlaWDdsM1lmb2FBUnhSb2xrdWpoVTVqZDE1WlMzMU55SU40eE9MSkRETEFLUlVfblI1WE94NU8wNDdQeC1kckdIZGotVWh6SGlpVEJpUmJEckh4aXQ3RDZ3T0RFekkwX0xEZzBBMUhPeWMzaFczWGxpOVhONw?oc=5",
+        "label": "PERSON",
+        "start": 123,
+        "end": 402
+      },
+      {
+        "text": "Nordisk",
+        "label": "ORG",
+        "start": 425,
+        "end": 432
+      },
+      {
+        "text": "up to",
+        "label": "PERCENT",
+        "start": 464,
+        "end": 469
+      },
+      {
+        "text": "24%",
+        "label": "PERCENT",
+        "start": 470,
+        "end": 473
+      }
+    ],
+    "category": "Strategy and Management"
+  },
+  {
+    "title": "\u201cIt definitely came as a surprise\u201d: How the Novo Nordisk-Hims & Hers partnership epically flopped in just two months - Sherwood News",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaEljTTUzTjUyNXF6cG5kZE9UOWY2Qk04aG5hc09kaHJSUk14TDRaNHQwT2dPbUh5QkxId3l6NVRwTjJUVDI4Yjc1WXhjMmhhWFFFWjNvWjY5TTFrM2xnQTM3MURvTWRqTXU4RjdvbkZSRlE2MDBtaHpFMWxzMXhNdGZOOXB6cW11b3lfQi0zMUIxdzNoaG4td3hUOHFRNUpLckF5ZQ?oc=5",
+    "published": "Wed, 25 Jun 2025 18:19:15 GMT",
+    "source": "Sherwood News",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPaEljTTUzTjUyNXF6cG5kZE9UOWY2Qk04aG5hc09kaHJSUk14TDRaNHQwT2dPbUh5QkxId3l6NVRwTjJUVDI4Yjc1WXhjMmhhWFFFWjNvWjY5TTFrM2xnQTM3MURvTWRqTXU4RjdvbkZSRlE2MDBtaHpFMWxzMXhNdGZOOXB6cW11b3lfQi0zMUIxdzNoaG4td3hUOHFRNUpLckF5ZQ?oc=5\" target=\"_blank\">\u201cIt definitely came as a surprise\u201d: How the Novo Nordisk-Hims & Hers partnership epically flopped in just two months</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sherwood News</font>",
+    "ai_summary": "\u201cIt definitely came as a surprise\u201d: How the Novo Nordisk-Hims & Hers partnership epically flopped in just two months - Sherwood News. <a href=\"https://news. google.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "just two months",
+        "label": "DATE",
+        "start": 101,
+        "end": 116
+      },
+      {
+        "text": "Sherwood News",
+        "label": "ORG",
+        "start": 119,
+        "end": 132
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 137,
+        "end": 166
+      },
+      {
+        "text": "CBMipAFBVV95cUxPaEljTTUzTjUyNXF6cG5kZE9UOWY2Qk04aG5hc09kaHJSUk14TDRaNHQwT2dPbUh5QkxId3l6NVRwTjJUVDI4Yjc1WXhjMmhhWFFFWjNvWjY5TTFrM2xnQTM3MURvTWRqTXU4RjdvbkZSRlE2MDBtaHpFMWxzMXhNdGZOOXB6cW11b3lfQi0zMUIxdzNoaG4td3hUOHFRNUpLckF5ZQ?oc=5",
+        "label": "PERSON",
+        "start": 180,
+        "end": 411
+      },
+      {
+        "text": "just two",
+        "label": "CARDINAL",
+        "start": 530,
+        "end": 538
+      }
+    ],
+    "category": "Strategy and Management"
+  },
+  {
+    "title": "Novo Nordisk Launches Weight-Loss Drug Wegovy, Months After Lilly, in Obesity-Hit India - Bloomberg",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMGw3SVd3dEVaVnhXbHU2aUhxMW1fbjlZeWtadGdrcmZOTHpPRGpNSzlhVFVBWjFHRmZOV2RySjdiX0xJMVFKaTZjNTVOZ1dpc3oweWRYbjlJNjJhYWYzMDBMdWJuZUZlXzhyUmlSNXpBYlZsWndXQkNITUg2ajNXYnFaMXJXZWt4MW1MVmlnVDBhcGduLWs3NHNuekRfVm1KRlhKX2ZCZndic3JmbC1ybWlOeG9NR0xIQl95bDJlaTNnOEI0UDkxZ05B?oc=5",
+    "published": "Tue, 24 Jun 2025 08:12:01 GMT",
+    "source": "Bloomberg",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQMGw3SVd3dEVaVnhXbHU2aUhxMW1fbjlZeWtadGdrcmZOTHpPRGpNSzlhVFVBWjFHRmZOV2RySjdiX0xJMVFKaTZjNTVOZ1dpc3oweWRYbjlJNjJhYWYzMDBMdWJuZUZlXzhyUmlSNXpBYlZsWndXQkNITUg2ajNXYnFaMXJXZWt4MW1MVmlnVDBhcGduLWs3NHNuekRfVm1KRlhKX2ZCZndic3JmbC1ybWlOeG9NR0xIQl95bDJlaTNnOEI0UDkxZ05B?oc=5\" target=\"_blank\">Novo Nordisk Launches Weight-Loss Drug Wegovy, Months After Lilly, in Obesity-Hit India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+    "ai_summary": "Novo Nordisk Launches Weight-Loss Drug Wegovy, Months After Lilly, in Obesity-Hit India. Novo Nordisk launches weight-loss drug in India, months after Lilly's launch in the U.S.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Months",
+        "label": "DATE",
+        "start": 47,
+        "end": 53
+      },
+      {
+        "text": "Lilly",
+        "label": "ORG",
+        "start": 60,
+        "end": 65
+      },
+      {
+        "text": "Obesity-Hit",
+        "label": "GPE",
+        "start": 70,
+        "end": 81
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 104,
+        "end": 133
+      },
+      {
+        "text": "Nordisk Launches Weight-Loss Drug Wegovy",
+        "label": "ORG",
+        "start": 451,
+        "end": 491
+      },
+      {
+        "text": "Months",
+        "label": "DATE",
+        "start": 493,
+        "end": 499
+      },
+      {
+        "text": "Lilly",
+        "label": "ORG",
+        "start": 506,
+        "end": 511
+      },
+      {
+        "text": "Obesity",
+        "label": "GPE",
+        "start": 516,
+        "end": 523
+      }
+    ],
+    "category": "Strategy and Management"
+  },
+  {
+    "title": "Novo Nordisk halts Wegovy deal with Hims & Hers, triggering 31% stock drop - USA Today",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcC1rcE5Ic3NJaWtmbU1GVi1CbUI0TWdyd2hpUFVyeG1mbmpkNlJXRUJJQ0w0ckR6OV9NOWNFMjhHZTkydXhHZElUSjJmVUc4NkJUZWtUMkhEUDZ4cmlMelFmUThWdHJVa2hJdzUyc19LTVdvMEd0STB2S29JNlRONlZKX1VmNFlZM3Z6VEw0bkNsbmlUcE56eFRSWEtVY2VhTnU5RVZoN2tvZw?oc=5",
+    "published": "Mon, 23 Jun 2025 17:32:57 GMT",
+    "source": "USA Today",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcC1rcE5Ic3NJaWtmbU1GVi1CbUI0TWdyd2hpUFVyeG1mbmpkNlJXRUJJQ0w0ckR6OV9NOWNFMjhHZTkydXhHZElUSjJmVUc4NkJUZWtUMkhEUDZ4cmlMelFmUThWdHJVa2hJdzUyc19LTVdvMEd0STB2S29JNlRONlZKX1VmNFlZM3Z6VEw0bkNsbmlUcE56eFRSWEtVY2VhTnU5RVZoN2tvZw?oc=5\" target=\"_blank\">Novo Nordisk halts Wegovy deal with Hims & Hers, triggering 31% stock drop</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
+    "ai_summary": "Novo Nordisk halts Wegovy deal with Hims & Hers, triggering 31% stock drop - USA Today. Novo Nordisk: We are committed to working with the government to improve the quality of life for all of our citizens.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Wegovy",
+        "label": "ORG",
+        "start": 19,
+        "end": 25
+      },
+      {
+        "text": "Hims & Hers",
+        "label": "ORG",
+        "start": 36,
+        "end": 47
+      },
+      {
+        "text": "31%",
+        "label": "PERCENT",
+        "start": 60,
+        "end": 63
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 91,
+        "end": 120
+      },
+      {
+        "text": "Nordisk",
+        "label": "ORG",
+        "start": 396,
+        "end": 403
+      },
+      {
+        "text": "Wegovy",
+        "label": "ORG",
+        "start": 410,
+        "end": 416
+      },
+      {
+        "text": "Hims & Hers",
+        "label": "ORG",
+        "start": 427,
+        "end": 438
+      },
+      {
+        "text": "31%",
+        "label": "PERCENT",
+        "start": 451,
+        "end": 454
+      }
+    ],
+    "category": "Strategy and Management"
+  },
+  {
+    "title": "Hims & Hers CEO hits Novo Nordisk after breakup over knockoff Wegovy - Quartz",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UakFnT21oRmdQd0JySVM1dGlVV2VsWlN6MVo2cUFyVTJDQm80em1NdE9lbU56M21vZm00cmN0OEFPLVdMclAwUnQ3VnFlZHl4WGI0QlEwQXU3ektldExJWVowdFo1NkZ4eElIR2ZkQQ?oc=5",
+    "published": "Wed, 25 Jun 2025 13:54:36 GMT",
+    "source": "Quartz",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1UakFnT21oRmdQd0JySVM1dGlVV2VsWlN6MVo2cUFyVTJDQm80em1NdE9lbU56M21vZm00cmN0OEFPLVdMclAwUnQ3VnFlZHl4WGI0QlEwQXU3ektldExJWVowdFo1NkZ4eElIR2ZkQQ?oc=5\" target=\"_blank\">Hims & Hers CEO hits Novo Nordisk after breakup over knockoff Wegovy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quartz</font>",
+    "ai_summary": "Hims & Hers CEO hits Novo Nordisk after breakup over knockoff Wegovy - Quartz. Hims & Hers boss says he is 'disappointed' by the company's decision to pull out of the joint venture with Novo.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Hims & Hers",
+        "label": "ORG",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 21,
+        "end": 33
+      },
+      {
+        "text": "Wegovy - Quartz",
+        "label": "ORG",
+        "start": 62,
+        "end": 77
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 82,
+        "end": 111
+      },
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 323,
+        "end": 335
+      }
+    ],
+    "category": "Strategy and Management"
+  },
+  {
+    "title": "Novo Nordisk Backs Away From Hims & Hers Partnership - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KYldhMTV2Tk9DMDNOLUw5NGVFbEdCNWtucm9WVjlYdHRCZjdvdzFHVkpTVWxlaVJJdHdGX1E2VVAzbDNkenZxbkFPMWEwV3FkUGYtSmp0YTg3ekpCQmZwejNFdG9YS1U5YWdBaDMxMzdqdjQ0eFE2SzJjSEZsRE0?oc=5",
+    "published": "Tue, 24 Jun 2025 10:10:29 GMT",
+    "source": "Yahoo Finance",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9KYldhMTV2Tk9DMDNOLUw5NGVFbEdCNWtucm9WVjlYdHRCZjdvdzFHVkpTVWxlaVJJdHdGX1E2VVAzbDNkenZxbkFPMWEwV3FkUGYtSmp0YTg3ekpCQmZwejNFdG9YS1U5YWdBaDMxMzdqdjQ0eFE2SzJjSEZsRE0?oc=5\" target=\"_blank\">Novo Nordisk Backs Away From Hims & Hers Partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+    "ai_summary": "Novo Nordisk Backs Away From Hims & Hers Partnership - Yahoo Finance. Novo Nordisk is a Danish drug company. The company has been in business for more than 40 years. It is one of the largest drug producers in the world.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Novo Nordisk Backs Away",
+        "label": "PERSON",
+        "start": 0,
+        "end": 23
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 73,
+        "end": 102
+      }
+    ],
+    "category": "Strategy and Management"
+  },
+  {
+    "title": "Hims & Hers Health, Inc. (HIMS) Shares Crash After Novo Nordisk Cancels Partnership Over \"Deceptive\" Marketing of Wegovy, Faces Investor Scrutiny- Hagens Berman - PR Newswire",
+    "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQcVdpS2RSaUlyRjJjSzExN0h6TlpJXzlLRTl5MlI4TXJoSklJbGVFWVpaNkJWaEszNm9RVXlBS1ZjQ19IUm51c3JTNGRmNVBwN0NvZ2xtNDVlWU4xY3ZZbG9MQkc1V3Y0S1JMdy1zZHgwUEN0cDJacmZCVkIzdWs0dWlVZ0hfdDhQYkhDYzE4dDdQUXNjVXM0V0RmWnlBaDdlSVRiY01OamJ0U2hiQzRCTEw4cEppeFRzSGk1cUpHbmhLQUJ5UFN2S0psamRhSkUzdk10d0lxUDkyNmU0ak8tWnBmWG5lZGpnNV9WOUFKaWdUN19hRWx6MUYxdVp0TURlUmpUNEd2MzhLNkh0MWV2TGZuQzRrMWFNRlI1WHp3TUYzTmREQjI3U2luRUJndFRr?oc=5",
+    "published": "Wed, 25 Jun 2025 18:08:00 GMT",
+    "source": "PR Newswire",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAJBVV95cUxQcVdpS2RSaUlyRjJjSzExN0h6TlpJXzlLRTl5MlI4TXJoSklJbGVFWVpaNkJWaEszNm9RVXlBS1ZjQ19IUm51c3JTNGRmNVBwN0NvZ2xtNDVlWU4xY3ZZbG9MQkc1V3Y0S1JMdy1zZHgwUEN0cDJacmZCVkIzdWs0dWlVZ0hfdDhQYkhDYzE4dDdQUXNjVXM0V0RmWnlBaDdlSVRiY01OamJ0U2hiQzRCTEw4cEppeFRzSGk1cUpHbmhLQUJ5UFN2S0psamRhSkUzdk10d0lxUDkyNmU0ak8tWnBmWG5lZGpnNV9WOUFKaWdUN19hRWx6MUYxdVp0TURlUmpUNEd2MzhLNkh0MWV2TGZuQzRrMWFNRlI1WHp3TUYzTmREQjI3U2luRUJndFRr?oc=5\" target=\"_blank\">Hims & Hers Health, Inc. (HIMS) Shares Crash After Novo Nordisk Cancels Partnership Over \"Deceptive\" Marketing of Wegovy, Faces Investor Scrutiny- Hagens Berman</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+    "ai_summary": "Hims & Hers Health, Inc. (HIMS) Shares Crash After Novo Nordisk Cancels Partnership Over \"Deceptive\" Marketing of Wegovy, Faces Investor Scrutiny- Hagens Berman - PR Newswire. <a href=\"https://news.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Hims & Hers Health, Inc.",
+        "label": "ORG",
+        "start": 0,
+        "end": 24
+      },
+      {
+        "text": "HIMS",
+        "label": "ORG",
+        "start": 26,
+        "end": 30
+      },
+      {
+        "text": "Novo Nordisk Cancels Partnership Over \"Deceptive\" Marketing of Wegovy",
+        "label": "ORG",
+        "start": 51,
+        "end": 120
+      },
+      {
+        "text": "Scrutiny- Hagens Berman -",
+        "label": "PERSON",
+        "start": 137,
+        "end": 162
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 179,
+        "end": 208
+      },
+      {
+        "text": "target=\"_blank\">Hims & Hers Health, Inc.",
+        "label": "ORG",
+        "start": 641,
+        "end": 681
+      },
+      {
+        "text": "HIMS",
+        "label": "ORG",
+        "start": 683,
+        "end": 687
+      },
+      {
+        "text": "Novo Nordisk Cancels Partnership Over \"Deceptive\" Marketing of Wegovy",
+        "label": "ORG",
+        "start": 708,
+        "end": 777
+      },
+      {
+        "text": "Scrutiny- Hagens",
+        "label": "PERSON",
+        "start": 794,
+        "end": 810
+      }
+    ],
+    "category": "Strategy and Management"
+  },
+  {
+    "title": "Wegovy-maker Novo Nordisk abruptly ends partnership with Hims & Hers - Morning Brew",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS3o5WThWU1h5STNmVlJ2cVRGdnVyanFwUWpLU1lzQU92aGU0ZFo1Rmx0WEV3bkJySzJ5MFVYdDVMdXZFM2dwRW9lRUgxVnE2cnJuYVA0bWYyby1NalJYX205elRKMHo5MlpmejJ0Smp4cEZUNW9pbmtHTXRmUE9fMG03MDVKYWZqaEdUQUdjbw?oc=5",
+    "published": "Tue, 24 Jun 2025 08:48:45 GMT",
+    "source": "Morning Brew",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQS3o5WThWU1h5STNmVlJ2cVRGdnVyanFwUWpLU1lzQU92aGU0ZFo1Rmx0WEV3bkJySzJ5MFVYdDVMdXZFM2dwRW9lRUgxVnE2cnJuYVA0bWYyby1NalJYX205elRKMHo5MlpmejJ0Smp4cEZUNW9pbmtHTXRmUE9fMG03MDVKYWZqaEdUQUdjbw?oc=5\" target=\"_blank\">Wegovy-maker Novo Nordisk abruptly ends partnership with Hims & Hers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+    "ai_summary": "Wegovy-maker Novo Nordisk abruptly ends partnership with Hims & Hers - Morning Brew. Wegovy maker ends its partnership with Hems & Hers. The two companies will continue to work together in other ways. The news was first reported by CNN.com.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 13,
+        "end": 25
+      },
+      {
+        "text": "Hims & Hers - Morning Brew",
+        "label": "ORG",
+        "start": 57,
+        "end": 83
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 88,
+        "end": 117
+      },
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 365,
+        "end": 377
+      },
+      {
+        "text": "Hims & Hers</a>&nbsp;&nbsp;<font",
+        "label": "ORG",
+        "start": 409,
+        "end": 441
+      }
+    ],
+    "category": "Strategy and Management"
+  },
+  {
+    "title": "Novo Nordisk ends deal with Hims & Hers over sales of Wegovy copycats; HIMS drops 20% - MSN",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRExGS1hrTU1yTXdTLWZvR2I0RHhuNWRHOXFCeDFsYXJsV21uYzUyRDhOWElJMVd3QUFOc3FNV1B1U3ljeURJVG5MaU1SRkVMZnFoX09kdTlfNl9vdnlxM0NkVHl0QnBDLW5oU3Rmb0t4R3RoYUVhcFc0LVB2cnFjelVkRGRSemYyb0RxOExpRzM4Z2JPZjJReTNTQ1JCQlM2VUdMclFWZV81aHEtTkdYa0NIYmpfZktHWF9ldTA4dkFjODhYZ01kcDNTZlYzVHRWeklaVFlkTVF0MU9JSFc4R1Y1TGg5dURXd1IxOTN3MFRJelk?oc=5",
+    "published": "Wed, 25 Jun 2025 10:10:16 GMT",
+    "source": "MSN",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRExGS1hrTU1yTXdTLWZvR2I0RHhuNWRHOXFCeDFsYXJsV21uYzUyRDhOWElJMVd3QUFOc3FNV1B1U3ljeURJVG5MaU1SRkVMZnFoX09kdTlfNl9vdnlxM0NkVHl0QnBDLW5oU3Rmb0t4R3RoYUVhcFc0LVB2cnFjelVkRGRSemYyb0RxOExpRzM4Z2JPZjJReTNTQ1JCQlM2VUdMclFWZV81aHEtTkdYa0NIYmpfZktHWF9ldTA4dkFjODhYZ01kcDNTZlYzVHRWeklaVFlkTVF0MU9JSFc4R1Y1TGg5dURXd1IxOTN3MFRJelk?oc=5\" target=\"_blank\">Novo Nordisk ends deal with Hims & Hers over sales of Wegovy copycats; HIMS drops 20%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+    "ai_summary": "Novo Nordisk ends deal with Hims & Hers over sales of Wegovy copycats; HIMS drops 20% - MSN. <a href=\"https://news. google.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Hims & Hers",
+        "label": "ORG",
+        "start": 28,
+        "end": 39
+      },
+      {
+        "text": "Wegovy",
+        "label": "ORG",
+        "start": 54,
+        "end": 60
+      },
+      {
+        "text": "HIMS",
+        "label": "ORG",
+        "start": 71,
+        "end": 75
+      },
+      {
+        "text": "20% - MSN",
+        "label": "PERCENT",
+        "start": 82,
+        "end": 91
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 96,
+        "end": 125
+      },
+      {
+        "text": "Nordisk",
+        "label": "ORG",
+        "start": 498,
+        "end": 505
+      },
+      {
+        "text": "Hims & Hers",
+        "label": "ORG",
+        "start": 521,
+        "end": 532
+      },
+      {
+        "text": "Wegovy",
+        "label": "ORG",
+        "start": 547,
+        "end": 553
+      },
+      {
+        "text": "HIMS",
+        "label": "ORG",
+        "start": 564,
+        "end": 568
+      },
+      {
+        "text": "20%</a>&nbsp;&nbsp;<font",
+        "label": "CARDINAL",
+        "start": 575,
+        "end": 599
+      }
+    ],
+    "category": "Strategy and Management"
+  },
+  {
+    "title": "Novo Nordisk, Hims & Hers Deal Ends 06/26/2025 - MediaPost",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPanhxNE9xZkRMQV9wTGVPb2JlUXB3STNPTWRWSXg3ZmU3dGpZQ2hVTVh1WVJDMHo2NzRzZVJzOWpuYUdfTWI5cU4zeFBXXzVTbzhMLTBkRWtSOV9NN1VQNzF4bWx0VzZNSGJmbzVnY1FLVy1zbW5OcDNwMXpMNHFVbERkdGt0cEZUS1BERzVzVy16LXNBNEV2ZXg4TEJQR2p0TEJFT1poRTBOQQ?oc=5",
+    "published": "Thu, 26 Jun 2025 03:00:00 GMT",
+    "source": "MediaPost",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPanhxNE9xZkRMQV9wTGVPb2JlUXB3STNPTWRWSXg3ZmU3dGpZQ2hVTVh1WVJDMHo2NzRzZVJzOWpuYUdfTWI5cU4zeFBXXzVTbzhMLTBkRWtSOV9NN1VQNzF4bWx0VzZNSGJmbzVnY1FLVy1zbW5OcDNwMXpMNHFVbERkdGt0cEZUS1BERzVzVy16LXNBNEV2ZXg4TEJQR2p0TEJFT1poRTBOQQ?oc=5\" target=\"_blank\">Novo Nordisk, Hims & Hers Deal Ends 06/26/2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MediaPost</font>",
+    "ai_summary": "Novo Nordisk, Hims & Hers Deal Ends 06/26/2025 - MediaPost. Novo Nordisk,. Hims and Hers Deal ends on June 26, 2025. For confidential support call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org for details.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Hims & Hers Deal Ends 06/26/2025 - MediaPost",
+        "label": "ORG",
+        "start": 14,
+        "end": 58
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 63,
+        "end": 92
+      },
+      {
+        "text": "Nordisk, Hims & Hers Deal Ends",
+        "label": "ORG",
+        "start": 368,
+        "end": 398
+      }
+    ],
+    "category": "Strategy and Management"
+  },
+  {
+    "title": "Can Hims Recover after Novo Nordisk Diss? - Zacks Investment Research",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaVdLamhDb1dsMDdYV3pqZ1d1b01kdVdnVUdaWlROVWhXTFZncHhIbUlOVkV3eDJfQl9aeUdQc0hCQ0JaTl9OM2ZlUFFQYjFxN0p0LVdJOHNTbFkzYVZrWndXVy1oUGVYOXE3OEZmQ2pGMEx2UUczNHdQOTRDZzliUkpWaTMwaENz?oc=5",
+    "published": "Tue, 24 Jun 2025 19:44:37 GMT",
+    "source": "Zacks Investment Research",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaVdLamhDb1dsMDdYV3pqZ1d1b01kdVdnVUdaWlROVWhXTFZncHhIbUlOVkV3eDJfQl9aeUdQc0hCQ0JaTl9OM2ZlUFFQYjFxN0p0LVdJOHNTbFkzYVZrWndXVy1oUGVYOXE3OEZmQ2pGMEx2UUczNHdQOTRDZzliUkpWaTMwaENz?oc=5\" target=\"_blank\">Can Hims Recover after Novo Nordisk Diss?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zacks Investment Research</font>",
+    "ai_summary": "Can Hims Recover after Novo Nordisk Diss? - Zacks Investment Research. Can Hims recover after the drug giant's decision to exit the market? Zacks: Yes. Can Hems Recover after the Drug Giant's Decision to Dissolve? Yes.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "Can Hims Recover",
+        "label": "ORG",
+        "start": 0,
+        "end": 16
+      },
+      {
+        "text": "Novo Nordisk Diss",
+        "label": "PERSON",
+        "start": 23,
+        "end": 40
+      },
+      {
+        "text": "Zacks Investment Research",
+        "label": "ORG",
+        "start": 44,
+        "end": 69
+      },
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 74,
+        "end": 103
+      },
+      {
+        "text": "Hims Recover",
+        "label": "ORG",
+        "start": 332,
+        "end": 344
+      },
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 351,
+        "end": 363
+      },
+      {
+        "text": "color=\"#6f6f6f\">Zacks Investment Research</font>",
+        "label": "ORG",
+        "start": 391,
+        "end": 439
+      }
+    ],
+    "category": "Strategy and Management"
+  },
+  {
+    "title": "Data on Novo Nordisk experimental weight-loss drug show mostly mild side effects - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT1E4RVdSVXdRdTRRQTN6MGJKN2phVEtlTHFmejJxc3lOZ0dhNkJmdG1Kdm1zX20zWUp2Z0xsQm4xbDNRVHFiWTZnSDNibnBNaXluVkhzN2NaNURaWEdudWdSY2xzZWw2emR1ZlF2UUxNeFYyMC1iM2xRdHMzanRVU2MwZ19ZbmlkemJV?oc=5",
+    "published": "Sun, 22 Jun 2025 13:02:16 GMT",
+    "source": "Yahoo Finance",
+    "original_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT1E4RVdSVXdRdTRRQTN6MGJKN2phVEtlTHFmejJxc3lOZ0dhNkJmdG1Kdm1zX20zWUp2Z0xsQm4xbDNRVHFiWTZnSDNibnBNaXluVkhzN2NaNURaWEdudWdSY2xzZWw2emR1ZlF2UUxNeFYyMC1iM2xRdHMzanRVU2MwZ19ZbmlkemJV?oc=5\" target=\"_blank\">Data on Novo Nordisk experimental weight-loss drug show mostly mild side effects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+    "ai_summary": "Data on Novo Nordisk experimental weight-loss drug show mostly mild side effects - Yahoo Finance. Data on Novosnordisk experimental. weight- loss drug show most mild side-effects - Yahoo.com. Novos Nordisk's drug is being tested on mice and rats.",
+    "company_type": "competitor",
+    "content_source": "original_summary",
+    "detected_entities": [
+      {
+        "text": "href=\"https://news.google.com",
+        "label": "ORG",
+        "start": 101,
+        "end": 130
+      },
+      {
+        "text": "Novo Nordisk",
+        "label": "PERSON",
+        "start": 367,
+        "end": 379
+      },
+      {
+        "text": "effects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+        "label": "ORG",
+        "start": 432,
+        "end": 497
       }
     ],
     "category": "Strategy and Management"
